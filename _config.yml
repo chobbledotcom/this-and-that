@@ -1,0 +1,31 @@
+title: This & That Indian Cafe, Manchester
+description: Home of Rice & Three Curries
+baseurl: ""
+url: "https://www.thisandthatcafe.co.uk"
+
+email_address: info@thisandthatcafe.co.uk
+facebook_page: ThisAndThatManchester
+phone_number: 0161 832 4971
+address: 3 Soap St, The Northern Quarter, Manchester M4 1EW
+
+deliveroo_url: https://deliveroo.co.uk/menu/manchester/northern-quarter/this-and-that-indian-cafe
+
+env: production
+
+markdown: kramdown
+plugins_dir:
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      type: posts
+    values:
+      permalink: news/:title
+      layout: post
+  - scope:
+      path: "google65f94dc9a9e4440f.html"
+    values:
+      sitemap: false
+
+include:
+  - _redirects

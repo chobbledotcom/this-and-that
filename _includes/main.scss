@@ -1,0 +1,299 @@
+@charset "utf-8";
+// Define defaults for each variable.
+$highlight: #007e60 !default;
+$text: #3a3a3a !default;
+$header: #01785d !default;
+$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+
+@import "assets/bootstrap/functions";
+@import "assets/bootstrap/variables";
+@import "assets/bootstrap/mixins";
+//@import "assets/bootstrap/root";
+@import "assets/bootstrap/reboot";
+@import "assets/bootstrap/type";
+@import "assets/bootstrap/images";
+//@import "assets/bootstrap/code";
+@import "assets/bootstrap/grid";
+//@import "assets/bootstrap/tables";
+//@import "assets/bootstrap/forms";
+//@import "assets/bootstrap/buttons";
+//@import "assets/bootstrap/transitions";
+//@import "assets/bootstrap/dropdown";
+//@import "assets/bootstrap/button-group";
+//@import "assets/bootstrap/input-group";
+//@import "assets/bootstrap/custom-forms";
+@import "assets/bootstrap/nav";
+@import "assets/bootstrap/navbar";
+//@import "assets/bootstrap/card";
+//@import "assets/bootstrap/breadcrumb";
+//@import "assets/bootstrap/pagination";
+//@import "assets/bootstrap/badge";
+//@import "assets/bootstrap/jumbotron";
+//@import "assets/bootstrap/alert";
+//@import "assets/bootstrap/progress";
+//@import "assets/bootstrap/media";
+//@import "assets/bootstrap/list-group";
+//@import "assets/bootstrap/close";
+//@import "assets/bootstrap/modal";
+//@import "assets/bootstrap/tooltip";
+//@import "assets/bootstrap/popover";
+//@import "assets/bootstrap/carousel";@import "utilities/align";
+
+// @import "assets/bootstrap/utilities/background";
+// @import "assets/bootstrap/utilities/borders";
+// @import "assets/bootstrap/utilities/clearfix";
+// @import "assets/bootstrap/utilities/display";
+@import "assets/bootstrap/utilities/embed";
+@import "assets/bootstrap/utilities/flex";
+// @import "assets/bootstrap/utilities/float";
+@import "assets/bootstrap/utilities/position";
+// @import "assets/bootstrap/utilities/screenreaders";
+// @import "assets/bootstrap/utilities/sizing";
+// @import "assets/bootstrap/utilities/spacing";
+@import "assets/bootstrap/utilities/text";
+// @import "assets/bootstrap/utilities/visibility";
+
+@import "assets/bootstrap/print";
+
+body {
+    //background: url("/assets/background.jpg") no-repeat center center fixed;
+    //background-size: cover;
+    color: $text;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+nav {
+    font-family: /*iOS*/"AvenirNextCondensed-Regular", "Futura-CondensedMedium", /*MacOSX*/HelveticaNeue-CondensedBold, /*Ubuntu*/ "Ubuntu Condensed", "Liberation Sans Narrow",  /*Windows*/"Franklin Gothic Demi Cond", "Arial Narrow", /*Android*/sans-serif-condensed, /*Fallback*/Arial, "Trebuchet MS", "Lucida Grande", Tahoma, Verdana, sans-serif;
+    font-stretch: condensed;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+img#alley {
+    width: 100%;
+    aspect-ratio: 900 / 403;
+}
+
+hr {
+    border-top: 1px solid $text;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+nav,
+footer {
+    //background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkmAkAAJ8AmzsOXcYAAAAASUVORK5CYII=);
+    background: #eef9ee;
+}
+
+main .container {
+    background: white;
+}
+
+span.hidden-sm {
+    @include media-breakpoint-down(sm) {
+        display: none;
+    }
+}
+
+a {
+    color: #3455db;
+    text-decoration: underline;
+}
+
+.navbar {
+    a {
+        color: $header;
+        text-decoration: none;
+    }
+    .navbar-brand {
+        font-size: 130%;
+    }
+    &__link {
+        font-size: 1.2rem;
+        margin-right: 1.5rem;
+        &:hover,
+        &.active,
+        &:active {
+            color: $highlight;
+            text-decoration: none;
+        }
+    }
+    @include media-breakpoint-down(sm) {
+        text-align: center;
+
+        .container {
+            display: block;
+        }
+        &__link {
+            margin-right: 0.5rem;
+        }
+    }
+}
+
+main {
+    padding: 80px 0 90px;
+    line-height: 1.8;
+    color: $text;
+    .container {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    @include media-breakpoint-down(sm) {
+        padding-top: 100px;
+    }
+}
+
+.header {
+    border-bottom: 1px solid $text;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+
+    &__subtitle {
+        opacity: 0.7;
+        margin-left: 1rem;
+    }
+    @include media-breakpoint-down(md) {
+        text-align: center;
+
+        &__subtitle {
+            display: block;
+            font-size: 50%;
+        }
+    }
+    @include media-breakpoint-down(sm) {
+        &__subtitle {
+            font-size: 60%;
+        }
+    }
+}
+
+.margin {
+    &--top {
+        margin-top: 60px;
+    }
+    &--bottom {
+        margin-bottom: 60px;
+    }
+}
+
+hr {
+    border-top-color: #eee;
+}
+
+.page {
+    strong {
+        color: $highlight;
+    }
+    h2 {
+        padding-top: 60px;
+        padding-bottom: 10px;
+        margin-top: 0;
+        i {
+            width: 3em;
+            opacity: 0.3;
+            text-align: center;
+            font-size: 90%;
+        }
+    }
+    &--menu {
+        text-align: center;
+        em {
+            color: #1cb81c;
+            font-style: normal;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        @include media-breakpoint-down(sm) {
+            h2 {
+                padding-top: 115px;
+            }
+        }
+    }
+    @include media-breakpoint-down(sm) {
+        h1,
+        h2,
+        h3 {
+            text-align: center;
+        }
+    }
+}
+
+.embed-reviews {
+    iframe {
+        display: block;
+        border: 0;
+    }
+    .TA_selfserveprop {
+        width: 100%;
+        height: 333px;
+        overflow: hidden;
+    }
+}
+
+.social-links {
+    list-style-type: none;
+    padding: 0;
+
+    &__icon {
+        width: 2em;
+        text-align: center;
+        display: inline-block;
+        opacity: 0.7;
+        position: absolute;
+        left: 0;
+        top: 0;
+    }
+
+    &__list {
+        position: relative;
+        padding: 0 0 20px 40px;
+        min-height: 2em;
+    }
+}
+
+footer {
+    padding: 4rem 0;
+    font-size: 80%;
+    ul {
+        list-style-type: none;
+        padding-left: 0;
+    }
+}
+
+.warning-notice {
+    background: #f9eeee;
+    padding: 10px;
+    margin-bottom: 2em;
+    line-height: 1.2;
+    text-align: center;
+    border: 1px solid #a60000;
+    color: #a60000;
+}
+
+$rona: #4b5555;
+
+.coronavirus {
+    background: #eef9ee;
+    padding: 10px;
+    margin-bottom: 2em;
+    line-height: 1.2;
+    text-align: center;
+    border: 1px solid $rona;
+    color: $rona;
+
+    a {
+        color: $rona;
+        text-decoration: underline;
+        font-weight: bold;
+    }
+}

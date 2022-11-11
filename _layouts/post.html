@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<div itemscope itemtype="http://schema.org/BlogPosting">
+  <div class="header">
+    <h1 class="header__text" itemprop="heading">
+      {% if page.icon %}
+      <i class="header__icon icon-{{page.icon}}"></i>
+      {% endif %}
+      {{ page.title | escape }}
+      {% if page.subtitle %}
+      <small class="header__subtitle">
+        {{ page.subtitle }}
+      </small>
+      {% endif %}
+    </h1>
+  </div>
+  <div class="content" itemprop="articleBody">
+    <p>
+      <em datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        {{ page.date | date: date_format }}
+      </em>
+    </p>
+    {{ content }}
+  </div>
+</div>

@@ -1,0 +1,24 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% if page.layout == 'home' %}
+  <link rel="dns-prefetch" href="https://static.xx.fbcdn.net">
+  <link rel="dns-prefetch" href="https://maps.googleapis.com">
+  {% endif %}
+
+  <title>{% if page.metaTitle %}{{ page.metaTitle | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+
+  {% capture styles %}
+  {% include main.scss %}
+  {% include fontello.css %}
+  {% endcapture %}
+  <style>
+    {{ styles | scssify }}
+  </style>
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  {% include json-ld.html %}
+</head>

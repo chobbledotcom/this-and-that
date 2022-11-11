@@ -1,0 +1,20 @@
+
+<div class="header">
+	<h1 class="header__text">
+		{% if page.icon %}
+			<i class="header__icon icon-{{page.icon}}"></i>
+		{% endif %}
+		{{ page.title | escape }}
+		{% if page.subtitle %}
+			<small class="header__subtitle">
+				{{ page.subtitle }}
+			</small>
+		{% endif %}
+	</h1>
+</div>
+
+{% if page.path != 'curry-hamper-deliveries.md' %}
+	<div class="coronavirus">
+		<a href="/curry-hamper-deliveries">We're Deliveroo-ing our curries - click here for details.</a> We're also open for <strong>takeaways, dining in, and outdoor dining</strong> (weather permitting).
+	</div>
+{% endif %}
