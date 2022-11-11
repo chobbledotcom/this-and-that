@@ -7,8 +7,6 @@ Manchester
 
 [View on Google Maps](https://goo.gl/maps/xTNreANmJEz)
 
-[Order with Deliveroo]({{site.deliveroo_url}})
-
 ---
 
 #### Opening Times

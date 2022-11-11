@@ -12,11 +12,10 @@ subtitle: "A different choice each day"
 
 *Green curries* are **vegetarian** & **[vegan](/vegan-curry/)**
 
-* **Rice & 3 Veg:** £4.50
-* **Rice & 1 Meat & 2 Veg:** £5.00
-* **Rice & 2 Veg & 1 Karai:** £5.50
-* **Rice & 2 Meat & 1 Veg:** £6.00
-* **Rice & 3 Meat:** £6.50 (+50p on Sun)
+* **Rice & 3 Veg:** £6.00
+* **Rice & 1 Meat & 2 Veg:** £6.50
+* **Rice & 2 Meat & 1 Veg:** £7.00
+* **Rice & 3 Meat:** £8.00
 
 **Jump to:** [Monday](#mondays-curries) / [Tuesday](#tuesdays-curries) / [Wednesday](#wednesdays-curries) / [Thursday](#thursdays-curries) / [Friday](#fridays-curries) / [Saturday](#saturdays-curries) / [Sunday](#sundays-curries)
 
