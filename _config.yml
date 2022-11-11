@@ -15,6 +15,7 @@ env: production
 markdown: kramdown
 plugins_dir:
   - jekyll-sitemap
+  - jekyll-minifier
 
 defaults:
   - scope:
