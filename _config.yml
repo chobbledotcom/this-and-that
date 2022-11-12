@@ -13,7 +13,7 @@ deliveroo_url: https://deliveroo.co.uk/menu/manchester/northern-quarter/this-and
 env: production
 
 markdown: kramdown
-plugins_dir:
+plugins:
   - jekyll-sitemap
   - jekyll-minifier
 
