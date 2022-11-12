@@ -6,7 +6,7 @@ packages:
 sources:
   - https://git.sr.ht/~stfn/this-and-that
 environment:
-  deploy: sourcehut@stefn.co.uk
+  deploy: sourcehut@stefn.co.uk:this-and-that
 secrets:
   - 312fd5eb-95ad-4f33-9c83-fd5664236be4
 tasks:
@@ -19,5 +19,4 @@ tasks:
   - deploy: |
       cd this-and-that
       ssh_opts="-o StrictHostKeyChecking=no"
-      rsync --rsh="$sshopts" -rP _site sourcehut@stefn.co.uk:this-and-that
-
+      rsync --rsh="$sshopts" -rP _site $deploy
