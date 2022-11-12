@@ -20,4 +20,4 @@ tasks:
   - deploy: |
       cd this-and-that
       ssh_opts="ssh -o StrictHostKeyChecking=no"
-      rsync --rsh="$ssh_opts" -rP _site $deploy
+      rsync --rsh="$ssh_opts" -rP _site/ $deploy
