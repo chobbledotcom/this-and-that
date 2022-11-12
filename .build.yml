@@ -3,6 +3,7 @@ packages:
   - ruby-full
   - ruby-dev
   - nodejs
+  - rsync
 sources:
   - https://git.sr.ht/~stfn/this-and-that
 environment:
