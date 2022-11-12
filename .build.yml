@@ -19,5 +19,5 @@ tasks:
       bundle exec jekyll build
   - deploy: |
       cd this-and-that
-      ssh_opts="-o StrictHostKeyChecking=no"
+      ssh_opts="ssh -o StrictHostKeyChecking=no"
       rsync --rsh="$ssh_opts" -rP _site $deploy
