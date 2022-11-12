@@ -27,6 +27,3 @@ defaults:
       path: "google65f94dc9a9e4440f.html"
     values:
       sitemap: false
-
-include:
-  - _redirects

@@ -8,7 +8,6 @@ sources:
   - https://git.sr.ht/~stfn/this-and-that
 environment:
   deploy: sourcehut@stefn.co.uk:this-and-that
-  JEKYLL_ENV: production
 secrets:
   - 312fd5eb-95ad-4f33-9c83-fd5664236be4
 tasks:
@@ -17,7 +16,7 @@ tasks:
   - build: |
       cd this-and-that
       bundle install
-      bundle exec jekyll build
+      JEKYLL_ENV=production bundle exec jekyll build
   - deploy: |
       cd this-and-that
       ssh_opts="ssh -o StrictHostKeyChecking=no"
