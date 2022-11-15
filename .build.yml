@@ -19,5 +19,6 @@ tasks:
       cd this-and-that
       API_KEY=$(cat ~/.neocities_api_key)
       set +x
-      NEOCITIES_API_KEY=$API_KEY neocities --prune push _site
+      export NEOCITIES_API_KEY=$API_KEY
       set -x
+      neocities --prune push _site
