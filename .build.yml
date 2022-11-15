@@ -7,7 +7,7 @@ sources:
   - https://git.sr.ht/~stfn/this-and-that
 environment:
 secrets:
-  - 50ddefc9-206f-4461-b6a2-1d1a47ba9c16
+  - 1452aa84-7de8-48c1-9d7f-85e225d473b9
 tasks:
   - setup: |
       sudo gem install bundler
