@@ -1,4 +1,4 @@
-image: debian/testing
+image: alpine/edge
 packages:
   - ruby-full
   - ruby-dev
@@ -10,8 +10,8 @@ secrets:
   - d3f307bc-dba3-414b-886b-4a010ddac5f5
 tasks:
   - setup: |
-      sudo gem install bundler
-      sudo gem install neocities
+      sudo gem install --no-document bundler
+      sudo gem install --no-document neocities
   - build: |
       cd this-and-that
       bundle install
