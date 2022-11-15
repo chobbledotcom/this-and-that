@@ -7,7 +7,7 @@ sources:
   - https://git.sr.ht/~stfn/this-and-that
 environment:
 secrets:
-  - 1452aa84-7de8-48c1-9d7f-85e225d473b9
+  - e4c10149-8c4c-46aa-baae-21124e63cc9a
 tasks:
   - setup: |
       sudo gem install bundler
@@ -17,5 +17,7 @@ tasks:
       JEKYLL_ENV=production bundle exec jekyll build
   - deploy: |
       cd this-and-that
+      +x
       export NEOCITIES_API_KEY=$(cat ~/.neocities_api_key)
+      -x
       neocities --prune push _site
