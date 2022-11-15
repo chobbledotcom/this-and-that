@@ -11,6 +11,7 @@ secrets:
 tasks:
   - setup: |
       sudo gem install bundler
+      sudo gem install neocities
   - build: |
       cd this-and-that
       bundle install
