@@ -17,7 +17,4 @@ tasks:
       JEKYLL_ENV=production bundle exec jekyll build
   - deploy: |
       cd this-and-that
-      set +x
-      sh ./buildsecrets
-      set -x
-      neocities --prune push _site
+      sh ./.build.sh
