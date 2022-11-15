@@ -17,7 +17,7 @@ tasks:
       JEKYLL_ENV=production bundle exec jekyll build
   - deploy: |
       cd this-and-that
-      +x
+      set +x
       export NEOCITIES_API_KEY=$(cat ~/.neocities_api_key)
-      -x
+      set -x
       neocities --prune push _site
