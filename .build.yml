@@ -21,4 +21,4 @@ tasks:
       set +x
       export NEOCITIES_API_KEY=$(cat ~/.neocities_api_key)
       set -x
-      neocities --prune push _site
+      neocities push --prune _site
