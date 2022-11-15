@@ -3,13 +3,11 @@ packages:
   - ruby-full
   - ruby-dev
   - nodejs
-  - rsync
 sources:
   - https://git.sr.ht/~stfn/this-and-that
 environment:
-  deploy: sourcehut@stefn.co.uk:this-and-that
 secrets:
-  - 312fd5eb-95ad-4f33-9c83-fd5664236be4
+  - 50ddefc9-206f-4461-b6a2-1d1a47ba9c16
 tasks:
   - setup: |
       sudo gem install bundler
@@ -19,5 +17,7 @@ tasks:
       JEKYLL_ENV=production bundle exec jekyll build
   - deploy: |
       cd this-and-that
-      ssh_opts="ssh -o StrictHostKeyChecking=no"
-      rsync --rsh="$ssh_opts" -rP _site/ $deploy
+      set +x
+      sh ./buildsecrets
+      set -x
+      neocities --prune push _site

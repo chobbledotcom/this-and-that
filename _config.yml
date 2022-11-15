@@ -21,9 +21,14 @@ defaults:
   - scope:
       type: posts
     values:
-      permalink: news/:title
+      permalink: news/:title/
       layout: post
   - scope:
       path: "google65f94dc9a9e4440f.html"
     values:
       sitemap: false
+
+exclude:
+  - LICENSE
+  - README.md
+  - package-lock.json
