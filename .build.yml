@@ -10,7 +10,7 @@ environment:
 secrets:
   - d3f307bc-dba3-414b-886b-4a010ddac5f5
 tasks:
-  - setup:
+  - setup: |
       sudo gem install --no-document bundler
       sudo gem install --no-document neocities
   - post_setup: |
