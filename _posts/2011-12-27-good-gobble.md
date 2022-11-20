@@ -4,7 +4,7 @@ subtitle: Good Gobble
 metaTitle: Good Gobble Review of This & That Curry Cafe, Manchester
 ---
 
-Last week, I took a break from my gruelling Christmas shopping schedule to meet up for lunch with the Doyles at [This & That Café](https://www.thisandthatcafe.co.uk/) - tucked down an alley in the Northern Quarter. I'd actually wanted to try This & That out for some time - if I had a quid for every time I'd had it recommended to me, I'd have, well, at least a fiver.
+Last week, I took a break from my gruelling Christmas shopping schedule to meet up for lunch with the Doyles at [This & That Café](https://thisandthatcafe.co.uk/) - tucked down an alley in the Northern Quarter. I'd actually wanted to try This & That out for some time - if I had a quid for every time I'd had it recommended to me, I'd have, well, at least a fiver.
 
 ![](https://1.bp.blogspot.com/--RFzPbxBPf4/Tvl7gpfmLXI/AAAAAAAACRw/GA8P-Q_mNIE/s1600/doyle+in+this+and+that.jpg)
 

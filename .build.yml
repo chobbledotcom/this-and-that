@@ -1,23 +1,24 @@
-image: debian/stable
+image: alpine/edge
 packages:
   - ruby-full
   - ruby-dev
   - nodejs
-  - rsync
 sources:
   - https://git.sr.ht/~stfn/this-and-that
 environment:
-  deploy: sourcehut@stefn.co.uk:this-and-that
 secrets:
-  - 312fd5eb-95ad-4f33-9c83-fd5664236be4
+  - d3f307bc-dba3-414b-886b-4a010ddac5f5
 tasks:
   - setup: |
-      sudo gem install bundler
+      sudo gem install --no-document bundler
+      sudo gem install --no-document neocities
   - build: |
       cd this-and-that
       bundle install
       JEKYLL_ENV=production bundle exec jekyll build
   - deploy: |
       cd this-and-that
-      ssh_opts="ssh -o StrictHostKeyChecking=no"
-      rsync --rsh="$ssh_opts" -rP _site/ $deploy
+      set +x
+      export NEOCITIES_API_KEY=$(cat ~/.neocities_api_key)
+      set -x
+      neocities push --prune _site

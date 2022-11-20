@@ -1,7 +1,7 @@
 title: This & That Indian Cafe, Manchester
 description: Home of Rice & Three Curries
 baseurl: ""
-url: "https://www.thisandthatcafe.co.uk"
+url: "https://thisandthatcafe.co.uk"
 
 email_address: info@thisandthatcafe.co.uk
 facebook_page: ThisAndThatManchester
@@ -15,15 +15,19 @@ env: production
 markdown: kramdown
 plugins:
   - jekyll-sitemap
-  - jekyll-minifier
 
 defaults:
   - scope:
       type: posts
     values:
-      permalink: news/:title
+      permalink: news/:title/
       layout: post
   - scope:
       path: "google65f94dc9a9e4440f.html"
     values:
       sitemap: false
+
+exclude:
+  - LICENSE
+  - README.md
+  - package-lock.json

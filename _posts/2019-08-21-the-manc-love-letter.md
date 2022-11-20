@@ -24,6 +24,6 @@ My personal highlight is always the additional toppings you can whack on top of 
 
 This & That is located at 3 Soap Street, Manchester M4 1EW so get yourself down there - you can thank me later.
 
-You can keep up to date with what they’re doing on their [Facebook page here](https://www.facebook.com/ThisAndThatManchester/), and for the full menu and opening times head over [to their website](https://www.thisandthatcafe.co.uk/menu/).
+You can keep up to date with what they’re doing on their [Facebook page here](https://www.facebook.com/ThisAndThatManchester/), and for the full menu and opening times head over [to their website](https://thisandthatcafe.co.uk/menu/).
 
 **[Source](https://themanc.com/news/a-love-letter-to-this-that-manchesters-greatest-dinner-spot/)**
