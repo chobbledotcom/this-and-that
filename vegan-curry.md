@@ -12,8 +12,6 @@ We're proud to offer three fresh, home-style vegan curries every day of the week
 
 Our vegan curries are cooked with vegetable (not dairy) ghee, and our chapattis, bhajis and samosas are also vegan. Our naan breads are not vegan - they contain milk.
 
-[We can also deliver a vegan curry hamper](/curry-hamper-deliveries) - just ask for chapattis instead of naans!
-
 **Jump to:** [Monday](#monday) / [Tuesdays](#tuesdays) / [Wednesday](#wednesday) / [Thursday](#thursday) / [Friday](#friday) / [Saturday](#saturday) / [Sunday](#sunday)
 
 ## Monday
