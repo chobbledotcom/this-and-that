@@ -3,7 +3,7 @@ packages:
   - ruby-dev
   - nodejs
 environment:
-  repo: newbarn 
+  repo: this-and-that 
 sources:
   - https://git.sr.ht/~stfn/this-and-that
   - https://git.sr.ht/~stfn/build-scripts
