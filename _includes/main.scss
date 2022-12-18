@@ -189,8 +189,11 @@ hr {
 }
 
 .page {
-    strong {
-        color: $highlight;
+    &--home,
+    &--praise {
+        strong {
+            color: $highlight;
+        }
     }
     h2 {
         padding-top: 60px;
@@ -205,7 +208,7 @@ hr {
     }
     &--menu {
         text-align: center;
-        em {
+        em, .green {
             color: #1cb81c;
             font-style: normal;
         }

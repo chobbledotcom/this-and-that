@@ -12,18 +12,20 @@ subtitle: "A different choice each day"
 
 *Green curries* are **vegetarian** & **[vegan](/vegan-curry/)**
 
-* **Rice & 3 Veg:** £6.00
-* **Rice & 1 Meat & 2 Veg:** £6.50
-* **Rice & 2 Meat & 1 Veg:** £7.00
-* **Rice & 3 Meat:** £8.00
+<ul>
+  <li class="green"><strong>Rice &amp; 3 Veg:</strong> £6.00</li>
+  <li><strong>Rice &amp; 1 Meat &amp; 2 Veg:</strong> £6.50</li>
+  <li><strong>Rice &amp; 2 Meat &amp; 1 Veg:</strong> £7.00</li>
+  <li><strong>Rice &amp; 3 Meat:</strong> £8.00</li>
+</ul>
 
 **Jump to:** [Monday](#mondays-curries) / [Tuesday](#tuesdays-curries) / [Wednesday](#wednesdays-curries) / [Thursday](#thursdays-curries) / [Friday](#fridays-curries) / [Saturday](#saturdays-curries) / [Sunday](#sundays-curries)
 
 ## Monday's Curries
 
 * Lamb Steak
-* Lamb Turnip
-* Lamb Spinach
+* Lamb & Turnip
+* Lamb & Spinach
 * Chicken
 * Fish
 * Minced Lamb (Keema)
@@ -39,7 +41,7 @@ subtitle: "A different choice each day"
 * Chicken Masala
 * Chicken
 * Minced Lamb (Keema)
-* *Chick Peas (Chana)*
+* *Chickpeas (Chana)*
 * *Cabbage*
 * *Mixed Vegetables*
 
@@ -59,13 +61,13 @@ subtitle: "A different choice each day"
 ## Thursday's Curries
 
 * Karahi Lamb
-* Lamb Okra
+* Lamb & Okra
 * Lamb & Potato
 * Chicken
 * Minced Meat (Keema)
 * Lamb Biryani
 * *Spinach & Vegetables*
-* *Chick Peas (Chana)*
+* *Chickpeas (Chana)*
 * *Mixed Vegetables*
 
 ## Friday's Curries
@@ -84,10 +86,10 @@ subtitle: "A different choice each day"
 ## Saturday's Curries
 
 * Lamb Steak
-* Lamb Turnip
-* Lamb Spinach
+* Lamb & Turnip
+* Lamb & Spinach
 * Chicken
-* Mince Lamb (Keema)
+* Minced Lamb (Keema)
 * *Daal (Lentils)*
 * *Cauliflower & Potatoes*
 * *Cabbage*
@@ -96,8 +98,8 @@ subtitle: "A different choice each day"
 
 * Lamb Nehari
 * Chicken
-* Mince Meat (Keema)
-* *Chick Peas (Chana)*
+* Minced Meat (Keema)
+* *Chickpeas (Chana)*
 * *Bombay Potatoes*
 * *Kidney Bean & Potatoes*
 
