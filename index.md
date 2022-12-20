@@ -24,6 +24,7 @@ All food is homemade and prepared using **fresh whole spices** for an authentic 
 * Next to **Trof** in the **Northern Quarter**
 * 30 seconds from [**Shudehill Metrolink Station**](https://tfgm.com/public-transport/tram/stops/shudehill-tram)
 * [View on **Google Maps**](https://goo.gl/maps/xTNreANmJEz)
+* **What 3 Words**: [rinse.snow.bump](https://w3w.co/rinse.snow.bump)
 
 ## <i class="icon-clock"></i>Opening Times
 
@@ -34,3 +35,4 @@ All food is homemade and prepared using **fresh whole spices** for an authentic 
 [tripadvisor]: https://www.tripadvisor.co.uk/Restaurant_Review-g187069-d732222-Reviews-This_That-Manchester_Greater_Manchester_England.html
 [yelp]: https://www.yelp.co.uk/biz/this-and-that-manchester
 [zomato]: https://www.zomato.com/manchester/this-that-northern-quarter/menu
+
