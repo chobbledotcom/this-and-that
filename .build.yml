@@ -17,7 +17,7 @@ tasks:
   - build: |
       cd $repo
       sh ../build-scripts/jekyll-build
-      html-minifier --input-dir _site --output-dir _site --collapse-whitespace --file-ext html
+      sh ../build-scripts/minify-site
   - deploy: |
       cd $repo
       sh ../build-scripts/neocities-deploy $repo _site
