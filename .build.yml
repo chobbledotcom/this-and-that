@@ -2,6 +2,7 @@ image: alpine/edge
 packages:
   - ruby-dev
   - nodejs
+  - npm
 environment:
   repo: this-and-that 
 sources:
