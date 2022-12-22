@@ -12,9 +12,11 @@ secrets:
 tasks:
   - setup: |
       sudo gem install --no-document bundler neocities
+      sudo npm install html-minifier -g
   - build: |
       cd $repo
       sh ../build-scripts/jekyll-build
+      html-minifier --input-dir _site --output-dir _site --collapse-whitespace --file-ext html
   - deploy: |
       cd $repo
       sh ../build-scripts/neocities-deploy $repo _site
