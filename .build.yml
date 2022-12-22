@@ -1,4 +1,4 @@
-image: debian/stable 
+image: alpine/edge 
 packages:
   - ruby-dev
   - nodejs
