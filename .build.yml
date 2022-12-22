@@ -11,12 +11,11 @@ sources:
 secrets:
   - 4aa75533-97a7-429e-b7b0-4f9f3e564ced # ~/.neocities/$repo
 tasks:
-  - setup: |
-      sudo gem install --no-document bundler neocities
-      sudo npm install html-minifier -g
   - build: |
       cd $repo
       sh ../build-scripts/jekyll-build
+  - minify: |
+      cd $repo
       sh ../build-scripts/minify-site
   - deploy: |
       cd $repo
