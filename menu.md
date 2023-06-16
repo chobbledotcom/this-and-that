@@ -23,36 +23,37 @@ subtitle: "A different choice each day"
 
 ## Monday's Curries
 
-* Lamb Steak
-* Lamb & Turnip
+* Chicken Tikka Masala
+* Lamb & Pumpkin
 * Lamb & Spinach
-* Chicken
-* Fish
-* Minced Lamb (Keema)
+* Chicken Curry
+* Fish (early part of day)
+* Minced Meat (Keema)
 * *Daal (Lentils)*
-* *Cauliflower & Potatoes*
+* *Kidney Beans & Potatoes*
 * *Mixed Vegetables*
 
 ## Tuesday's Curries
 
 * Lamb Karahi Chops
 * Lamb & Cauliflower
-* Lamb & Pumpkin
-* Chicken Masala
-* Chicken
-* Minced Lamb (Keema)
+* Lamb & Spinacy
+* Chicken Tikka Masala
+* Chicken Curry
+* Minced Meat (Keema)
 * *Chickpeas (Chana)*
 * *Cabbage*
 * *Mixed Vegetables*
 
 ## Wednesday's Curries
 
-* Lamb Steak
-* Lamb & Split Peas
-* Chicken
+* Chicken Tikka Masala
+* Lamb & Califlower
+* Chicken Curry
 * Minced Meat (Keema)
 * Vegetable Biryani
-* Lamb & Potatoes
+* Lamb & Carrots
+* Lamb & Split Peas
 * Liver & Kidney
 * *Spinach & Potatoes*
 * *Daal (Lentils)*
@@ -60,10 +61,11 @@ subtitle: "A different choice each day"
 
 ## Thursday's Curries
 
-* Karahi Lamb
+* Lamb Karahi
+* Chicken Tikka Masala
 * Lamb & Okra
 * Lamb & Potato
-* Chicken
+* Chicken Curry
 * Minced Meat (Keema)
 * Lamb Biryani
 * *Spinach & Vegetables*
@@ -72,32 +74,34 @@ subtitle: "A different choice each day"
 
 ## Friday's Curries
 
-* Karahi Chicken
+* Chicken Tikka Masala
 * Chicken Chana
 * Lamb Korma
 * Lamb & Spinach
-* Lamb & Courgette / Carrot
-* Hot Mince
-* Mild Mince
+* Lamb & Carrot
+* Minced Meat (Keema)
 * *Daal (Lentils)*
 * *Mixed Vegetables*
 * *Bombay Potatoes*
 
 ## Saturday's Curries
 
-* Lamb Steak
-* Lamb & Turnip
+* Chicken Tikka Masala
+* Lamb & Carrot
 * Lamb & Spinach
-* Chicken
-* Minced Lamb (Keema)
+* Chicken Curry
+* Minced Meat (Keema)
+* Lamb on the Bone
 * *Daal (Lentils)*
 * *Cauliflower & Potatoes*
 * *Cabbage*
 
 ## Sunday's Curries
 
+* Chicken Tikka Masala
 * Lamb Nehari
-* Chicken
+* Lamb & Spinach
+* Chicken Curry
 * Minced Meat (Keema)
 * *Chickpeas (Chana)*
 * *Bombay Potatoes*
@@ -112,7 +116,7 @@ subtitle: "A different choice each day"
 * Kebab Naan Sandwich (small)
 * Kebab Naan Sandwich (large)
 * Paratha
-* Keema Naan
+* Keema Paratha
 * Meat Samosa
 * Vegetable Samosa
 * Onion Bhaji
@@ -120,6 +124,6 @@ subtitle: "A different choice each day"
 
 ## Soft Drinks
 
-* Plain Lassi (small / large)
 * Mango Lassi (small / large)
 * Soft drink cans
+* Water
