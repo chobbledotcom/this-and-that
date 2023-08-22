@@ -31,3 +31,5 @@ exclude:
   - LICENSE
   - README.md
   - package-lock.json
+  - shell.nix
+  - Gemfile
