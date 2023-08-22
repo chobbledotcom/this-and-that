@@ -13,10 +13,10 @@ secrets:
 tasks:
   - build: |
       cd $repo
-      sh ../build-scripts/jekyll-build
+      sudo sh ../build-scripts/jekyll-build
   - minify: |
       cd $repo
-      sh ../build-scripts/minify-site
+      sudo sh ../build-scripts/minify-site
   - deploy: |
       cd $repo
-      sh ../build-scripts/neocities-deploy $repo _site
+      sudo sh ../build-scripts/neocities-deploy $repo _site
