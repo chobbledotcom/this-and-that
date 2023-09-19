@@ -37,7 +37,7 @@ subtitle: "A different choice each day"
 
 * Lamb Karahi Chops
 * Lamb & Cauliflower
-* Lamb & Spinacy
+* Lamb & Spinach
 * Chicken Tikka Masala
 * Chicken Curry
 * Minced Meat (Keema)
