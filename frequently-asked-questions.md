@@ -14,9 +14,9 @@ We do not take bookings
 - **Can I make a reservation?**  
 We do not take reservations
 - **Do you have space for a large group?**  
-Usually - it can get busy at lunch
+Probably! It can get busy at lunch
 - **Can you cater our event?**  
-Probably - please visit the cafe to arrange
+Probably! Please visit the cafe to arrange
 
 **Dietary / Allergies**
 
