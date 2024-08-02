@@ -6,6 +6,7 @@ mkShell {
     nodejs
     nodePackages_latest.npm
     nodePackages_latest.html-minifier
+    jekyll
   ];
   shellHook = ''
     mkdir -p .nix-gems

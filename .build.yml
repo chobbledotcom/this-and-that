@@ -1,8 +1,8 @@
 image: alpine/edge 
 packages:
+  - ruby-dev
   - nodejs
   - npm
-  - rbenv
 environment:
   repo: this-and-that 
 sources:
@@ -12,8 +12,6 @@ secrets:
   - 4aa75533-97a7-429e-b7b0-4f9f3e564ced # ~/.neocities/$repo
 tasks:
   - build: |
-      rbenv install 3.2.5
-      rbenv global 3.2.5
       cd $repo
       sudo sh ../build-scripts/jekyll-build
   - minify: |
