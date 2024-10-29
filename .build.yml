@@ -1,16 +1,20 @@
-image: alpine/edge 
+image: alpine/edge
 packages:
   - ruby-dev
   - nodejs
-  - npm
+  - build-base
+  - libffi-dev
 environment:
-  repo: this-and-that 
+  repo: this-and-that
 sources:
   - https://git.sr.ht/~stfn/this-and-that
   - https://git.sr.ht/~stfn/build-scripts
 secrets:
   - 4aa75533-97a7-429e-b7b0-4f9f3e564ced # ~/.neocities/$repo
 tasks:
+  - setup: |
+      sudo apk add --no-cache build-base libffi-dev
+      sudo gem install --no-document bundler neocities
   - build: |
       cd $repo
       sudo sh ../build-scripts/jekyll-build
