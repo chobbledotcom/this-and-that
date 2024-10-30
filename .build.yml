@@ -13,6 +13,9 @@ sources:
 secrets:
   - 4aa75533-97a7-429e-b7b0-4f9f3e564ced # ~/.neocities/$repo
 tasks:
+  - setup: |
+      sudo apk add --no-cache build-base libffi-dev
+      sudo gem install --no-document bundler neocities
   - build: |
       cd $repo
       sudo sh ../build-scripts/jekyll-build
