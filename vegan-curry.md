@@ -8,7 +8,7 @@ title: "Vegan Curry"
 subtitle: "Three vegan curries every day!"
 ---
 
-We're proud to offer three fresh, home-style vegan curries every day of the week, for only £4.50 with rice! Manchester has a thriving vegan food scene covering all types of dishes, and curry is no exception. India has the world's largest vegetarian population, and having a veggie curry for lunch is a great way to get towards your 'five a day'. We've been happily serving our vegetarian and vegan customers for decades!
+We're proud to offer three fresh, home-style vegan curries every day of the week, for only £6 with rice! Manchester has a thriving vegan food scene covering all types of dishes, and curry is no exception. India has the world's largest vegetarian population, and having a veggie curry for lunch is a great way to get towards your 'five a day'. We've been happily serving our vegetarian and vegan customers for decades!
 
 Our vegan curries are cooked with vegetable (not dairy) ghee, and our chapattis, bhajis and samosas are also vegan. Our naan breads are not vegan - they contain milk.
 
