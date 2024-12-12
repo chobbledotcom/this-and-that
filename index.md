@@ -14,7 +14,7 @@ A family run business **established in 1984**, we’re one of Manchester’s fav
 
 All food is homemade and prepared using **fresh whole spices** for an authentic taste and maximum flavour.
 
-- [**Read our Menu**](/menu/)
+* [**Read our Menu**](/menu/)
 * [**Review Us** on Google Maps](http://shhhh.link/2994e)
 * [**Like Us** on Facebook](https://www.facebook.com/ThisAndThatManchester)
 * **Review us** on: [TripAdvisor][tripadvisor] / [Yelp][yelp] / [Zomato][zomato]
