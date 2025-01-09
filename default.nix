@@ -1,4 +1,6 @@
-{ pkgs ? import <nixpkgs> {} }:
+{
+  pkgs ? import <nixpkgs> { },
+}:
 
 let
   src = ./.;
@@ -13,16 +15,17 @@ in
 pkgs.stdenv.mkDerivation {
   name = "thisandthatcafe-co-uk";
 
-  src = builtins.filterSource
-    (path: type: !(builtins.elem (baseNameOf path) [
+  src = builtins.filterSource (
+    path: type:
+    !(builtins.elem (baseNameOf path) [
       "_site"
       ".jekyll-cache"
       ".git"
       "node_modules"
       "result"
       "vendor"
-    ]))
-    src;
+    ])
+  ) src;
 
   nativeBuildInputs = with pkgs; [
     ruby_3_3
@@ -39,7 +42,7 @@ pkgs.stdenv.mkDerivation {
     JEKYLL_ENV=production ${env}/bin/jekyll build --source . --destination _site --trace
 
     echo 'Minifying HTML'
-    minify --all --recursive --output . _site
+    minify --all --html-keep-document-tags --recursive --output . _site
   '';
 
   installPhase = ''
