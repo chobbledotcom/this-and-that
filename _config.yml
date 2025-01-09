@@ -8,8 +8,6 @@ facebook_page: ThisAndThatManchester
 phone_number: 0161 832 4971
 address: 3 Soap St, The Northern Quarter, Manchester M4 1EW
 
-deliveroo_url: https://deliveroo.co.uk/menu/manchester/northern-quarter/this-and-that-indian-cafe
-
 env: production
 
 markdown: kramdown
