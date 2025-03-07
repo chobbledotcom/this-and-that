@@ -21,11 +21,15 @@ jobs:
           path: /nix/store
           key: nix-${{ hashFiles('**/*.nix') }}
           restore-keys: |
-            nix-                        
-
+            nix-            
+      
       - name: Build
         id: build
-        run: nix-build
+        run: |
+          BUILD_PATH=$(nix-build --no-out-link)
+          DEPLOY_PATH="$GITHUB_WORKSPACE/dist"
+          mkdir -p "$DEPLOY_PATH"
+          cp -r "$BUILD_PATH"/* "$DEPLOY_PATH"/    
 
       - name: Deploy to neocities
         uses: bcomnes/deploy-to-neocities@v3
@@ -34,4 +38,4 @@ jobs:
           cleanup: true
           neocities_supporter: true
           preview_before_deploy: false
-          dist_dir: result
+          dist_dir: dist
