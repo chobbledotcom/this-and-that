@@ -11,7 +11,9 @@
     <br />
     <a href="/news">News / Press</a> / <a href="/reviews">Reviews</a> /
     <a href="/frequently-asked-questions">FAQs</a>
-    <br />
-    <a rel="nofollow" href="https://chobble.com/examples/this-and-that/">site by chobble.com</a>
+    {% if page.url == "/" %}
+      <br />
+      <a rel="nofollow" href="https://chobble.com/examples/this-and-that/">site by chobble.com</a>
+    {% endif %}
   </p>
 </footer>
