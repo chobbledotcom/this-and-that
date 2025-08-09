@@ -2,17 +2,16 @@
 layout: default
 ---
 
-{% include title.html %}
+{% include "title.html" %}
 <div class="row">
 	<div class="col-md-8 order-sm-1 margin--bottom">
-		<div class="page {{page.cssClass}}">
-			{{ content }}
+		<div class="page {{ cssClass }}">
+			{{ content | safe }}
 		</div>
 	</div>
 	<div class="col-md-4 order-sm-2 margin--bottom">
-		{% capture rightColumn %}{% include right-column.md %}{% endcapture %}
-		{{ rightColumn | markdownify }}
+		{% include "right-column.html" %}
 		<hr>
-		{% include social-media-links.html %}
+		{% include "social-media-links.html" %}
 	</div>
 </div>

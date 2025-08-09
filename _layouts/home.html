@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include title.html %}
+{% include "title.html" %}
 
 <div class="img-thumbnail margin--bottom">
   <img
@@ -20,7 +20,7 @@ layout: default
 
 <div class="row">
   <div class="col-md-8 page page--home margin--bottom">
-    {{ content }}
+    {{ content | safe }}
     <div class="hidden-sm embed-responsive embed-responsive-16by9 margin--top">
       <iframe
         credentialless
@@ -36,6 +36,6 @@ layout: default
     </div>
   </div>
   <div class="col-md-4">
-    {% include social-media-feeds.html %} {% include social-media-links.html %}
+    {% include "social-media-feeds.html" %} {% include "social-media-links.html" %}
   </div>
 </div>
