@@ -58,7 +58,6 @@ module.exports = function(eleventyConfig) {
     description: "Home of Rice & Three Curries",
     baseurl: "",
     url: "https://thisandthatcafe.co.uk",
-    email_address: "info@thisandthatcafe.co.uk",
     facebook_page: "ThisAndThatManchester",
     phone_number: "0161 832 4971",
     address: "3 Soap St, The Northern Quarter, Manchester M4 1EW",
