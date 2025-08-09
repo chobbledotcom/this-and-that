@@ -4,10 +4,10 @@
 		{% if icon %}
 			<i class="header__icon icon-{{ icon }}"></i>
 		{% endif %}
-		{{ title | escape }}
+		{{ title | safe }}
 		{% if subtitle %}
 			<small class="header__subtitle">
-				{{ subtitle }}
+				{{ subtitle | safe }}
 			</small>
 		{% endif %}
 	</h1>

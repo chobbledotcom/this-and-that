@@ -55,17 +55,18 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.icon-map-signs:before { content: '\e800'; } /* '' */
-.icon-mail:before { content: '\e801'; } /* '' */
-.icon-home:before { content: '\e802'; } /* '' */
-.icon-clock:before { content: '\e803'; } /* '' */
-.icon-restaurant-menu:before { content: '\e804'; } /* '' */
-.icon-delivery:before { content: '\e805'; } /* '' */
-.icon-question:before { content: '\e806'; } /* '' */
-.icon-review:before { content: '\e807'; } /* '' */
-.icon-facebook:before { content: '\f09a'; } /* '' */
-.icon-linkedin:before { content: '\f0e1'; } /* '' */
-.icon-google:before { content: '\f1a0'; } /* '' */
-.icon-yelp:before { content: '\f1e9'; } /* '' */
-.icon-tripadvisor:before { content: '\f262'; } /* '' */
-.icon-happycow:before { content: '\e808'; background: url('/assets/happycow.png') no-repeat center center; background-size: contain; color: transparent; } /* Custom icon */
+.icon-fire:before { content: '\e800'; } /* '' */
+.icon-droplet:before { content: '\e801'; } /* '' */
+.icon-home:before { content: '\e802'; } /* '' */
+.icon-camera-alt:before { content: '\e803'; } /* '' */
+.icon-clock:before { content: '\e804'; } /* '' */
+.icon-menu:before { content: '\f0c9'; } /* '' */
+.icon-food:before { content: '\f0f5'; } /* '' */
+.icon-foursquare:before { content: '\f180'; } /* '' */
+.icon-google:before { content: '\f1a0'; } /* '' */
+.icon-delivery:before { content: '\f1b9'; } /* '' */
+.icon-yelp:before { content: '\f1e9'; } /* '' */
+.icon-newspaper:before { content: '\f1ea'; } /* '' */
+.icon-facebook:before { content: '\f230'; } /* '' */
+.icon-tripadvisor:before { content: '\f262'; } /* '' */
+.icon-map-signs:before { content: '\f277'; } /* '' */

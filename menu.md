@@ -4,7 +4,7 @@ cssClass: page--menu
 linkText: Menu
 order: 1
 metaTitle: "Menu - This & That Indian Cafe, Soap St, Northern Quarter, Manchester"
-icon: restaurant-menu
+icon: food
 permalink: /menu/
 title: "Menu"
 subtitle: "A different choice each day"
