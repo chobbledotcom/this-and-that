@@ -4,23 +4,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script data-goatcounter="https://analytics.thisandthatcafe.co.uk/count"
         async src="https://analytics.thisandthatcafe.co.uk/count.js"></script>
-  {% if page.layout == 'home' %}
+  {% if layout == 'home' %}
   <link rel="dns-prefetch" href="https://static.xx.fbcdn.net">
   <link rel="dns-prefetch" href="https://maps.googleapis.com">
   {% endif %}
 
-  <title>{% if page.metaTitle %}{{ page.metaTitle | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <title>{% if metaTitle %}{{ metaTitle }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ excerpt or site.description }}">
 
-  {% capture styles %}
-  {% include main.scss %}
-  {% include fontello.css %}
-  {% endcapture %}
-  <style>
-    {{ styles | scssify }}
-  </style>
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="stylesheet" href="/assets/fontello.css">
+  <link rel="canonical" href="{{ site.url }}{{ page.url | replace('.html', '') }}">
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
-  {% include json-ld.html %}
+  {% include "json-ld.html" %}
   <script async type="module" src="/assets/turbo.es2017-esm.min.js"></script>
 </head>

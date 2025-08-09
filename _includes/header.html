@@ -5,14 +5,10 @@
 			This &amp; That Indian Cafe<span class="hidden-sm">, Manchester</span>
 		</a>
 		<div class="navbar__links align--right">
-			{% assign pages_list = (site.pages | sort: 'order') %} 
-			{% for my_page in pages_list %}
-			{% assign my_page = pages_list | where: "path", path | first %} 
-			{% if my_page.linkText %}
-			<a class="navbar__link" href="{{ my_page.url | relative_url }}">{{ my_page.linkText | escape }}
-				<i class="icon-{{ my_page.icon | escape }}"></i>
+			{% for my_page in collections.navPages %}
+			<a class="navbar__link" href="{{ my_page.url }}">{{ my_page.data.linkText | escape }}
+				<i class="icon-{{ my_page.data.icon | escape }}"></i>
 			</a>
-			{% endif %} 
 			{% endfor %}
 		</div>
 	</div>

@@ -2,19 +2,18 @@
 layout: default
 ---
 
-{% include title.html %}
+{% include "title.html" %}
 
 <div class="row">
 	<div class="col-md-8 order-md-1 margin--bottom">
-		<div class="page {{page.cssClass}}">
+		<div class="page {{ cssClass }}">
 			<ul class="post-list">
-				{% for post in site.posts %}
+				{% for post in collections.posts %}
 				<li>
-					{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-					<span class="post-meta">{{ post.date | date: date_format }}</span>
+					<span class="post-meta">{{ post.date | date("long") }}</span>
 					<h5>
-						<a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-						<br><small>{{ post.subtitle | escape }}</small>
+						<a class="post-link" href="{{ post.url }}">{{ post.data.title | escape }}</a>
+						<br><small>{{ post.data.subtitle | escape }}</small>
 					</h5>
 				</li>
 				{% endfor %}
@@ -22,7 +21,7 @@ layout: default
 		</div>
 	</div>
 	<div class="col-md-4 order-md-2 margin--bottom">
-		{% capture rightColumn %}{% include right-column.md %}{% endcapture %} {{ rightColumn | markdownify }}
-		<hr> {% include social-media-links.html %}
+		{% include "right-column.html" %}
+		<hr> {% include "social-media-links.html" %}
 	</div>
 </div>
