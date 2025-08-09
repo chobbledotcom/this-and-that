@@ -6,8 +6,8 @@
 		</a>
 		<div class="navbar__links align--right">
 			{% for my_page in collections.navPages %}
-			<a class="navbar__link" href="{{ my_page.url }}">{{ my_page.data.linkText | escape }}
-				<i class="icon-{{ my_page.data.icon | escape }}"></i>
+			<a class="navbar__link" href="{{ my_page.url }}">{{ my_page.data.linkText }}
+				<i class="icon-{{ my_page.data.icon }}"></i>
 			</a>
 			{% endfor %}
 		</div>
