@@ -58,7 +58,6 @@
                - 'dryrun'     - Perform a dry run build
                - 'test_flake' - Test building a site using flake.nix
                - 'test_js'    - Run all JavaScript tests
-               - 'lint'       - Lint all files in src using Biome
 
               EOF
 

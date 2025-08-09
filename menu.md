@@ -21,6 +21,7 @@ subtitle: "A different choice each day"
 
 **Jump to:** [Monday](#mondays-curries) / [Tuesday](#tuesdays-curries) / [Wednesday](#wednesdays-curries) / [Thursday](#thursdays-curries) / [Friday](#fridays-curries) / [Saturday](#saturdays-curries) / [Sunday](#sundays-curries)
 
+<a name="mondays-curries"></a>
 ## Monday's Curries
 
 * Chicken Tikka Masala
@@ -33,6 +34,7 @@ subtitle: "A different choice each day"
 * *Kidney Beans & Potatoes*
 * *Mixed Vegetables*
 
+<a name="tuesdays-curries"></a>
 ## Tuesday's Curries
 
 * Lamb Karahi Chops
@@ -45,6 +47,7 @@ subtitle: "A different choice each day"
 * *Cabbage*
 * *Mixed Vegetables*
 
+<a name="wednesdays-curries"></a>
 ## Wednesday's Curries
 
 * Chicken Tikka Masala
@@ -59,6 +62,7 @@ subtitle: "A different choice each day"
 * *Daal (Lentils)*
 * *Kidney Beans & Potatoes*
 
+<a name="thursdays-curries"></a>
 ## Thursday's Curries
 
 * Lamb Karahi
@@ -72,6 +76,7 @@ subtitle: "A different choice each day"
 * *Chickpeas (Chana)*
 * *Mixed Vegetables*
 
+<a name="fridays-curries"></a>
 ## Friday's Curries
 
 * Chicken Tikka Masala
@@ -84,6 +89,7 @@ subtitle: "A different choice each day"
 * *Mixed Vegetables*
 * *Bombay Potatoes*
 
+<a name="saturdays-curries"></a>
 ## Saturday's Curries
 
 * Chicken Tikka Masala
@@ -96,6 +102,7 @@ subtitle: "A different choice each day"
 * *Cauliflower & Potatoes*
 * *Cabbage*
 
+<a name="sundays-curries"></a>
 ## Sunday's Curries
 
 * Chicken Tikka Masala
