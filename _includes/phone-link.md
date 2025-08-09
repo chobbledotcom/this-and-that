@@ -1,1 +1,0 @@
-[{{site.phone_number}}](tel:{{site.phone_number|replace:' ',''}})
