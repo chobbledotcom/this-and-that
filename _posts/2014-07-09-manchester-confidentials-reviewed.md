@@ -4,7 +4,6 @@ subtitle: Manchester Confidentials
 metaTitle: Jonathan Schofield goes for the original rice and three at This & That Curry Cafe, Manchester
 ---
 
-![](https://web.archive.org/web/2014/https://old.manchesterconfidential.co.uk/i/O0Y/7GR5_M.jpg)
 
 > Jonathan Schofield goes for the original rice and three
 
