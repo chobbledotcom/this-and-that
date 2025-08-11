@@ -12,6 +12,7 @@ Wandering around the Northern Quarter on a weekday lunch time, you may well spot
 
 Even at midday on a Wednesday the place was packed with curry devotees, crammed along the communal tables or jealously guarding their counter-side stools. A large menu on the wall displays the curry offerings for each day – there are typically 3 vegetarian options and 6 meat or fish – but you could just as easily have a glance over the vats of gorgeous smelling curries lined along the counter to take your pick. You can stick to just the one dish, but everyone goes for the rice and three curries deal. It’s written everywhere, so it’d be rude not to. And when it’s this cheap – £4.50 for the vegetarian selection, a little more if you want meat – you can’t go wrong.
 
+![](https://web.archive.org/web/2019/https://www.themunchblog.com/wp-content/uploads/2019/02/thisthat1-1024x768.jpg)
 
 Your eyes might not love it but your belly will.
 
@@ -27,4 +28,4 @@ All in all, these might not the very best curries in the world, but for under a 
 
 **How much:** £4.50-£6.50 for rice and three curries
 
-**Source:** The Munch MCR
+**[Source](https://web.archive.org/web/*/https://www.themunchblog.com/2019/02/02/review-this-and-that-cafe/)**
