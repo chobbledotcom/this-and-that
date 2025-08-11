@@ -22,4 +22,4 @@ Throughout Manchester, there have been significant strides to illuminate the sto
 
 Our project was commissioned by Manchester Museum, an organisation with a current collecting theme based on migration, and we felt that our film could help to raise awareness about the influence of migrant populations on British culture. The role of a museum as a cultural centre for discussion makes it essential to represent the wide histories, both macro and micro, that make up Mancunian society. Through our film, we hoped to complement the stimulating dialogue on South Asian diaspora in Manchester by providing an insightful narrative for Manchester Museum’s collection as they push ahead in their plan to open their South Asian gallery in 2022. The story of Ismail and Mo provides a fascinating and heartwarming tale of shared culture and community spirit at the heart of Mancunian society.
 
-**[Source](https://www.blueshoesproductions.com/post/this-and-that)**
+**Source:** Blue Shoes Productions

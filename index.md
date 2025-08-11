@@ -15,7 +15,7 @@ A family run business **established in 1984**, we’re one of Manchester’s fav
 All food is homemade and prepared using **fresh whole spices** for an authentic taste and maximum flavour.
 
 - [**Read our Menu**](/menu/)
-- **Review us** on: [Google Maps][google], [TripAdvisor][tripadvisor], [HappyCow][happycow], [Facebook][facebook], [Yelp][yelp], or [Zomato][zomato]
+- **Review us** on: [Google Maps][google], [TripAdvisor][tripadvisor], [HappyCow][happycow], [Facebook][facebook], or [Yelp][yelp]
 
 ## <i class="icon-map-signs"></i>Location
 
@@ -32,7 +32,6 @@ All food is homemade and prepared using **fresh whole spices** for an authentic 
 
 [tripadvisor]: https://www.tripadvisor.co.uk/Restaurant_Review-g187069-d732222-Reviews-This_That-Manchester_Greater_Manchester_England.html
 [yelp]: https://www.yelp.co.uk/biz/this-and-that-manchester
-[zomato]: https://www.zomato.com/manchester/this-that-northern-quarter/menu
 [happycow]: https://www.happycow.net/reviews/this-that-cafe-manchester-331015
 [google]: https://goo.gl/maps/xTNreANmJEz
 [facebook]: https://www.facebook.com/ThisAndThatManchester
