@@ -9,7 +9,7 @@ title: "Gluten Free Curry"
 subtitle: "All our curry is gluten-free"
 ---
 
-Our curries do not contain any wheat or gluten, but they are prepared in the same kitchen as items which do so are not suitable for people with extreme allergies. The gluten free curries we serve changes every day - check out the menus below!
+Our curries do not contain any wheat or gluten, but they are prepared in the same kitchen as items which do so are not suitable for people with extreme allergies. The gluten free curry we serve changes every day - check out the menus below!
 
 *Green curries* are **vegetarian** & **[vegan](/vegan-curry/)**
 
