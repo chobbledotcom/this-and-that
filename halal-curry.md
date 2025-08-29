@@ -1,14 +1,15 @@
 ---
 layout: page
 cssClass: page--menu
-linkText: Menu
-order: 1
-metaTitle: "Menu - This & That Indian Cafe, Soap St, Northern Quarter, Manchester"
+metaTitle: "Halal Curry Manchester | HMC Certified | Desi Cafe | This & That"
+metaDescription: "Authentic Halal curry in Manchester's Northern Quarter. All meat is HMC Halal certified. Traditional Indian curries made fresh daily at This & That Indian Cafe."
 icon: food
-permalink: /menu/
-title: "Menu"
-subtitle: "A different choice each day"
+permalink: /halal-curry/
+title: "Halal Curry"
+subtitle: "HMC Certified Authentically Desi Cafe"
 ---
+
+At This & That Indian Cafe, **all our meat is HMC Halal certified**. Every chicken, lamb, and meat dish on our menu is prepared with HMC certified Halal meat, so our Muslim customers can enjoy our authentically  with complete confidence.
 
 *Green curries* are **vegetarian** & **[vegan](/vegan-curry/)**
 
@@ -22,7 +23,7 @@ subtitle: "A different choice each day"
 **Jump to:** [Monday](#mondays-curries) / [Tuesday](#tuesdays-curries) / [Wednesday](#wednesdays-curries) / [Thursday](#thursdays-curries) / [Friday](#fridays-curries) / [Saturday](#saturdays-curries) / [Sunday](#sundays-curries)
 
 <a name="mondays-curries"></a>
-## Monday's Curries
+## Monday's Halal Curries
 
 * Chicken Tikka Masala
 * Lamb & Pumpkin
@@ -35,7 +36,7 @@ subtitle: "A different choice each day"
 * *Mixed Vegetables*
 
 <a name="tuesdays-curries"></a>
-## Tuesday's Curries
+## Tuesday's Halal Curries
 
 * Lamb Karahi Chops
 * Lamb & Cauliflower
@@ -48,7 +49,7 @@ subtitle: "A different choice each day"
 * *Mixed Vegetables*
 
 <a name="wednesdays-curries"></a>
-## Wednesday's Curries
+## Wednesday's Halal Curries
 
 * Chicken Tikka Masala
 * Lamb & Califlower
@@ -63,7 +64,7 @@ subtitle: "A different choice each day"
 * *Kidney Beans & Potatoes*
 
 <a name="thursdays-curries"></a>
-## Thursday's Curries
+## Thursday's Halal Curries
 
 * Lamb Karahi
 * Chicken Tikka Masala
@@ -77,7 +78,7 @@ subtitle: "A different choice each day"
 * *Mixed Vegetables*
 
 <a name="fridays-curries"></a>
-## Friday's Curries
+## Friday's Halal Curries
 
 * Chicken Tikka Masala
 * Chicken Chana
@@ -90,7 +91,7 @@ subtitle: "A different choice each day"
 * *Bombay Potatoes*
 
 <a name="saturdays-curries"></a>
-## Saturday's Curries
+## Saturday's Halal Curries
 
 * Chicken Tikka Masala
 * Lamb & Carrot
@@ -103,7 +104,7 @@ subtitle: "A different choice each day"
 * *Cabbage*
 
 <a name="sundays-curries"></a>
-## Sunday's Curries
+## Sunday's Halal Curries
 
 * Chicken Tikka Masala
 * Lamb Nehari
@@ -137,6 +138,6 @@ subtitle: "A different choice each day"
 
 ---
 
-[All our meat is HMC Halal certified](/halal-curry/)
+**About HMC Certification:** HMC (Halal Monitoring Committee) is the UK's leading Halal certification body, ensuring all meat is genuinely Halal and meets Islamic dietary requirements.
 
 [See our gluten-free curry options](/gluten-free-curries/)
