@@ -1,6 +1,6 @@
 ---
 layout: page
-cssClass: page--gluten-free
+cssClass: page--menu
 metaTitle: "Gluten Free Curries Manchester | This & That Indian Cafe Northern Quarter"
 metaDescription: "Enjoy delicious gluten-free Indian curries daily at This & That Cafe Manchester. All our curries are wheat-free. Rice & 3 veg from £6. Soap St, Northern Quarter."
 icon: food
