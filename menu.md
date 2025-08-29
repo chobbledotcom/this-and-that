@@ -137,4 +137,6 @@ subtitle: "A different choice each day"
 
 ---
 
+**T&T is a Halal restaurant:** [All our meat is HMC Halal certified](/halal-curry/)
+
 **Gluten / wheat-free curry information:** [See our gluten-free curry options](/gluten-free-curries/)
