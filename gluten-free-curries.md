@@ -1,14 +1,15 @@
 ---
 layout: page
-cssClass: page--menu
-linkText: Menu
-order: 1
-metaTitle: "Menu - This & That Indian Cafe, Soap St, Northern Quarter, Manchester"
+cssClass: page--gluten-free
+metaTitle: "Gluten Free Curries Manchester | This & That Indian Cafe Northern Quarter"
+metaDescription: "Enjoy delicious gluten-free Indian curries daily at This & That Cafe Manchester. All our curries are wheat-free. Rice & 3 veg from £6. Soap St, Northern Quarter."
 icon: food
-permalink: /menu/
-title: "Menu"
-subtitle: "A different choice each day"
+permalink: /gluten-free-curries/
+title: "Gluten Free Curry"
+subtitle: "All our curry is gluten-free"
 ---
+
+Our curries do not contain any wheat or gluten, but they are prepared in the same kitchen as items which do so are not suitable for people with extreme allergies. The gluten free curries we serve changes every day - check out the menus below!
 
 *Green curries* are **vegetarian** & **[vegan](/vegan-curry/)**
 
@@ -116,17 +117,7 @@ subtitle: "A different choice each day"
 
 ## Sundries
 
-* Roti (Chapati)
-* Plain Naan
-* Garlic Naan
 * Seekh Kebab
-* Kebab Naan Sandwich (small)
-* Kebab Naan Sandwich (large)
-* Paratha
-* Keema Paratha
-* Meat Samosa
-* Vegetable Samosa
-* Onion Bhaji
 * Salad
 
 ## Soft Drinks
@@ -134,7 +125,3 @@ subtitle: "A different choice each day"
 * Mango Lassi (small / large)
 * Soft drink cans
 * Water
-
----
-
-**Gluten / wheat-free curry information:** [See our gluten-free curry options](/gluten-free-curries/)
