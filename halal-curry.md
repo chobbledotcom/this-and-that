@@ -9,7 +9,7 @@ title: "Halal Curry"
 subtitle: "HMC Certified Authentically Desi Cafe"
 ---
 
-At This & That Indian Cafe, **all our meat is HMC Halal certified**. Every chicken, lamb, and meat dish on our menu is prepared with HMC certified Halal meat, so our Muslim customers can enjoy our authentically  with complete confidence.
+At This & That Indian Cafe, **all our meat is HMC Halal certified**. Every chicken, lamb, and meat dish on our menu is prepared with HMC certified Halal meat, so our Muslim customers can enjoy our authentically home-style Indian cooking with complete confidence.
 
 *Green curries* are **vegetarian** & **[vegan](/vegan-curry/)**
 
