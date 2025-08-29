@@ -137,4 +137,4 @@ subtitle: "A different choice each day"
 
 ---
 
-**Gluten / wheat-free curry information:** [See our gluten-free curry options](/gluten-free-curries/)
+[See our gluten-free curry options](/gluten-free-curries/)
