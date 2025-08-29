@@ -13,7 +13,7 @@ subtitle: "HMC Certified - Authentic Indian Food"
 
 At This & That Indian Cafe, **all our meat is HMC Halal certified**. We're proud to serve the Manchester community with authentic Indian curries that meet the highest Halal standards. Every chicken, lamb, and meat dish on our menu is prepared with HMC certified Halal meat, ensuring our Muslim customers can enjoy our food with complete confidence.
 
-Our commitment to Halal extends beyond certification - it's part of our dedication to serving wholesome, authentic curry to everyone in Manchester's Northern Quarter.
+We've been serving proper Halal curry to Manchester's Northern Quarter for years - it's just what we do.
 
 *Green curries* are **vegetarian** & **[vegan](/vegan-curry/)**
 
@@ -29,12 +29,12 @@ Our commitment to Halal extends beyond certification - it's part of our dedicati
 <a name="mondays-curries"></a>
 ## Monday's Halal Curries
 
-* Chicken Tikka Masala (Halal)
-* Lamb & Pumpkin (Halal)
-* Lamb & Spinach (Halal)
-* Chicken Curry (Halal)
+* Chicken Tikka Masala
+* Lamb & Pumpkin
+* Lamb & Spinach
+* Chicken Curry
 * Fish (early part of day)
-* Minced Meat - Keema (Halal)
+* Minced Meat (Keema)
 * *Daal (Lentils)*
 * *Kidney Beans & Potatoes*
 * *Mixed Vegetables*
@@ -42,12 +42,12 @@ Our commitment to Halal extends beyond certification - it's part of our dedicati
 <a name="tuesdays-curries"></a>
 ## Tuesday's Halal Curries
 
-* Lamb Karahi Chops (Halal)
-* Lamb & Cauliflower (Halal)
-* Lamb & Spinach (Halal)
-* Chicken Tikka Masala (Halal)
-* Chicken Curry (Halal)
-* Minced Meat - Keema (Halal)
+* Lamb Karahi Chops
+* Lamb & Cauliflower
+* Lamb & Spinach
+* Chicken Tikka Masala
+* Chicken Curry
+* Minced Meat (Keema)
 * *Chickpeas (Chana)*
 * *Cabbage*
 * *Mixed Vegetables*
@@ -55,14 +55,14 @@ Our commitment to Halal extends beyond certification - it's part of our dedicati
 <a name="wednesdays-curries"></a>
 ## Wednesday's Halal Curries
 
-* Chicken Tikka Masala (Halal)
-* Lamb & Califlower (Halal)
-* Chicken Curry (Halal)
-* Minced Meat - Keema (Halal)
+* Chicken Tikka Masala
+* Lamb & Califlower
+* Chicken Curry
+* Minced Meat (Keema)
 * Vegetable Biryani
-* Lamb & Carrots (Halal)
-* Lamb & Split Peas (Halal)
-* Liver & Kidney (Halal)
+* Lamb & Carrots
+* Lamb & Split Peas
+* Liver & Kidney
 * *Spinach & Potatoes*
 * *Daal (Lentils)*
 * *Kidney Beans & Potatoes*
@@ -70,13 +70,13 @@ Our commitment to Halal extends beyond certification - it's part of our dedicati
 <a name="thursdays-curries"></a>
 ## Thursday's Halal Curries
 
-* Lamb Karahi (Halal)
-* Chicken Tikka Masala (Halal)
-* Lamb & Okra (Halal)
-* Lamb & Potato (Halal)
-* Chicken Curry (Halal)
-* Minced Meat - Keema (Halal)
-* Lamb Biryani (Halal)
+* Lamb Karahi
+* Chicken Tikka Masala
+* Lamb & Okra
+* Lamb & Potato
+* Chicken Curry
+* Minced Meat (Keema)
+* Lamb Biryani
 * *Spinach & Vegetables*
 * *Chickpeas (Chana)*
 * *Mixed Vegetables*
@@ -84,12 +84,12 @@ Our commitment to Halal extends beyond certification - it's part of our dedicati
 <a name="fridays-curries"></a>
 ## Friday's Halal Curries
 
-* Chicken Tikka Masala (Halal)
-* Chicken Chana (Halal)
-* Lamb Korma (Halal)
-* Lamb & Spinach (Halal)
-* Lamb & Carrot (Halal)
-* Minced Meat - Keema (Halal)
+* Chicken Tikka Masala
+* Chicken Chana
+* Lamb Korma
+* Lamb & Spinach
+* Lamb & Carrot
+* Minced Meat (Keema)
 * *Daal (Lentils)*
 * *Mixed Vegetables*
 * *Bombay Potatoes*
@@ -97,12 +97,12 @@ Our commitment to Halal extends beyond certification - it's part of our dedicati
 <a name="saturdays-curries"></a>
 ## Saturday's Halal Curries
 
-* Chicken Tikka Masala (Halal)
-* Lamb & Carrot (Halal)
-* Lamb & Spinach (Halal)
-* Chicken Curry (Halal)
-* Minced Meat - Keema (Halal)
-* Lamb on the Bone (Halal)
+* Chicken Tikka Masala
+* Lamb & Carrot
+* Lamb & Spinach
+* Chicken Curry
+* Minced Meat (Keema)
+* Lamb on the Bone
 * *Daal (Lentils)*
 * *Cauliflower & Potatoes*
 * *Cabbage*
@@ -110,11 +110,11 @@ Our commitment to Halal extends beyond certification - it's part of our dedicati
 <a name="sundays-curries"></a>
 ## Sunday's Halal Curries
 
-* Chicken Tikka Masala (Halal)
-* Lamb Nehari (Halal)
-* Lamb & Spinach (Halal)
-* Chicken Curry (Halal)
-* Minced Meat - Keema (Halal)
+* Chicken Tikka Masala
+* Lamb Nehari
+* Lamb & Spinach
+* Chicken Curry
+* Minced Meat (Keema)
 * *Chickpeas (Chana)*
 * *Bombay Potatoes*
 * *Kidney Bean & Potatoes*
@@ -124,12 +124,12 @@ Our commitment to Halal extends beyond certification - it's part of our dedicati
 * Roti (Chapati)
 * Plain Naan
 * Garlic Naan
-* Seekh Kebab (Halal)
-* Kebab Naan Sandwich - small (Halal)
-* Kebab Naan Sandwich - large (Halal)
+* Seekh Kebab
+* Kebab Naan Sandwich (small)
+* Kebab Naan Sandwich (large)
 * Paratha
-* Keema Paratha (Halal)
-* Meat Samosa (Halal)
+* Keema Paratha
+* Meat Samosa
 * Vegetable Samosa
 * Onion Bhaji
 * Salad
