@@ -1,19 +1,15 @@
 ---
 layout: page
 cssClass: page--menu
-linkText: Halal Curry Manchester
-order: 12
-metaTitle: "Halal Curry Manchester - HMC Certified Halal Food - This & That Indian Cafe"
+metaTitle: "Halal Curry Manchester | HMC Certified | Desi Cafe | This & That"
 metaDescription: "Authentic Halal curry in Manchester's Northern Quarter. All meat is HMC Halal certified. Traditional Indian curries made fresh daily at This & That Indian Cafe."
 icon: food
 permalink: /halal-curry/
 title: "Halal Curry"
-subtitle: "HMC Certified - Authentic Indian Food"
+subtitle: "HMC Certified Authentically Desi Cafe"
 ---
 
-At This & That Indian Cafe, **all our meat is HMC Halal certified**. We're proud to serve the Manchester community with authentic Indian curries that meet the highest Halal standards. Every chicken, lamb, and meat dish on our menu is prepared with HMC certified Halal meat, ensuring our Muslim customers can enjoy our food with complete confidence.
-
-We've been serving proper Halal curry to Manchester's Northern Quarter for years - it's just what we do.
+At This & That Indian Cafe, **all our meat is HMC Halal certified**. Every chicken, lamb, and meat dish on our menu is prepared with HMC certified Halal meat, so our Muslim customers can enjoy our authentically  with complete confidence.
 
 *Green curries* are **vegetarian** & **[vegan](/vegan-curry/)**
 
@@ -144,6 +140,4 @@ We've been serving proper Halal curry to Manchester's Northern Quarter for years
 
 **About HMC Certification:** HMC (Halal Monitoring Committee) is the UK's leading Halal certification body, ensuring all meat is genuinely Halal and meets Islamic dietary requirements.
 
-**Gluten / wheat-free options:** [See our gluten-free curry options](/gluten-free-curries/)
-
-**View our full menu:** [Back to main menu](/menu/)
+[See our gluten-free curry options](/gluten-free-curries/)
