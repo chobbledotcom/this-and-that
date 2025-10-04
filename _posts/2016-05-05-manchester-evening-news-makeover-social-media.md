@@ -36,6 +36,6 @@ The new scheme has upped seating from 45 to over 60 and, says Mr Mallu, as a con
 
 This & That opens from 11.30am to 4.30pm from Sunday to Thursday, and from 11.30am to 8pm on Friday and Saturday. Rice with three vegetarian options starts at £3.90, or up to £6 for three meat options. A loaded four curries and rice option is available for £6.50.
 
-The menu changes daily and can be viewed on the official [This & That](https://thisandthatcafe.co.uk/menu/) website.
+The menu changes daily and can be viewed on the official [This & That](https://www.thisandthatcafe.co.uk/menu/) website.
 
 **[Source](https://www.manchestereveningnews.co.uk/whats-on/food-drink-news/this-that-curry-northern-quarter-11289504)**
