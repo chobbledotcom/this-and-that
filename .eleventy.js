@@ -1,4 +1,4 @@
-module.exports = function (eleventyConfig) {
+module.exports = (eleventyConfig) => {
 	// Copy static assets
 	eleventyConfig.addPassthroughCopy("assets");
 	eleventyConfig.addPassthroughCopy("favicon.ico");
@@ -6,7 +6,7 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy("tripadvisor-iframe.html");
 
 	// Add collections for posts
-	eleventyConfig.addCollection("posts", function (collectionApi) {
+	eleventyConfig.addCollection("posts", (collectionApi) => {
 		const posts = collectionApi.getFilteredByGlob("_posts/*.md");
 		// Extract date from filename for Jekyll-style posts
 		posts.forEach((post) => {
@@ -19,7 +19,7 @@ module.exports = function (eleventyConfig) {
 	});
 
 	// Add collection for navigation pages
-	eleventyConfig.addCollection("navPages", function (collectionApi) {
+	eleventyConfig.addCollection("navPages", (collectionApi) => {
 		return collectionApi
 			.getAll()
 			.filter((item) => item.data.linkText)
@@ -42,7 +42,7 @@ module.exports = function (eleventyConfig) {
 	// Add escape filter
 	eleventyConfig.addFilter("escape", (text) => {
 		if (!text) return "";
-		return text.replace(/[&<>"']/g, function (m) {
+		return text.replace(/[&<>"']/g, (m) => {
 			return {
 				"&": "&amp;",
 				"<": "&lt;",
