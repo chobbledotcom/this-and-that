@@ -3,7 +3,10 @@
     <strong>This & That Cafe</strong>
     <br />Indian Restaurant / Cafe <br />Soap St, Manchester <br />M4 1EW {% if site.phone_number %}
     <br />
-    <a href="tel:{{ site.phone_number | replace(' ', '') }}">
+    <a
+      data-umami-event="Phone number link"
+      href="tel:{{ site.phone_number | replace(' ', '') }}"
+    >
       {{ site.phone_number }}
     </a>
     {% endif %}
@@ -12,9 +15,16 @@
     <a href="/frequently-asked-questions">FAQs</a>
     {% if page.url == "/" or page.url == "/index.html" %}
       <br />
-      <a rel="nofollow" href="https://github.com/chobbledotcom/this-and-that">an open source website</a>
+      <a
+        rel="nofollow"
+        data-umami-event="Github repo"
+        href="https://github.com/chobbledotcom/this-and-that">an open source website</a>
       by
-      <a rel="nofollow" href="https://chobble.com/examples/this-and-that/">chobble.com</a>
+      <a
+        rel="nofollow"
+        data-umami-event="Chobble example"
+        href="https://chobble.com/examples/this-and-that/"
+      >chobble.com</a>
     {% endif %}
   </p>
 </footer>
