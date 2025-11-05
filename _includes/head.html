@@ -1,30 +1,29 @@
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <script>
-    document.addEventListener("turbo:load", () => {
-      if (typeof window.umami !== "undefined") {
-        window.umami.track(location.pathname + location.search + location.hash);
-      }
-    });
-  </script>
-
-  <script defer src="https://who.chobble.com/u" data-website-id="81f8f815-840d-41df-94b2-51dbc75450f2"></script>
-
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <script
+    data-goatcounter="https://analytics.thisandthatcafe.co.uk/count"
+    async
+    src="https://analytics.thisandthatcafe.co.uk/count.js"
+  ></script>
   {% if layout == 'home' %}
-  <link rel="dns-prefetch" href="https://static.xx.fbcdn.net">
-  <link rel="dns-prefetch" href="https://maps.googleapis.com">
+  <link rel="dns-prefetch" href="https://static.xx.fbcdn.net" />
+  <link rel="dns-prefetch" href="https://maps.googleapis.com" />
   {% endif %}
 
-  <title>{% if metaTitle %}{{ metaTitle }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{{ excerpt or site.description }}">
+  <title>
+    {% if metaTitle %}{{ metaTitle }}{% else %}{{ site.title }}{% endif %}
+  </title>
+  <meta name="description" content="{{ excerpt or site.description }}" />
 
-  <link rel="stylesheet" href="/assets/main.css">
-  <link rel="stylesheet" href="/assets/fontello.css">
-  <link rel="canonical" href="{{ site.url }}{{ page.url | replace('.html', '') }}">
-  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="/assets/main.css" />
+  <link rel="stylesheet" href="/assets/fontello.css" />
+  <link
+    rel="canonical"
+    href="{{ site.url }}{{ page.url | replace('.html', '') }}"
+  />
+  <link rel="icon" href="/favicon.ico" type="image/x-icon" />
   {% include "json-ld.html" %}
   <script async type="module" src="/assets/turbo.es2017-esm.min.js"></script>
 </head>
