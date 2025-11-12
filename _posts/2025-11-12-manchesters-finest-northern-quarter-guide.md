@@ -1,6 +1,6 @@
 ---
 title: Northern Quarter neighbourhood guide
-subtitle: The Northern Quarter is the beating heart of Manchester's creativity - where record shops, cocktail bars, indie cafés and legendary curry spots collide in perfect chaos...
+subtitle: Manchester's Finest
 metaTitle: "Hidden down a backstreet, This & That has been serving its legendary 'rice and three' since 1984"
 ---
 
