@@ -2,6 +2,7 @@
 title: "Review: This And That Cafe"
 subtitle: The Munch MCR
 metaTitle: The Munch's review of This & That Indian Restaurant Manchester
+source: https://web.archive.org/web/20210801175942/https://www.themunchblog.com/2019/02/02/review-this-and-that-cafe/
 ---
 
 > This and That Manchester restaurant review - The Munch food blog reviews the legendary Northern Quarter curry house and cheap lunch spot This & That Cafe.
@@ -11,7 +12,6 @@ metaTitle: The Munch's review of This & That Indian Restaurant Manchester
 Wandering around the Northern Quarter on a weekday lunch time, you may well spot a trail of hungry looking office workers scuttling down what – to the uninitiated – appears to be an empty, dead-end side road. Follow these grey-suited food pilgrims and you’ll find one of Manchester’s worst kept secrets, This & That Indian Cafe. From the street the only indication of its existence is a single white sign, bearing only the name, a phone number and the words ‘rice and three curries’. This & That, however, isn’t a place that needs to advertise. Established in 1984, this family-run curry house has built up a loyal following, and a reputation as one of the best spots for a cheap lunch.
 
 Even at midday on a Wednesday the place was packed with curry devotees, crammed along the communal tables or jealously guarding their counter-side stools. A large menu on the wall displays the curry offerings for each day – there are typically 3 vegetarian options and 6 meat or fish – but you could just as easily have a glance over the vats of gorgeous smelling curries lined along the counter to take your pick. You can stick to just the one dish, but everyone goes for the rice and three curries deal. It’s written everywhere, so it’d be rude not to. And when it’s this cheap – £4.50 for the vegetarian selection, a little more if you want meat – you can’t go wrong.
-
 
 Your eyes might not love it but your belly will.
 
@@ -23,8 +23,6 @@ All in all, these might not the very best curries in the world, but for under a 
 
 **Go if:** You crave a speedy dosage of warmth, flavour and fullness, or if you’ve been wondering why your colleagues keep coming back from their lunch break looking so smug.
 
-**Don’t go if:** You’re easily flustered – This and That is a busy, bustling place with a quick turnaround. It’s not somewhere to sit and chat either. The people need their curry, and for that they need your seat.  
+**Don’t go if:** You’re easily flustered – This and That is a busy, bustling place with a quick turnaround. It’s not somewhere to sit and chat either. The people need their curry, and for that they need your seat.
 
 **How much:** £4.50-£6.50 for rice and three curries
-
-**[Source](https://web.archive.org/web/20210801175942/https://www.themunchblog.com/2019/02/02/review-this-and-that-cafe/)**

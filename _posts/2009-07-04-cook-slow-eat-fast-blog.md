@@ -2,6 +2,7 @@
 title: This'n'That - 3 Soap Street, Manchester
 subtitle: Cook Slow Eat Fast Blog
 metaTitle: This'n'That - 3 Soap Street, Manchester
+source: https://cooksloweatfast.blogspot.com/2009/07/thisnthat-3-soap-street-manchester.html
 ---
 
 Check the first one out here. Like I said before, why try something new when you know what you like (this joke’s getting pretty used by now, so I’ll stop here).
@@ -37,5 +38,3 @@ A similar-looking plate, but this one was my friend’s. She, too, set off looki
 To prove that the pics weren’t of the same plate of food, this one has some keema curry on it, pretty much minced meat curry. The little green chillies you see on the plate above were consumed by my friend, who then sweated quite profusely.
 
 Would I come back to this place? Definitely, every time we’re in Manchester. The thing is, it’s quite a small place so I don’t reckon I want to share this with too many people.
-
-**[Source](https://cooksloweatfast.blogspot.com/2009/07/thisnthat-3-soap-street-manchester.html)**

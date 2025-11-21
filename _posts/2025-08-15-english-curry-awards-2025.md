@@ -2,6 +2,7 @@
 title: Winners announced for the 14th English Curry Awards 2025
 subtitle: Oceanic Awards Blog
 metaTitle: Winners announced for the 14th English Curry Awards 2025
+source: https://oceanicawardsblog.wordpress.com/2025/08/11/winners-announced-for-the-14th-english-curry-awards-2025/
 ---
 
 **"With over 18 years of experience in the events industry Oceanic Awards delivers around 150 awards ceremonies annually both online and in over 20 different cities globally.**
@@ -11,5 +12,3 @@ metaTitle: Winners announced for the 14th English Curry Awards 2025
 [...]
 
 Recognised for Excellence was This & That"
-
-**[Source](https://oceanicawardsblog.wordpress.com/2025/08/11/winners-announced-for-the-14th-english-curry-awards-2025/)**

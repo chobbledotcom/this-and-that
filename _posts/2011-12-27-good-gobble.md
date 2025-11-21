@@ -2,6 +2,7 @@
 title: This & That
 subtitle: Good Gobble
 metaTitle: Good Gobble Review of This & That Curry Cafe, Manchester
+source: https://goodgobble.blogspot.com/2011/12/this-that.html
 ---
 
 Last week, I took a break from my gruelling Christmas shopping schedule to meet up for lunch with the Doyles at [This & That Café](https://www.thisandthatcafe.co.uk/) - tucked down an alley in the Northern Quarter. I'd actually wanted to try This & That out for some time - if I had a quid for every time I'd had it recommended to me, I'd have, well, at least a fiver.
@@ -25,5 +26,3 @@ At £3.30 a for Rice and 3 curries with a big old bhaji a snip at 70p you really
 So This & That was a hit. What did I think about the claim that the serve "the best curries in Manchester"? Hmm. Best *value* maybe, but I'm not sure if the food and overall experience were awesome enough for me to give them that coveted title. I'll just have to go back and try out a few more yummy meals before I decide - poor me!
 
 ![](https://3.bp.blogspot.com/-IAGlML5eTOA/TvmCV5hYOjI/AAAAAAAACSI/8NQ-7WQAdwY/s1600/jeni+in+this+and+that.jpg)
-
-**[Source](https://goodgobble.blogspot.com/2011/12/this-that.html)**

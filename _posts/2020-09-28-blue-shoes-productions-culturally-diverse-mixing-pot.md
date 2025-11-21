@@ -2,6 +2,7 @@
 title: "This & That: A Culturally Diverse Mixing Pot Where Everyone is Welcome"
 subtitle: Blue Shoes Productions
 metaTitle: "This & That: A Culturally Diverse Mixing Pot Where Everyone is Welcome"
+source: https://web.archive.org/web/20201023015821/https://www.blueshoesproductions.com/post/this-and-that
 ---
 
 Hidden away amongst the backstreets of Manchester’s vibrant Northern Quarter lies This & That, a small Indian café owned by Ismail Mallu and his son Mohsin. Ismail is a first-generation Indian migrant who came to the UK in 1966 during the peak years of migration from the subcontinent, and has since gone on to run a number of successful takeaways across Greater Manchester.
@@ -21,5 +22,3 @@ _Ismail hard at work in the kitchen_
 Throughout Manchester, there have been significant strides to illuminate the stories, cultures and histories of South Asia in museums and galleries across the city. The influence of South Asian migration in Manchester has been substantial, and the heritage sector has begun to embrace these cultural and diasporic identities within their collections.
 
 Our project was commissioned by Manchester Museum, an organisation with a current collecting theme based on migration, and we felt that our film could help to raise awareness about the influence of migrant populations on British culture. The role of a museum as a cultural centre for discussion makes it essential to represent the wide histories, both macro and micro, that make up Mancunian society. Through our film, we hoped to complement the stimulating dialogue on South Asian diaspora in Manchester by providing an insightful narrative for Manchester Museum’s collection as they push ahead in their plan to open their South Asian gallery in 2022. The story of Ismail and Mo provides a fascinating and heartwarming tale of shared culture and community spirit at the heart of Mancunian society.
-
-**[Source](https://web.archive.org/web/20201023015821/https://www.blueshoesproductions.com/post/this-and-that)**

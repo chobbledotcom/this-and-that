@@ -1,7 +1,8 @@
 ---
-title: "A Love Letter to This & That: Manchester’s greatest dinner spot"
+title: "A Love Letter to This & That: Manchester's greatest dinner spot"
 subtitle: The Manc
-metaTitle: "A Love Letter to This & That: Manchester’s greatest dinner spot"
+metaTitle: "A Love Letter to This & That: Manchester's greatest dinner spot"
+source: https://web.archive.org/web/20201026221646/https://themanc.com/news/a-love-letter-to-this-that-manchesters-greatest-dinner-spot/
 ---
 
 > The kings of curry!
@@ -25,5 +26,3 @@ My personal highlight is always the additional toppings you can whack on top of 
 This & That is located at 3 Soap Street, Manchester M4 1EW so get yourself down there - you can thank me later.
 
 You can keep up to date with what they’re doing on their [Facebook page here](https://www.facebook.com/ThisAndThatManchester/), and for the full menu and opening times head over [to their website](https://www.thisandthatcafe.co.uk/menu/).
-
-**[Source](https://web.archive.org/web/20201026221646/https://themanc.com/news/a-love-letter-to-this-that-manchesters-greatest-dinner-spot/)**

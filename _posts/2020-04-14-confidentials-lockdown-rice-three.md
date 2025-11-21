@@ -2,6 +2,7 @@
 title: You can still get your rice & three during lockdown
 subtitle: Manchester Confidentials
 metaTitle: You can still get your rice & three during lockdown
+source: https://confidentials.com/manchester/you-can-still-get-your-rice-three-during-lockdown
 ---
 
 > One popular NQ curry caff is now doing deliveries
@@ -33,5 +34,3 @@ This & That are offering 50% off all food for public workers (NHS / public worke
 ‘We're really happy to be able to keep our wonderful customers fed and to be able to show our appreciation to frontline workers,’ says Mo in a [Facebook](https://www.facebook.com/ThisAndThatManchester) post, ‘and we really appreciate your custom - it's keeping us afloat (just about!) during these trying times.' 
 
 Call This & That on 0161 832 4971 to check your delivery area and place your order today for delivery tomorrow.
-
-**[Source](https://confidentials.com/manchester/you-can-still-get-your-rice-three-during-lockdown)**

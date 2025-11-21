@@ -2,6 +2,7 @@
 title: "THIS & THAT"
 subtitle: Retired Martin
 metaTitle: Retired Martin reviews This & That Indian Cafe
+source: https://retiredmartin.com/2019/10/17/this-that/
 ---
 
 > Think of this next post as purely for my benefit, enabling me to refer you to the exemplar curry cafe whenever the mood takes me. The Holts sunk, assorted Southworths and Mudgies headed for the Mar…
@@ -49,6 +50,3 @@ My lad has been regaling me with tales of it being “_better than ever_“, and
 £6.50 won’t buy you a half of milkshake turnip sour in the Northern Quarter these days, as Matt also knows.
 
 _Only one thing could dampen my euphoria at falling in love with This & That. A faint memory of something_ **_retiredmartin_** _once wrote about_ _never_ _drinking beer after curry._
-
-
-**[Source](https://retiredmartin.com/2019/10/17/this-that/)**

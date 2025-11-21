@@ -1,7 +1,8 @@
 ---
-title: A Love Letter To…rice’n’three
+title: A Love Letter To…rice'n'three
 subtitle: OBI Properties
 metaTitle: A Love Letter to Rice n Three from OBI Properties
+source: https://obiproperty.co.uk/a-love-letter-to-ricenthree/
 ---
 
 > A lot has been written in recent times about Manchester’s quest for a Michelin-starred restaurant. Who cares? They can keep their stars. And if it didn’t mean
@@ -27,5 +28,3 @@ Each place has its own loyal following and the experience can be as solitary or 
 If I have visitors with me who are up for the slightly rough and ready, I’ll not hesitate in ushering them down Back Piccadilly or Thomas Street. With all due deference to the many decent restaurant operators out there, with all their Manc-music collages, daring wine lists and top notch decor, they can’t match these places for authenticity.
 
 As the gentrification of the Northern Quarter continues, we should all hope and pray these oases of culinary delight remain. That’s not backing the little guy through some perverse contrariness – it’s just bloody good food. Rice’n’threesy does it every time.
-
-**[Source](https://obiproperty.co.uk/a-love-letter-to-ricenthree/)**

@@ -1,17 +1,16 @@
 ---
 layout: default
 ---
+
 <div itemscope itemtype="http://schema.org/BlogPosting">
   <div class="header">
     <h1 class="header__text" itemprop="heading">
       {% if icon %}
-      <i class="header__icon icon-{{ icon }}"></i>
+        <i class="header__icon icon-{{ icon }}"></i>
       {% endif %}
       {{ title | safe }}
       {% if subtitle %}
-      <small class="header__subtitle">
-        {{ subtitle | safe }}
-      </small>
+        <small class="header__subtitle"> {{ subtitle | safe }} </small>
       {% endif %}
     </h1>
   </div>
@@ -22,5 +21,8 @@ layout: default
       </em>
     </p>
     {{ content | safe }}
+    {% if source %}
+      <p><strong><a href="{{ source }}">Source</a></strong></p>
+    {% endif %}
   </div>
 </div>
