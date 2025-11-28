@@ -11,7 +11,7 @@ subtitle: "We feel your love"
 
 ❤️❤️❤️
 
-_Last update: November 21, 2025_
+_Last update: November 28, 2025_
 
 ---
 
@@ -695,6 +695,10 @@ the original, rice and 3.
 ---
 
 Just eaten here, late Friday afternoon. Table outside, service was friendly and efficient, food/value was 11/10. Unreal ❤️
+
+---
+
+Incredibly good value!
 
 ---
 
@@ -2590,9 +2594,17 @@ It's chaotic inside sometimes, some staff are a little blunt but it's not in a b
 
 ---
 
+One of the last bastions of quality curry at affordable prices in the city centre. The fella that runs it is a legend too. May it never change.
+
+---
+
 Amazing food.  Not only for the price but hands down.  Especially in the very heart of the city centre.
 Always a diverse mix of people eating here proves how popular it is with everyone.
 Highly recommended.
+
+---
+
+Hidden gem!
 
 ---
 
