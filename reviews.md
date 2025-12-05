@@ -11,7 +11,7 @@ subtitle: "We feel your love"
 
 ❤️❤️❤️
 
-_Last update: November 28, 2025_
+_Last update: December 5, 2025_
 
 ---
 
@@ -1463,6 +1463,10 @@ Great
 
 ---
 
+Awesome food at reasonable price.
+
+---
+
 Curries are very good and quite cheap.
 
 ---
@@ -2043,6 +2047,12 @@ Great
 ---
 
 Nice little restaurant with authentic food and super nice people. You can’t really see the place from the next bigger street but it’s existing and great! 👍🏼
+
+---
+
+Really tasty curries, great price and toppings for free.
+Can't ask for more
+Insanely good price must be kept a little secret ;)
 
 ---
 
