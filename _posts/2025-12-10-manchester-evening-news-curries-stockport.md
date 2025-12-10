@@ -1,5 +1,5 @@
 ---
-title: Curries in Stockport, pyramid sushi and celeb chef's relaxed spot among best restaurants, cafes and takeaways in Greater Manchester
+title: From curries at Stockport Pyramid to sushi at celeb haunts... all the Greater Manchester restaurants named in top food guide
 subtitle: Manchester Evening News
 source: https://www.manchestereveningnews.co.uk/whats-on/food-drink-news/curries-stockport-pyramid-sushi-celeb-32991798
 ---
