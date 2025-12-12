@@ -11,7 +11,7 @@ subtitle: "We feel your love"
 
 ❤️❤️❤️
 
-_Last update: December 5, 2025_
+_Last update: December 12, 2025_
 
 ---
 
@@ -1449,6 +1449,10 @@ Does what it says on the tin - cheap and tasty curry for a quick lunch.
 
 ---
 
+All the food was too spicy for me, but the vibe and service were great! I liked it that they were honest in telling me it's spicy, but also gave me a small sampling dish to see if I could handle it. It was so nice of them and I appreciate it. If I had more tolerance for spices, I'd definitely eat there often. Prices are also great, especially for the amount given.
+
+---
+
 You dont just come here for their food..but the hospitality too. Heartwarming people serving hot dishes, rain or shine..just This and That. Yum!!
 
 Best indian food in Manchester. Affordable and tasty.
@@ -1488,6 +1492,10 @@ After living in Manchester for 11 years and this and that being my favourite res
 ---
 
 Amazing Indian curry!! Must eat if you’re visiting Manchester!!
+
+---
+
+Strongly recommend this peculiar place. Long shared tables, vibrant atmosphere of diverse characters, and great food at a very reasonable price. The host is super friendly and kind.
 
 ---
 
@@ -1578,6 +1586,10 @@ Great food, relaxed atmosphere, great price
 Obsługa bardzo sympatyczna, jedzenie wydawane prawie natychmiastowo.
 Jedzenie smaczne, nawet duże porcje.
 Zamówiliśmy chicken tikka masala, curry chicken, czosnkowe chlebki naan i samosę i zapłaciliśmy £17.
+
+---
+
+10/10. The Dahl was incredible as were all the vegi curries. Bargain of a meal and such a big portion!
 
 ---
 
@@ -1875,6 +1887,10 @@ Just Ace.
 ---
 
 My favourite affordable lunch/dinner spot. Right in the center of the chaos that is Manchester's vibrant Northern Quarter. Brilliant vegan options with a different menu every day. Owners a cheerful chap. Highly recommend!!!
+
+---
+
+Best curry in Manchester.
 
 ---
 
@@ -4115,6 +4131,10 @@ Nice staff, very chill atmosphere, good place to go for a grub.
 ---
 
 Honestly obsessed with this place, it's quiet with no music blasting like most places in Manchester. The food is always fantastic and the staff are always lovely!
+
+---
+
+Good food at an excellent price - I love treating myself to a Friday lunch here!
 
 ---
 
