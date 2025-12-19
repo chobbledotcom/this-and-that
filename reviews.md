@@ -11,7 +11,7 @@ subtitle: "We feel your love"
 
 ❤️❤️❤️
 
-_Last update: December 12, 2025_
+_Last update: December 19, 2025_
 
 ---
 
@@ -1145,6 +1145,10 @@ Great food! Really cheap! Like being at home!
 ---
 
 Great value and delicious curries, with the best onion bhajis ever! Manchester’s best kept secret.
+
+---
+
+An absolute gem: delicious food and unbeatable value for money. In my ideal world, there would be at least one This & That in every town
 
 ---
 
@@ -2393,6 +2397,11 @@ Best curry in town, no question
 
 ---
 
+It's delicious Rice & Three.
+Almost canteen style with long be benches.
+
+---
+
 The member of staff was very friendly and offered amazing service. A little on the procer side but the macha cheesecake was luxurious.
 
 ---
@@ -2781,6 +2790,10 @@ A Manchester classic.
 ---
 
 The lamb steak is so tender and juicy, really enjoyed the food and an affordable spot in town. The chef is so friendly makes the atmosphere even better thank you!
+
+---
+
+Rice and 3 curries good honest cooking in the heart of Manchester a few steps down a side street and a way from the madness of the world
 
 ---
 
