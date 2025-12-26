@@ -11,7 +11,7 @@ subtitle: "We feel your love"
 
 ❤️❤️❤️
 
-_Last update: December 19, 2025_
+_Last update: December 26, 2025_
 
 ---
 
@@ -662,6 +662,10 @@ La vendedora de una tienda de ropa usada me recomendó este lugar al preguntarle
 
 ---
 
+The hidden gem of Manchester. Delicious home made food and amazing prices. Fast service. Choose 3 curries and rice or Chapatti.
+
+---
+
 Struggling for a good curry rice in Manchester, tbh this is where we landed eventually and the food was so delicious, staff were polite and friendly and the overalls budget is quite decent as well. Kudos to the whole team, i would definitely give it more visits.
 
 ---
@@ -965,6 +969,10 @@ Tried this place with my wife and veggie daughter we all loved the food the staf
 ---
 
 Nice little restaurant serving authentic Indian curries at reasonable cost.
+
+---
+
+Lovely!
 
 ---
 
@@ -2026,6 +2034,10 @@ Tasty good value curry house.  Friendly service
 
 ---
 
+Tasty good value curry house.  Friendly service
+
+---
+
 Best place for quick freshly made food. The lamb Nahari on Sundays is better than any I've had before.
 
 ---
@@ -2916,6 +2928,12 @@ Completely unpretentious tasty Indian food that is an absolute bargain.
 ---
 
 Tasty, cheap and authentic 👌
+
+---
+
+We were attracted by the relatively high review score (4.7 after more than 2000 reviews).  What makes it worthwhile is that you'll have a generous portion of decent food for a ridiculously reasonable price.  The selection varies daily, but that great price for the rice and three (curries) is constant.  All the curries we tried were decent but not outstanding, but the price cannot be beat.  Listening to the patrons and the warm greetings of the staff, it is obvious that many diners make it a regular stop. Michelin star? Nope. But a filling meal at an unmatched price - count me in.
+November 29, 2025
+C&J
 
 ---
 
