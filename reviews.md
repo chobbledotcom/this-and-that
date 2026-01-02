@@ -11,7 +11,7 @@ subtitle: "We feel your love"
 
 ❤️❤️❤️
 
-_Last update: December 26, 2025_
+_Last update: January 2, 2026_
 
 ---
 
@@ -153,6 +153,16 @@ Superb Indian Cafe! Quite basic inside and out but food and prices cannot be bea
 ---
 
 Great value, tasty food with plenty of variety at a hole in the wall establishment and friendly service from the owner!
+
+---
+
+A not so hidden gem hidden down a side street in northern Quater. Hard to spot if you didn’t know what you was looking for but once you find it, the place will become your second home
+
+King of the three curries & rice and a side order of seekh kebabs is highly recommended
+
+Value for money, plenty of seating & the staff are friendly
+
+Service is quick and simple, so good I eat in them order a second one ne to take home
 
 ---
 
@@ -341,6 +351,10 @@ This place is a hidden gem,   get yourself down
 ---
 
 Love this place so much l, the food is amazing the staff are super friendly. If I’m in this part of Manchester I’m 100% definitely going to eat here👌👌👌
+
+---
+
+Canteen style, fresh flavours. Beautiful staff!
 
 ---
 
@@ -3632,6 +3646,10 @@ It's a great taste with a great value
 ---
 
 Amazing, great food, great price,super friendly staff and a great atmosphere..
+
+---
+
+Delicious and great price. Try the mango lassi!
 
 ---
 
