@@ -11,7 +11,7 @@ subtitle: "We feel your love"
 
 ❤️❤️❤️
 
-_Last update: January 2, 2026_
+_Last update: January 9, 2026_
 
 ---
 
@@ -26,6 +26,10 @@ Fsntasztikus választék, különleges halak.
 ---
 
 Amazing place, great value, very tasty, no frills, just lovely food.
+
+---
+
+Amazing hearty Pakistani food that is unbelievable value for money. You can go for a rice + 3 curry situation of various types. Samosas are lovely as well as the naans. Service is very friendly too. No frills, go up and get what you want and pay at the end. The curries aren’t the best curries ever but for what you pay they are good and the portions are huge. I definitely recommend and would come back here again.
 
 ---
 
@@ -600,6 +604,11 @@ This place is always incredible. Love the food, the ambiance, the staff, the oth
 ---
 
 Food was amazing. Prices are reasonable. Didn't even know about this place been going since 1984. Will definitely be going again. Would also recommend this place 10/10
+
+---
+
+3 tasty veg curries with rice for £6!
+Friendly staff and right near coach station at Shude Hill.
 
 ---
 
@@ -1913,6 +1922,10 @@ Just Ace.
 ---
 
 My favourite affordable lunch/dinner spot. Right in the center of the chaos that is Manchester's vibrant Northern Quarter. Brilliant vegan options with a different menu every day. Owners a cheerful chap. Highly recommend!!!
+
+---
+
+Best curry in Manchester.
 
 ---
 
@@ -4661,6 +4674,10 @@ Comida muito saborosa e preço excelente (£6 a £8 libras). O restaurante é su
 
 ---
 
+Delicious
+
+---
+
 This doesn’t look great but don’t judge a book by its cover This place is amazing!!! I’ve been 10+ times and every time I go it gets better and better. Best curry house in Manchester
 
 ---
@@ -4957,6 +4974,10 @@ We don't have similar eating places here in Liverpool where the local *Indian* r
 ---
 
 مطعم هنود او باكستانيين مدري .. المهم انه لذيذ ورخيص
+
+---
+
+매콤하니 맛있었습니다 ㅎㅎ
 
 ---
 
