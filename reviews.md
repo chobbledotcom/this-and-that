@@ -11,7 +11,7 @@ subtitle: "We feel your love"
 
 ❤️❤️❤️
 
-_Last update: January 9, 2026_
+_Last update: January 16, 2026_
 
 ---
 
@@ -2347,6 +2347,10 @@ Excellent value, good food. A hidden gem.
 
 ---
 
+Always delicious, great prices, and lovely staff.
+
+---
+
 Delicious and inexpensive Indian street food! I tried few different curries and all were fantastic.
 
 ---
@@ -4340,6 +4344,10 @@ Food here has always been great. Visited lots of times over the years and is alw
 
 ---
 
+Holy moly. Great stuff. I would come here every day if I could
+
+---
+
 Fantastic food, lovely staff, best  rice and 3, by far. Superb!
 
 ---
@@ -4512,6 +4520,10 @@ Great curry, good prices, super chill atmosphere. Good place to pit stop or esca
 ---
 
 Been coming here for over a decade. There is always a queue because the food is always good. The people running this place are very kind and always happy to help.
+
+---
+
+Can't speak more highly of This & That. Lives up to the hype 100%
 
 ---
 
