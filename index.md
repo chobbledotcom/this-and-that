@@ -18,14 +18,14 @@ All food is homemade and prepared using **fresh whole spices** for an authentic 
 
 ## <i class="icon-food"></i>What is a Rice & Three?
 
-Pick any three curries from what we’ve cooked that day and we’ll put them on a plate with rice:
+Pick any three curries from today’s menu, served on a plate with rice:
 
 - **Rice & 3 Veg curries** — £6.00
 - **Rice & 1 Meat & 2 Veg curries** — £6.50
 - **Rice & 2 Meat & 1 Veg curry** — £7.00
 - **Rice & 3 Meat curries** — £8.00
 
-The curries change from day to day — [**see what’s on this week**](/menu/).
+The curries change each day of the week — [**see our day-by-day curry menu**](/menu/).
 
 ## <i class="icon-food"></i>Halal, Vegan & Gluten Free Curry
 
