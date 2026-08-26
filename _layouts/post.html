@@ -2,9 +2,11 @@
 layout: default
 ---
 
-<div itemscope itemtype="http://schema.org/BlogPosting">
+<article>
+  <p class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/news/">Press &amp; Reviews</a></p>
+
   <div class="header">
-    <h1 class="header__text" itemprop="heading">
+    <h1 class="header__text">
       {% if icon %}
         <i class="header__icon icon-{{ icon }}"></i>
       {% endif %}
@@ -14,9 +16,9 @@ layout: default
       {% endif %}
     </h1>
   </div>
-  <div class="content" itemprop="articleBody">
+  <div class="content">
     <p>
-      <em datetime="{{ page.date.toISOString() }}" itemprop="datePublished">
+      <em datetime="{{ page.date.toISOString() }}">
         {{ page.date | date("long") }}
       </em>
     </p>
@@ -25,4 +27,4 @@ layout: default
       <p><strong><a href="{{ source }}">Source</a></strong></p>
     {% endif %}
   </div>
-</div>
+</article>

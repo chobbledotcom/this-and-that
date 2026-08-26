@@ -1,9 +1,7 @@
 ---
 title: From the city's only Michelin Star to the home of the 'rice and three' - All the Greater Manchester venues named in best UK food guide
 subtitle: Harden's Best UK Restaurants Guide
-metaTitle: "A large number of Manchester's restaurants have been included in a prestigious guide celebrating the very best places to eat in the country.
-
-Published each year and now in its 34th edition, Harden's Best UK Restaurants guide is considered to be one of only two surviving established UK restaurant guides made available in print - and is the only one based on feedback from diners as opposed to professional inspectors."
+metaTitle: "This & That in Harden's Best UK Restaurants Guide"
 source: https://www.manchestereveningnews.co.uk/whats-on/food-drink-news/citys-only-michelin-star-home-30513074
 ---
 

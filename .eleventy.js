@@ -3,7 +3,11 @@ module.exports = (eleventyConfig) => {
 	eleventyConfig.addPassthroughCopy("assets");
 	eleventyConfig.addPassthroughCopy("favicon.ico");
 	eleventyConfig.addPassthroughCopy("google65f94dc9a9e4440f.html");
-	eleventyConfig.addPassthroughCopy("tripadvisor-iframe.html");
+
+	// These are not pages: the README is repo documentation and the Google
+	// verification file is served verbatim by the passthrough copy above.
+	eleventyConfig.ignores.add("README.md");
+	eleventyConfig.ignores.add("google65f94dc9a9e4440f.html");
 
 	// Add collections for posts
 	eleventyConfig.addCollection("posts", (collectionApi) => {
@@ -26,6 +30,14 @@ module.exports = (eleventyConfig) => {
 			.sort((a, b) => (a.data.order || 999) - (b.data.order || 999));
 	});
 
+	// Every page that belongs in the sitemap, newest content first.
+	eleventyConfig.addCollection("sitemapPages", (collectionApi) => {
+		return collectionApi
+			.getAll()
+			.filter((item) => item.url && !item.data.noindex && !item.data.excludeFromSitemap)
+			.sort((a, b) => a.url.localeCompare(b.url));
+	});
+
 	// Add date filter for posts
 	eleventyConfig.addFilter("date", (date, format) => {
 		const d = new Date(date);
@@ -37,6 +49,33 @@ module.exports = (eleventyConfig) => {
 			});
 		}
 		return d.toISOString();
+	});
+
+	// Build a meta description from a page's own content when it doesn't
+	// declare a metaDescription of its own.
+	eleventyConfig.addFilter("excerpt", (content) => {
+		if (!content) return "";
+		const text = String(content)
+			.replace(/<(script|style)[^>]*>[\s\S]*?<\/\1>/gi, " ")
+			// Drop the page furniture that every layout renders above the body
+			// copy, so the description starts at the actual prose.
+			.replace(/<div class="header">[\s\S]*?<\/div>/i, " ")
+			.replace(/<h1[^>]*>[\s\S]*?<\/h1>/gi, " ")
+			.replace(/<em datetime[^>]*>[\s\S]*?<\/em>/gi, " ")
+			.replace(/<[^>]+>/g, " ")
+			.replace(/&nbsp;/g, " ")
+			.replace(/&amp;/g, "&")
+			.replace(/&#39;/g, "'")
+			.replace(/&quot;/g, '"')
+			.replace(/\s+/g, " ")
+			// Stripping inline tags leaves gaps before punctuation.
+			.replace(/\s+([,.:;!?%])/g, "$1")
+			.replace(/([£$])\s+/g, "$1")
+			.trim();
+		if (text.length <= 155) return text;
+		const clipped = text.slice(0, 155);
+		const lastSpace = clipped.lastIndexOf(" ");
+		return `${clipped.slice(0, lastSpace > 100 ? lastSpace : 155).trim()}…`;
 	});
 
 	// Add escape filter

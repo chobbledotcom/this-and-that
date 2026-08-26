@@ -1,7 +1,7 @@
 ---
 title: The 'cheap eats' in Manchester where you can dine for less than a tenner
 subtitle: Manchester Evening News
-metaTitle: The 'cheap eats' in Manchester where you can dine for less than a tenner
+metaTitle: "Manchester Cheap Eats Under a Tenner | This & That"
 source: https://www.manchestereveningnews.co.uk/whats-on/food-drink-news/cheap-eats-manchester-you-can-24733894
 ---
 

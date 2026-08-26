@@ -1,7 +1,7 @@
 ---
 title: Backstreet curry cafe and arguably the most famous 'rice and three' lunch spot in the city
 subtitle: Manchester's Finest
-metaTitle: Words like 'institution' get banded about a lot these days. When it comes to food and drink, the phenomenon is particularly prominent. It often feels that all you need to make the cut is five years of business under your belt and a revenue that keeps your head above water. This & That Cafe makes a great case for being so much more than that. A half-hidden, nearly-impossible to track down back street curry spot that has been serving Mancunians and visitors its legendary 'rice & three' combination for as long as Finest has existed. And then a few decades more besides, first opening in 1984.
+metaTitle: "Manchester's Most Famous Rice & Three | Manchester's Finest"
 source: https://www.manchestersfinest.com/places/this-and-that/
 ---
 

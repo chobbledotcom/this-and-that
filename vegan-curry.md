@@ -1,11 +1,13 @@
 ---
 layout: page
 cssClass: page--vegan
-metaTitle: "Vegan Curry - This & That Indian Cafe, Soap St, Northern Quarter, Manchester"
+metaTitle: "Vegan Curry Manchester | 3 Vegan Curries & Rice £6"
 icon: food
 permalink: /vegan-curry/
 title: "Vegan Curry"
 subtitle: "Three vegan curries every day!"
+metaDescription: "Three fresh vegan curries every day in Manchester’s Northern Quarter, £6 with rice. Cooked with vegetable ghee — vegan chapattis, bhajis and samosas too."
+updated: 2026-08-26
 ---
 
 We're proud to offer three fresh, home-style vegan curries every day of the week, for only £6 with rice! Manchester has a thriving vegan food scene covering all types of dishes, and curry is no exception. India has the world's largest vegetarian population, and having a veggie curry for lunch is a great way to get towards your 'five a day'. We've been happily serving our vegetarian and vegan customers for decades!

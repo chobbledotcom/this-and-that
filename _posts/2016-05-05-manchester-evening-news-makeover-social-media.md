@@ -1,7 +1,7 @@
 ---
 title: Manchester Curry cafe This and That gets a makeover and social media isn't sure
 subtitle: Manchester Evening News
-metaTitle: Manchester Curry cafe This and That gets a makeover and social media isn't sure
+metaTitle: "This & That's Makeover Divides Manchester | MEN"
 source: https://www.manchestereveningnews.co.uk/whats-on/food-drink-news/this-that-curry-northern-quarter-11289504
 ---
 

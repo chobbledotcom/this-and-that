@@ -1,7 +1,7 @@
 ---
 title: 22 incredible Manchester dishes that everyone needs to try
 subtitle: Manchester Wire
-metaTitle: "From bargain butties and hearty fry-ups to authentic tapas and traditional Cantonese roasts, we've whittled our way through some of Manchester's best menus, picking out a single, must-try item from each as we go."
+metaTitle: "22 Manchester Dishes to Try | This & That in Manchester Wire"
 source: https://manchesterwire.co.uk/guide/22-incredible-manchester-dishes-that-everyone-needs-to-try/
 ---
 

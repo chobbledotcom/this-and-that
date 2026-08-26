@@ -1,10 +1,12 @@
 ---
 layout: page
 cssClass: page--praise
-metaTitle: "Kind Words From Our Customers - Reviews of T&T"
+metaTitle: "Reviews | This & That Indian Cafe, Manchester Northern Quarter"
 permalink: /reviews/
 title: "Reviews of T&T"
 subtitle: "We feel your love"
+metaDescription: "Hundreds of kind words from customers of This & That, Manchester’s favourite curry house on Soap St in the Northern Quarter. Read the reviews."
+updated: 2026-08-26
 ---
 
 **Some of the kind words people have left on [our Google Maps listing](https://goo.gl/maps/xTNreANmJEz) over the years:**

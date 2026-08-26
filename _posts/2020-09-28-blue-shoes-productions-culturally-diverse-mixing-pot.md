@@ -1,7 +1,7 @@
 ---
 title: "This & That: A Culturally Diverse Mixing Pot Where Everyone is Welcome"
 subtitle: Blue Shoes Productions
-metaTitle: "This & That: A Culturally Diverse Mixing Pot Where Everyone is Welcome"
+metaTitle: "This & That: A Culturally Diverse Mixing Pot"
 source: https://web.archive.org/web/20201023015821/https://www.blueshoesproductions.com/post/this-and-that
 ---
 

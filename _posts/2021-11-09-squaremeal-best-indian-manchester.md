@@ -1,7 +1,7 @@
 ---
 title: "Best Indian Manchester: Our favourite curry houses in the capital of the north"
 subtitle: Squaremeal
-metaTitle: "Best Indian Manchester: Our favourite curry houses in the capital of the north"
+metaTitle: "Best Indian in Manchester | This & That in Squaremeal"
 source: https://www.squaremeal.co.uk/restaurants/best-for/best-indian-manchester_9321
 ---
 

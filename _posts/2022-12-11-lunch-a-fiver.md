@@ -1,7 +1,7 @@
 ---
 title: Where to get breakfast, lunch and dinner in Manchester city centre for £5 a meal
 subtitle: Manchester Evening News
-metaTitle: There's a wealth of places to dine in Manchester - and at a much lower cost than a typical meal out
+metaTitle: "Manchester Lunch for £5 | This & That in the MEN"
 source: https://www.manchestereveningnews.co.uk/whats-on/food-drink-news/breakfast-lunch-dinner-manchester-city-25702767#amp-readmore-target
 ---
 

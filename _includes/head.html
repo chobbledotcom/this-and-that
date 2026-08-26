@@ -24,17 +24,49 @@
   <link rel="dns-prefetch" href="https://maps.googleapis.com" />
   {% endif %}
 
-  <title>
-    {% if metaTitle %}{{ metaTitle }}{% else %}{{ site.title }}{% endif %}
-  </title>
-  <meta name="description" content="{{ excerpt or site.description }}" />
+  {% set metaPageTitle = metaTitle or title or site.title %}
+  {% set metaPageDescription = metaDescription or (content | excerpt) or site.description %}
+  {% set metaPageUrl = site.url + (page.url | replace('.html', '')) %}
+  {% set metaPageImage = site.url + (metaImage or "/assets/banner-1800.jpg") %}
+
+  <title>{{ metaPageTitle }}</title>
+  <meta name="description" content="{{ metaPageDescription }}" />
+  <link rel="canonical" href="{{ metaPageUrl }}" />
+  {% if noindex %}
+  <meta name="robots" content="noindex, follow" />
+  {% else %}
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1" />
+  {% endif %}
+
+  <meta property="og:type" content="{% if layout == 'post' %}article{% else %}website{% endif %}" />
+  <meta property="og:site_name" content="This &amp; That Indian Cafe, Manchester" />
+  <meta property="og:locale" content="en_GB" />
+  <meta property="og:title" content="{{ metaPageTitle }}" />
+  <meta property="og:description" content="{{ metaPageDescription }}" />
+  <meta property="og:url" content="{{ metaPageUrl }}" />
+  <meta property="og:image" content="{{ metaPageImage }}" />
+  <meta property="og:image:width" content="1800" />
+  <meta property="og:image:height" content="806" />
+  <meta
+    property="og:image:alt"
+    content="A view down Soap St, Manchester - home of This &amp; That Cafe"
+  />
+  {% if layout == 'post' and page.date %}
+  <meta property="article:published_time" content="{{ page.date | date }}" />
+  {% endif %}
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{{ metaPageTitle }}" />
+  <meta name="twitter:description" content="{{ metaPageDescription }}" />
+  <meta name="twitter:image" content="{{ metaPageImage }}" />
+
+  <meta name="geo.region" content="GB-MAN" />
+  <meta name="geo.placename" content="Manchester" />
+  <meta name="geo.position" content="53.484718;-2.238091" />
+  <meta name="ICBM" content="53.484718, -2.238091" />
 
   <link rel="stylesheet" href="/assets/main.css" />
   <link rel="stylesheet" href="/assets/fontello.css" />
-  <link
-    rel="canonical"
-    href="{{ site.url }}{{ page.url | replace('.html', '') }}"
-  />
   <link rel="icon" href="/favicon.ico" type="image/x-icon" />
   {% include "json-ld.html" %}
   <script async type="module" src="/assets/turbo.es2017-esm.min.js"></script>

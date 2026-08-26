@@ -1,7 +1,7 @@
 ---
 title: The best South Asian restaurants, cafes and takeaways in Greater Manchester
 subtitle: Manchester Evening News
-metaTitle: Earlier this month, we asked you to share your favourite spots in Greater Manchester when it came to South Asian food.
+metaTitle: "Best South Asian Restaurants in Manchester | This & That"
 source: https://www.manchestereveningnews.co.uk/whats-on/food-drink-news/best-south-asian-restaurants-cafes-31073043
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "The Most Irresistable Indian Restaurants You Have To Try In Manchester"
 subtitle: "Secret Manchester"
-metaTitle: T&T in The Most Irresistable Indian Restaurants You Have To Try In Manchester
+metaTitle: "This & That: Manchester's Most Irresistible Indian Food"
 source: https://secretmanchester.com/best-indian-restaurants-manchester/
 ---
 
