@@ -1,7 +1,7 @@
 ---
 title: The best genuinely cheap eats in Manchester
 subtitle: Manchester's Finest
-metaTitle: From £1 snacks to full lunches under £7, here's where to go for Manchester's best cheap eats.
+metaTitle: "The Best Cheap Eats in Manchester | This & That in Finest"
 source: https://www.manchestersfinest.com/manchester-guides/the-best-genuinely-cheap-eats-in-manchester/
 ---
 

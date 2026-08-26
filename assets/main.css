@@ -241,3 +241,8 @@ footer ul {
     text-decoration: underline;
     font-weight: bold;
 }
+.footer__nav{margin-top:.5rem}
+.footer__nav p{margin-bottom:.25rem}
+.breadcrumb{background:none;padding:0;margin-bottom:.5rem;font-size:85%}
+.right-column__links{list-style:none;padding-left:0;margin-bottom:1rem}
+.right-column__links li{margin-bottom:.25rem}

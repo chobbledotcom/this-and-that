@@ -1,7 +1,7 @@
 ---
 title: The best places to eat in Manchester if you're doing Veganuary
 subtitle: The Manc
-metaTitle: We are truly spoilt for choice when it comes to great vegan restaurants in Manchester.
+metaTitle: "Best Veganuary Spots in Manchester | This & That"
 source: https://themanc.com/eats/the-best-places-to-eat-in-manchester-if-youre-doing-veganuary/
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: One Of Manchester's Best Indian Restaurants Has Created Giant 'Curry Hampers' For Home Delivery
 subtitle: Secret Manchester
-metaTitle: One Of Manchester's Best Indian Restaurants Has Created Giant 'Curry Hampers' For Home Delivery
+metaTitle: "This & That's Giant Curry Hampers | Secret Manchester"
 source: https://secretmanchester.com/this-and-that-manchester-curry-hampers/
 ---
 

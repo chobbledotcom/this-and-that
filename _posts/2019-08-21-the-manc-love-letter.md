@@ -1,7 +1,7 @@
 ---
 title: "A Love Letter to This & That: Manchester's greatest dinner spot"
 subtitle: The Manc
-metaTitle: "A Love Letter to This & That: Manchester's greatest dinner spot"
+metaTitle: "A Love Letter to This & That | The Manc"
 source: https://web.archive.org/web/20201026221646/https://themanc.com/news/a-love-letter-to-this-that-manchesters-greatest-dinner-spot/
 ---
 

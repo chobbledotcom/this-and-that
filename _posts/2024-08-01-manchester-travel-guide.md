@@ -1,7 +1,7 @@
 ---
 title: Two Night Minimum
 subtitle: Bloomberg
-metaTitle: "A cultural and economic revolution is transforming this old industrial hub into one of Britain's most captivating—and modern—cities. But two things will never change: Its penchant for football and for rock 'n' roll."
+metaTitle: "This & That in Bloomberg's Manchester Travel Guide"
 source: https://www.bloomberg.com/features/2024-two-night-minimum-manchester/
 ---
 

@@ -1,6 +1,6 @@
 <footer>
   <p class="text-center">
-    <strong>This & That Cafe</strong>
+    <strong>This &amp; That Cafe</strong>
     <br />Indian Restaurant / Cafe <br />Soap St, Manchester <br />M4 1EW
     {% if site.phone_number %}
     <br />
@@ -10,11 +10,24 @@
       {{ site.phone_number }}
     </a>
     {% endif %}
-    <br />
-    <a href="/news">News / Press</a> / <a href="/reviews">Reviews</a> /
-    <a href="/frequently-asked-questions">FAQs</a>
-    {% if page.url == "/" or page.url == "/index.html" %}
-    <br />
+  </p>
+
+  <nav class="text-center footer__nav" aria-label="Footer">
+    <p>
+      <a href="/menu/">Curry Menu</a> /
+      <a href="/vegan-curry/">Vegan Curry</a> /
+      <a href="/halal-curry/">Halal Curry</a> /
+      <a href="/gluten-free-curries/">Gluten Free Curry</a>
+    </p>
+    <p>
+      <a href="/news/">News / Press</a> /
+      <a href="/reviews/">Reviews</a> /
+      <a href="/frequently-asked-questions/">FAQs</a>
+    </p>
+  </nav>
+
+  {% if page.url == "/" or page.url == "/index.html" %}
+  <p class="text-center">
     <a
       rel="nofollow"
       href="https://github.com/chobbledotcom/this-and-that"
@@ -26,6 +39,6 @@
       href="https://chobble.com/examples/this-and-that/"
       >Chobble web design in Manchester</a
     >
-    {% endif %}
   </p>
+  {% endif %}
 </footer>

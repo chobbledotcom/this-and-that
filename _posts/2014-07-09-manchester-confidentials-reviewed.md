@@ -1,7 +1,7 @@
 ---
 title: This'n'That Cafe Reviewed
 subtitle: Manchester Confidentials
-metaTitle: Jonathan Schofield goes for the original rice and three at This & That Curry Cafe, Manchester
+metaTitle: "This & That Curry Cafe Reviewed | Manchester Confidentials"
 source: https://web.archive.org/web/20200809172108/http://old.manchesterconfidential.co.uk/Food-and-Drink/Indian/ThisnThat-Cafe-Reviewed
 ---
 

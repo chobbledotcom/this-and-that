@@ -1,0 +1,20 @@
+---
+permalink: /sitemap.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- for item in collections.sitemapPages %}
+{%- set isPost = item.data.layout == 'post' %}
+  <url>
+    <loc>{{ site.url }}{{ item.url | replace('.html', '') }}</loc>
+    {%- if item.data.updated %}
+    <lastmod>{{ item.data.updated | date }}</lastmod>
+    {%- elif isPost %}
+    <lastmod>{{ item.date | date }}</lastmod>
+    {%- endif %}
+    <changefreq>{% if item.url == '/' or item.url == '/menu/' %}weekly{% elif isPost %}yearly{% else %}monthly{% endif %}</changefreq>
+    <priority>{% if item.url == '/' %}1.0{% elif item.url == '/menu/' %}0.9{% elif isPost %}0.4{% else %}0.7{% endif %}</priority>
+  </url>
+{%- endfor %}
+</urlset>

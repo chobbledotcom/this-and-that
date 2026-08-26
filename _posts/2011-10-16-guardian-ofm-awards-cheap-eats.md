@@ -1,7 +1,7 @@
 ---
 title: OFM Awards 2011 - Cheap Eats
 subtitle: The Guardian
-metaTitle: This & That featured in The Guardian's OFM Awards 2011 cheap eats roundup
+metaTitle: "This & That in The Guardian's OFM Awards Cheap Eats"
 source: https://www.theguardian.com/lifeandstyle/2011/oct/16/ofm-awards-2011-cheap-eats-koya
 ---
 

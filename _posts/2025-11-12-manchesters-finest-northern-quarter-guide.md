@@ -1,7 +1,7 @@
 ---
 title: Northern Quarter neighbourhood guide
 subtitle: Manchester's Finest
-metaTitle: "Hidden down a backstreet, This & That has been serving its legendary 'rice and three' since 1984"
+metaTitle: "This & That in Manchester's Northern Quarter Guide"
 source: https://www.manchestersfinest.com/manchester-guides/neighbourhood-guides/northern-quarter-neighbourhood-guide/
 ---
 

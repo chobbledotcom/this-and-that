@@ -3,11 +3,13 @@ layout: page
 cssClass: page--menu
 linkText: Menu
 order: 1
-metaTitle: "Menu - This & That Indian Cafe, Soap St, Northern Quarter, Manchester"
+metaTitle: "Curry Menu & Prices | This & That Indian Cafe, Manchester"
 icon: food
 permalink: /menu/
 title: "Menu"
 subtitle: "A different choice each day"
+metaDescription: "Our daily curry menu in Manchester’s Northern Quarter. Rice & three curries from £6 — a different choice of chicken, lamb and vegan curries every day."
+updated: 2026-08-26
 ---
 
 *Green curries* are **vegetarian** & **[vegan](/vegan-curry/)**

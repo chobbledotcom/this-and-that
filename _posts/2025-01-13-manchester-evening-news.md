@@ -1,7 +1,7 @@
 ---
 title: The 30 best restaurants in Manchester you need to try in 2025
 subtitle: Manchester Evening News
-metaTitle: "Michelin dining, street food spots and hidden gems, Manchester's culinary scene has it all - here's where to try"
+metaTitle: "The 30 Best Restaurants in Manchester | This & That"
 source: https://www.manchestereveningnews.co.uk/whats-on/food-drink-news/30-best-restaurants-manchester-you-30738787
 ---
 

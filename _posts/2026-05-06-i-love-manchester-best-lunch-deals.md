@@ -1,7 +1,7 @@
 ---
 title: The best lunch and meal deals in Manchester
 subtitle: I Love Manchester
-metaTitle: "Limited on time? Limited on budget? These Manchester lunch spots prove you do not need another sad supermarket sandwich."
+metaTitle: "Best Lunch Deals in Manchester | This & That"
 source: https://ilovemanchester.com/best-lunch-deals-manchester
 ---
 

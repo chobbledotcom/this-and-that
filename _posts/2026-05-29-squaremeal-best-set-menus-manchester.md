@@ -1,7 +1,7 @@
 ---
 title: "The best set menus in Manchester: 14 unbeatable lunch and dinner deals"
 subtitle: Squaremeal
-metaTitle: "The best set menus in Manchester: 14 unbeatable lunch and dinner deals"
+metaTitle: "The Best Set Menus in Manchester | This & That"
 source: https://www.squaremeal.co.uk/restaurants/best-for/best-set-menus-manchester_11135
 ---
 
