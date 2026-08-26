@@ -29,6 +29,7 @@ img {
 
 img#alley {
     width: 100%;
+    height: auto;
     aspect-ratio: 900 / 403;
 }
 
@@ -241,6 +242,7 @@ footer ul {
     text-decoration: underline;
     font-weight: bold;
 }
+.page > h2:first-child{padding-top:0}
 .footer__nav{margin-top:.5rem}
 .footer__nav p{margin-bottom:.25rem}
 .breadcrumb{background:none;padding:0;margin-bottom:.5rem;font-size:85%}

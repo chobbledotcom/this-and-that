@@ -6,7 +6,7 @@ metaTitle: "Indian Curry House Manchester | This & That Cafe"
 icon: home
 title: "This & That Cafe"
 subtitle: "Home of Rice & Three Curries"
-metaDescription: "Manchester’s favourite curry house since 1984. Rice & three curries from £6 in the Northern Quarter — halal, vegan and gluten free. 3 Soap St, M4 1EW."
+metaDescription: "A family run Indian cafe in Manchester’s Northern Quarter since 1984. Rice and three curries from £6 — halal, vegan and gluten free. 3 Soap St, M4 1EW."
 updated: 2026-08-26
 ---
 
@@ -18,24 +18,22 @@ All food is homemade and prepared using **fresh whole spices** for an authentic 
 
 ## <i class="icon-food"></i>What is a Rice & Three?
 
-Pick any **three curries** from the day’s choice and we’ll pile them onto a plate with rice. It’s the dish we’ve become known for, and it’s still one of the best value lunches in Manchester city centre:
+Pick any three curries from what we’ve cooked that day and we’ll put them on a plate with rice:
 
 - **Rice & 3 Veg curries** — £6.00
 - **Rice & 1 Meat & 2 Veg curries** — £6.50
 - **Rice & 2 Meat & 1 Veg curry** — £7.00
 - **Rice & 3 Meat curries** — £8.00
 
-The curries change every day of the week, so no two visits are quite the same — [**see this week’s curry menu**](/menu/).
+The curries change from day to day — [**see what’s on this week**](/menu/).
 
 ## <i class="icon-food"></i>Halal, Vegan & Gluten Free Curry
 
-Whatever you eat, there’s a plate here for you:
+- All our meat is **HMC certified** — more about our [**halal curry**](/halal-curry/)
+- We cook **three vegan curries a day** — see the [**vegan curry menu**](/vegan-curry/)
+- None of our curries contain wheat — see our [**gluten free curries**](/gluten-free-curries/)
 
-- All our meat is **HMC certified** — read more about our [**halal curry in Manchester**](/halal-curry/)
-- We cook **three vegan curries every single day** — see our [**vegan curry menu**](/vegan-curry/)
-- Every curry we make is wheat free — see our [**gluten free curries**](/gluten-free-curries/)
-
-Still got a question? Have a look at our [**frequently asked questions**](/frequently-asked-questions/), or read [**what our customers say about us**](/reviews/).
+If we haven’t answered something, try the [**FAQs**](/frequently-asked-questions/) or have a read of our [**reviews**](/reviews/).
 
 ## <i class="icon-map-signs"></i>Location
 
