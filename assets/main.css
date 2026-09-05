@@ -248,3 +248,82 @@ footer ul {
 .breadcrumb{background:none;padding:0;margin-bottom:.5rem;font-size:85%}
 .right-column__links{list-style:none;padding-left:0;margin-bottom:1rem}
 .right-column__links li{margin-bottom:.25rem}
+
+/* Cross-document view transitions (replaces Turbo's SPA navigation).
+   Shared furniture (nav bar, footer) is snapshotted under identical names on
+   both pages so it stays put between navigations, while the page content and
+   title cross-fade and slide. */
+@view-transition {
+    navigation: auto;
+}
+
+.navbar {
+    view-transition-name: site-nav;
+}
+
+main {
+    view-transition-name: page-content;
+}
+
+.header {
+    view-transition-name: page-title;
+}
+
+footer {
+    view-transition-name: site-footer;
+}
+
+::view-transition-old(root) {
+    animation: vt-fade-out 0.2s ease-out both;
+}
+
+::view-transition-new(root) {
+    animation: vt-fade-in 0.3s ease-in both;
+}
+
+::view-transition-old(page-content) {
+    animation: vt-content-out 0.2s ease-out both;
+}
+
+::view-transition-new(page-content) {
+    animation: vt-content-in 0.3s ease-in both;
+}
+
+::view-transition-old(page-title),
+::view-transition-new(page-title) {
+    animation-duration: 0.25s;
+}
+
+@keyframes vt-fade-out {
+    to {
+        opacity: 0;
+    }
+}
+
+@keyframes vt-fade-in {
+    from {
+        opacity: 0;
+    }
+}
+
+@keyframes vt-content-out {
+    to {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+}
+
+@keyframes vt-content-in {
+    from {
+        opacity: 0;
+        transform: translateY(14px);
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    ::view-transition-group(*),
+    ::view-transition-old(*),
+    ::view-transition-new(*) {
+        animation: none !important;
+    }
+}
