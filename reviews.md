@@ -6,14 +6,14 @@ permalink: /reviews/
 title: "Reviews of T&T"
 subtitle: "We feel your love"
 metaDescription: "Hundreds of kind words from customers of This & That, Manchester’s favourite curry house on Soap St in the Northern Quarter. Read the reviews."
-updated: 2026-08-26
+updated: 2026-09-05
 ---
 
 **Some of the kind words people have left on [our Google Maps listing](https://goo.gl/maps/xTNreANmJEz) over the years:**
 
 ❤️❤️❤️
 
-_Last update: January 16, 2026_
+_Last update: September 6, 2026_
 
 ---
 
@@ -44,6 +44,10 @@ Terrific hole in the wall joint, no frills just excellent comfort food. Dishes r
 ---
 
 Great little place that serves rice and curry.  Plenty of different choice of curries on offer as well as kebabs and samosas however their speciality is rice and curry.  Mix and match meat and vegetable curries to create a fusion of different flavours.  Their reputation and popularity has spread by word of mouth which is the best form of advertising.
+
+---
+
+10/10 and such great value!
 
 ---
 
@@ -91,6 +95,14 @@ V V tasty
 
 ---
 
+Amazing food
+
+---
+
+Food is awesome and super friendly staff
+
+---
+
 Great place for a quick meal. Food is really nice, homemade and tasty. You get your plate immediately as you order. Staff is friendly.
 
 ---
@@ -99,6 +111,12 @@ I was at the door as they opened so I was the first customer.
 I went for the fish curry, lamb and spinach and keema with rice, a roti and a glass of mango lassi.
 As always the food was fantastic,  think the total price was £10.20, which is a bargain.
 This and Thats remains in my top 3 curry houses.
+
+---
+
+Brought by a friend who’s been a few times to this gem of authenticity and kindness.
+
+Really cannot sing enough praises of the variety of veg and meat curry options available (not to mention how tasteful and delicious they are!) - most importantly the members are incredibly helpful and friendly and This&That embodies charity via donating hot meals to community members in need :)
 
 ---
 
@@ -154,11 +172,19 @@ Best food ever been going for 30 years.
 
 ---
 
+Great food at even better prices!!!!
+
+---
+
 Superb Indian Cafe! Quite basic inside and out but food and prices cannot be beaten!
 
 ---
 
 Great value, tasty food with plenty of variety at a hole in the wall establishment and friendly service from the owner!
+
+---
+
+Decent lunch. Fast service, no nonsense dining
 
 ---
 
@@ -234,6 +260,10 @@ Just tried liver and kidney, amazing
 
 ---
 
+La perle de Manchester, l'endroit pour bien manger et pas cher. Les saveurs sont incroyables, on se régale !
+
+---
+
 THE BEST!!!!
 So lucky to have bumped into this little Gem!
 Amazing food, friendly staff, incredible value for money!
@@ -305,7 +335,19 @@ Simply b-e-a-ootiful.
 
 ---
 
+Best curry house in England. No seriously.  The best. All you southerners stay away. We do curry here not ruby
+
+---
+
+Like being at your mates house but with better food  . The price list doesn't reflect the amazing quality of the food  .
+
+---
+
 A no frills spot, serving excellent Indian food at a fantastic price. 'Rice and 3' at £7 provided a perfect lunch. Highly recommended.
+
+---
+
+Great curry, literally so fresh and home made, beautiful. Small but has enough stuff. Tables may need a clean at times but it’s great. Love the people that work there and are very friendly and happy to help. Not that much selection but it’s beautiful curry. Truly a hidden gem and I love the place it’s in. Has a nice vibe
 
 ---
 
@@ -322,6 +364,10 @@ Been coming here on & off for years like many others. You can’t argue with the
 ---
 
 the absolute best way to describe this place is - you know walking home you smell some great cooking and you wish you could be invited in, but you arent and you go home and order a take out but its resturant food and not anything like the home cooking.... WELL THIS PLACE DOES INVITE YOU IN. IT IS THE GREAT HOME COOKED SMELL YOUR SMELLING. I kept hearing great things. From everyone from every walk of life. it is exceptional. everyone is welcome and everyone will love what they have cooked. Home cooked style. so incredibly good value. such amazingly kind and dedicated people.
+
+---
+
+Had a great time here with friends during a day out in Manchester food was excellent staff were good and the owner is a great guy he gave us a bottle of water each and a extra portion for my mate free of charge 😀
 
 ---
 
@@ -376,6 +422,14 @@ Great value curry and rice, plus Pedro does not visit here
 
 ---
 
+This & That Restaurant in Manchester is truly a hidden gem, as it's tucked away from the busy main areas. The concept is simple, you choose your dishes and the staff serve the curries you want.
+
+The food is filling and satisfying. Even though the restaurant looks simple, almost like a canteen, it's always busy with customers who clearly enjoy the food and keep coming back because the menu suits their taste well.
+
+The staff are friendly and always smiling, which adds to the pleasant dining experience. Definitely worth a visit if you're looking for good, affordable food 🍲. Highly recommend😉
+
+---
+
 Das Essen ist der Knaller. Super lecker und sehr herzliche Bedienung.
 Es gibt eine täglich wechselnde Tageskarte von der man frei wählen kann.
 Es ist kein Restaurant sondern mehr eine Art Imbiss, aber  100% zu empfehlen
@@ -423,6 +477,10 @@ Hidden in a run-down alley, you'll find this gem. Great food and helpful staff.
 
 ---
 
+Get the 3 curries. Ridiculously cheap price for ridulously tasty food.
+
+---
+
 Just brilliant. Tasty and cheap. Chef is a massive BWFC supporter too.
 
 ---
@@ -443,6 +501,10 @@ Prices are cheaper, food is fresh and varies daily. Simply great.
 ---
 
 Awesome lunch, "rice and three"
+
+---
+
+OMG the food is so lovely here. I reckon I've been to many different Indian restaurants or curry houses before in Manchester but I would say this little hidden canteen-like curry house might be my favourite now. The chicken curry and tikka masala I had were so tasty and unique, and the spinach and vegs were nice as well with rice. All of these including a can were just £8.50 absolutely worth it.
 
 ---
 
@@ -557,6 +619,10 @@ Authentic Asian food at affordable prices.
 
 ---
 
+Cheap and very cheerful.  Just £7.50 for the veggie "rice and three curries" and a mango lassi.
+
+---
+
 Superb 👍👍👍👍👍
 
 ---
@@ -570,6 +636,14 @@ We went this morning and had curry for our late breakfast!  It's great food and 
 ---
 
 Lovely Indian food
+
+---
+
+Great food, really good price. Will be back, many thanks.
+
+---
+
+Always fabulous food and great value. My go to place when in Manchester. Also remember, Tuesday is cabbage day ❤️
 
 ---
 
@@ -598,6 +672,10 @@ I got to This & That every working day for a rice and three veg curry and a chap
 ---
 
 Amazing authentic food, friendly staff and great prices.
+
+---
+
+The food here was absolutely amazing in terms of portion and flavour. Excellent value too, especially considering a central location just next to Shudehill Interchange! Will definitely come again and try all other options!
 
 ---
 
@@ -762,6 +840,14 @@ Brilliant place. Incredibly tasty curry, sold as Rice and 3 different curry's fr
 
 ---
 
+best curry in the north
+
+---
+
+Absolutely stellar hidden gem. Big draw is the unbeatable deal, but even for much higher price this is a fantastic restaurant. Staff working at this restaurant is very kind and welcoming and the whole place has a nice atmosphere of chatter, which might be in a slight contrast with barebones decor, but the place is amazing.
+
+---
+
 Amazing little place. Cheap with quality food and service
 
 ---
@@ -818,6 +904,14 @@ You will not believe how good the food is and how affordable the price is until 
 ---
 
 Great food! Always busy
+
+---
+
+Home cooked delicious Indian food that is very easy on the wallet, but leaves you feeling happy, totally satisfied and full to the brim. A total hidden gem in every way. Very kind staff too!
+
+---
+
+Real authentic Indian food, no more no less. A great little spot in the middle of Manchester
 
 ---
 
@@ -923,6 +1017,10 @@ Sunday - Thursday
 
 ---
 
+Loved this place. So welcoming even though we arrived just before they closed.  Good properly spiced curries 🍛 with Naan.  Not greasy, not pretentious but very tasty. Highly recommended.
+
+---
+
 i love it
 
 ---
@@ -936,6 +1034,10 @@ Great value for money - can try a few different currys that are on offer and the
 ---
 
 All I can say is that i genuinely can't enjoy food from other restaurants now I have eaten here, the only place I have ate curry in the last 4 years
+
+---
+
+Beautiful food, will definitely come back when we next visit Manchester. Good value for money and friendly staff
 
 ---
 
@@ -1177,7 +1279,18 @@ Great food! Really cheap! Like being at home!
 
 ---
 
+Been going to This and That for over 20 years amazing food and lovely people ❤️
+
+---
+
 Great value and delicious curries, with the best onion bhajis ever! Manchester’s best kept secret.
+
+---
+
+I’ve visited this restaurant around 14:00 on a weekday. There’s quite a large seating area and it’s pretty clean.
+They have different menu on each weekday. I have ordered a lamp curry from the daily menu with a garlic naan (total £7.80 which I believe is a good deal for a good meal). I’m glad the gentleman working at the cashier has stopped me ordering 2 naan as he afraid that I might be too full. The temperature of the food is hot enough and the portion is just right! 🫶🏻
+
+We are definitely going to visit again and recommend to our friends.
 
 ---
 
@@ -1206,6 +1319,10 @@ Przepysznie i tanio jak na Anglię i chyba nawet Polskę. Polecam
 ---
 
 Best curry's in Manchester
+
+---
+
+I’ve been here just the once and the service was impeccable. The owner of the restaurant was so kind and friendly, best service I’ve ever encountered in the UK. Amazing food, great value. Special mention to the mango lassi which was just incredible.
 
 ---
 
@@ -1248,6 +1365,14 @@ Cheap, fresh and excellent Indian food indeed! Would recommend 100%
 
 ---
 
+Ridiculously good scran. So much diversity on the menu. Fabulous pricing.
+
+Flavours on top. Independent is the way to go, and look no further than This & That.
+
+Vegan dishes tasty and fulfilling!
+
+---
+
 This place is no doubt the best and most authentic indian food there is in the entire Manchester or maybe UK. If you’re not scared of spice, come to this place. It might not have the best interior and setup but come here for food and not for vibe! Just the flavors and spices make up for everything! Totally would eat here everyday if I can.
 
 ---
@@ -1276,6 +1401,10 @@ Fantastic place.   No frills, top quality food at very very reasonable prices.  
 
 ---
 
+Great food ,nice chilled atmosphere
+
+---
+
 One of the best places to eat on the cheap in Manchester. Large portions and great curry, I go all the time.
 
 ---
@@ -1301,6 +1430,10 @@ Fun little place. Great Indian food, cheap with free yogurt and opens till 8pm e
 ---
 
 Brilliant place, great selection and seriously good value, the food is superb
+
+---
+
+Amazing value, great flavours. A hidden gem in a city centre. Two people can eat and drink for under £20.
 
 ---
 
@@ -1343,6 +1476,10 @@ Oh my word what an absolute winner of a cheeky curry lunch 😋. Rice and 3 curr
 ---
 
 Used to come here for a bi-weekly lunch treat with my colleagues. Absolutely delicious curries, friendly staff and good atmosphere in general. Sets you up for the rest of the day nicely👌🏻
+
+---
+
+A Manchester institution. Fantastic authentic food and fantastic prices.
 
 ---
 
@@ -1482,6 +1619,10 @@ Wow. Dank food, when they brought dusky on it took it to another level.
 
 ---
 
+Amazing value for money thank you
+
+---
+
 Does what it says on the tin - cheap and tasty curry for a quick lunch.
 
 ---
@@ -1608,6 +1749,10 @@ Fantastic, good, cheap food
 
 ---
 
+Very good halal Indian food
+
+---
+
 Absolutely love the nihari , meat and creamy the way I like it and not to fatty as the option is given to put oily bone marrow on top or not, I recommend with roti , also the lamb spinach is really nice as well , been twice now in the last two weeks and really enjoyed the food and experience.
 
 ---
@@ -1709,12 +1854,45 @@ Great service every time.
 
 ---
 
+.
+As of 10/03/2026 (Dinner)
+
+Taste：6️⃣
+Environment：5️⃣
+Seating：5️⃣
+Service：7️⃣
+Portion size：5️⃣
+Value for money：8️⃣
+*on a scale of ten
+Overall Score：60 / 100
+Average cost per person：£8.50
+💖>👍🏻>🤙🏻>👌🏻>✋🏻>👎🏻
+
+❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+Three curries with a Mango Lassi cost only £8.50 — such great value! The shop offers different curries every day, and today I chose Lamb Karahi Chops, Chicken Curry, and Mixed Vegetables. They were slightly spicy and full of fragrant spices.
+
+In the end, there was only half a cup of Mango Lassi left, so the owner kindly gave me a Diet Coke as well.
+
+🩷🩷🩷🩷🩷🩷🩷🩷🩷🩷
+🤙🏻Lamb Karahi Chops, Chicken Curry, and Mixed Vegetables, served with Rice
+
+💜💜💜💜💜💜💜💜💜💜
+This & That
+3 Soap St, Manchester M4 1EW
+
+---
+
 This is genuinely my favourite Indian place in the city. Their food is so delicious and they give extremely generous portions! The guys who work there are also such sweethearts and always make me feel so welcome, I love coming here ❤️
 
 ---
 
 Very good and rich taste of food. One of the few places, where you can find such flavourful food. All the curies are really good. In the heart of Manchester, almost in the middle of City Center, next to the Manchester Arndale, but still some times hard to find, Manchester's Hidden Gem for many reasons. There three cury snd rice is something in which you can get different flavours, spices and a mix of veg and meat. So, what else you can ask for in a single meal in such a reasonable price. You are going to find such good food, in a place you least expected. What else you can ask for. And it is there for decades since 1984.
 Highly recommended if you like to have authentic Indian/desi food.
+
+---
+
+We actually discovered this place through ChatGPT, and we’re really glad we did! The staff were amazing—very friendly and happy to help. They explained everything to us clearly and served us with genuine kindness.
+The place was clean, the atmosphere was welcoming, and the food was really good. Overall, it was a great experience and we’d definitely come back. Highly recommended!
 
 ---
 
@@ -1779,6 +1957,10 @@ Good food and friendly service, in a pastiche of a 1980s Manchester that is -in 
 ---
 
 Can't be beaten for really good, value curry. I had rice with chicken tikka masala, lamb, spinach, a bhaji and a drink for tenner.
+
+---
+
+Forget about the atmosphere. This place not only serves excellent food but is also superb value for money! A must visit every time I'm in Manchester during the day if time allows.
 
 ---
 
@@ -1871,6 +2053,10 @@ Delicious curry, cheap, good portions. The people are nice and friendly and I lo
 
 ---
 
+Love love love this place. Everything on the menu is a 100/10 and the guys working here are the best.
+
+---
+
 אוכל ממש טעים וזול, באמת הכי זול שאפשר לאכול ולשבוע בעיר היקרה הזאת :)
 
 ---
@@ -1880,6 +2066,12 @@ Fantastic and incredibly affordable Indian food with wonderful, friendly and ver
 ---
 
 Best Indian restaurant in manchester a true hidden gem 💎
+
+---
+
+Honest authentic food. Very generous portions!!
+
+£6 for rice and 3 veg
 
 ---
 
@@ -1923,6 +2115,10 @@ Just Ace.
 
 ---
 
+Tasty and friendly
+
+---
+
 My favourite affordable lunch/dinner spot. Right in the center of the chaos that is Manchester's vibrant Northern Quarter. Brilliant vegan options with a different menu every day. Owners a cheerful chap. Highly recommend!!!
 
 ---
@@ -1948,6 +2144,10 @@ Such good value for money. Really good for a quick meal. The staff are also real
 ---
 
 Veramente buonissimo, per un pranzo veloce sia che siate turisti ma anche se siete local, consigliatissimo e buon rapporto qualità prezzo
+
+---
+
+Cibo indiano buonissimo, prezzi iper conveniente per il Regno Unito.
 
 ---
 
@@ -1987,11 +2187,20 @@ I wanted a curry while in Manchester for a few days with a mate.  Not gonna lie,
 
 ---
 
+Tucked away down an alley in the Northern Quarter since 1984, This & That is a proper Manchester institution that every curry lover needs to visit. There are no fancy frills here—just pure, comforting Indian food served fast, fresh, and piping hot. The star of the show is their iconic "Rice & Three," where you get a massive plate of fluffy rice loaded with your choice of three daily curries. From slow-cooked, melt-in-your-mouth lamb to creamy, perfectly spiced lentil daal, every option is packed with rich, authentic flavor that keeps locals and visitors coming back for more.
+What makes This & That truly brilliant is the top-notch quality and unbeatable value for money. For well under a tenner, you get a belly-busting meal in a bustling, laid-back atmosphere where you sit at shared tables alongside a proper mix of Mancunians. Make sure to grab a freshly baked garlic naan to mop up every last bit of rich gravy, and wash it all down with a cold mango lassi. It is easily one of the best, most atmospheric bite-to-eat spots in the entire city.
+
+---
+
 I really enjoyed it. Is a very simple indian place with home mad currys meals. They all taste good and seems to be cooked in an authentic way. There is a menu which changes for every day of the week. For the quality is absolutely cheap
 
 ---
 
 Heard great things about This and That for years and even know the Casual Connoisseur twins who designed a T shirt in homage to their frequent trips to the place. Well worth hunting out (I ended up having to stoop to an all time low and speak to a traffic warden for directions, it's down alley by Trof in NQ) great food and flavours and not overly hot, great friendly service and a great price, what's not to like. Kids really liked it to and daughter not that fussed about Indian food usually. Will certainly be going back at some point.
+
+---
+
+Great city centre proper old school curry house
 
 ---
 
@@ -2008,6 +2217,10 @@ Very nice rice and three. Great price.  Will be back . Would recommend. Excellen
 ---
 
 Excellent as always, first visited in 1988 truly Manchester's hidden Gem. I visit at every opportunity. 🤗
+
+---
+
+Klasse stemning, afslappet og urban vibe. Sødt personale ø.
 
 ---
 
@@ -2103,6 +2316,10 @@ Delicious and very cheap Indian food. A little hard to find.  Gets crowded, espe
 
 ---
 
+Incredible experience from start to finish!! The food was so delicious and the portions were generous. The keema reminded me of my mom’s keema! I was definitely expecting to spend at least 20-30 GBP but only spent about 8 GBP for rice and 3 curries. The staff is the sweetest and even came by my table and said “do you want some more?” No other restaurant in the world would ever ask if you want a little more. Also the toppings station with chopped onions, cilantro, and chilies - OMG! This was such a classic touch. Any Bengali/Indian household will always have this at dinner parties, as well as asking if you want a little more, so all of these little things made me feel like I was at my auntie’s house, just having dinner. Super cozy and hospitable. 10/10, no notes.
+
+---
+
 Great
 
 ---
@@ -2146,11 +2363,21 @@ If you like mango lassi - this place is the gold standard for it.
 
 ---
 
+This is not the place to go, if you are looking for a fancy all-evening dining experience. This is place fast, plainer than plain and serves absolutely awesome food at a ridiculously low price, canteen style.
+
+Choose 3 servings on rice - I got chicken tikka, daal and chicken chana, add some chili  and a bit of garlic naan and you’re set for a great meal👏
+
+---
+
 Exceptional food, great prices and even better staff. My favourite spot to grab dinner in NQ - they don’t make curries like this in Toronto.
 
 ---
 
 Icarus saw a YouTube video from GaryEats reviewing this café that has been here for 40 years. Decided to give it a go. Tucked away down a side alley it is easy to miss. The rice plus three curries ranges from £6 for 3 veggie dishes to £8 for three meat dishes. (Or have one selection 3x!)  The choice of 8 or 9 dishes is set by day. Chicken curry and Keema seems to be on the menu every day. The lamb dish varies. There is a fish dish one day and a lamb and kidney on a Wednesday. Had two meals, a good naan and a can of coke for £20. All very good. A sociable shared eating space. Really enjoyed Ic buying our meal as his Advent Calendar Christmas present. Hard to find better value.
+
+---
+
+3 curries and rice for under a tenner what's not to like. I had tikka masala, spinach and potato, and lamb curry all were lovely.
 
 ---
 
@@ -2199,6 +2426,10 @@ Delicious, inexpensive, great place to grab lunch, even if you are in a hurry.
 
 ---
 
+Great staff and really delishous food. Must see if you're in town!
+
+---
+
 Great quality food and so cheap
 
 ---
@@ -2229,8 +2460,22 @@ Delicious curry, probably the best  in Manchester, naan bread was excellent fluf
 
 ---
 
+Best food
+
+---
+
 Super!
 Buonissimo e conveniente, serve riso o pane indiano con 3 condimenti vegetariani o con carne. Il posto ideale per una pausa pranzo veloce in puro stile Manchester!
+
+---
+
+The place may look uninviting but this is the best curry I've ever had if not one of my greatest restaurant experiences of all time.
+
+---
+
+A fantastic no fuss meal today. Lovely staff working here and exceptional food. HUGE PORTIONS!
+
+Looking forward to be back for the £1.50 mango lassi!!!!
 
 ---
 
@@ -2537,6 +2782,16 @@ Super leckeres und authentisches indisches Essen! Von außen sieht die Gasse nic
 
 ---
 
+A small Indian spot with a very authentic, original feel. There’s no need for a reservation—people simply walk in, order, eat, and leave. Nothing fancy, just simple and straightforward.
+
+You choose your own plate combination—for example, rice with two meats and one vegetable—by picking from the available options. I personally had rice with cabbage, chicken tikka masala, and chicken curry. We also tried the garlic naan and samosas, and everything was delicious.
+
+The food is absolutely amazing, but be warned—it’s quite spicy. The staff are genuinely kind and welcoming, always happy to help and explain the dishes.
+
+It’s also very affordable, especially if you’re looking for a filling meal. I would definitely recommend it, particularly if you enjoy spicy food.
+
+---
+
 Hidden gem!
 
 ---
@@ -2573,6 +2828,13 @@ Tasty food, nice people!
 
 ---
 
+Fabulous curry's (meat or veg 3 x meat/rice £8.) Incredible value.
+Very friendly service
+Canteen style seating.
+Handy in Northern quarter
+
+---
+
 Amazing food, and brilliant staff. I have been going here for years and the service has always been fantastic.
 
 ---
@@ -2582,6 +2844,16 @@ Fresh and good  quality food 👌
 ---
 
 Working-class canteen vibes serving delightfully flavourful and heartwarming curry's. Portions are big enough to get you through the week. Always go for 3 curries for the variety. Never say no to the crispy bhajis on offer.
+
+---
+
+Nice tast food.
+
+Rice , plus 3 dishes. I choose lamb curry, fish curry and Dhaall(veg option)
+
+Other options available like vegetable curry or spinach etc
+
+They take card. And drinks are 1.50 for a can. Total was 8.50 for me .
 
 ---
 
@@ -2598,6 +2870,10 @@ The food is so good! And the vibe is immaculate. Felt like home and the staff wa
 ---
 
 Great low key food stop.
+
+---
+
+This man is a hero feeding the world beautiful healthy food
 
 ---
 
@@ -2647,6 +2923,10 @@ Genuinely amazing place. A little gem. Proper solid food and a great atmosphere.
 
 Best hidden gem/ hole in the wall in the UK. Phenomenal Indian food, friendly and warm service, and even open on Christmas Eve!
 Truly had to beat. We got 6 curries, garlic naan, chapati, onion bajhi, and samosa! Hard to beat- and only for £25!
+
+---
+
+Absolutely LOVE This & That. I understand this to be something of an culinary institution in central Manchester, & for good reason! Food is inexpensive and great quality. Really love the grounded, down-to-Earth vibe of the place, & the staff are incredibly friendly and playful - Mo especially! I look forward to returning here as long as my legs are able to carry the rest of me (including my brain), towards another delicious plate of ‘rice-and-three’. Long live ‘This & That’! 11/10
 
 ---
 
@@ -2710,6 +2990,10 @@ A friend bought a lamb karai and a few extras from here , and gave me some to tr
 
 Heard about This and That for years but never tried, did last night. Will definitely be going back.
 3 of us went, three lots of curries and rice each, bhaji each, samosa each, naan bread each. £37 absolute bargain!!!
+
+---
+
+Leckes Essen, nette Leute und gute Atmosphäre. Sehr gute Preise und große Portionen.
 
 ---
 
@@ -2806,6 +3090,10 @@ The food was absolutely fantastic, better than my local takeaway which I rate hi
 
 ---
 
+Really tasty rice and 3 veg curries at a very reasonable price of £6.50. Really liked the vibe and friendly efficient staff. I highly recommend 👌
+
+---
+
 Best food i have eaten! Just the right level of spicy! I always take a group of 4-7 friends for the weekend for special dinner!
 
 ---
@@ -2894,7 +3182,15 @@ Been coming here regularly since 1984 when it first opened. Albeit. Rice n 3 was
 
 ---
 
+I mean what else can I say that has not been said a thousand times before: affordable, good quality/homemade-like food, with good service. Not so sure about “hidden” anymore but still a gem! I am sure this place gets extremely crowded so factor that in, but I went at like 4 p.m. so it was absolutely lovely. Dine in always!
+
+---
+
 Hidden gem. Best value for money. Sunday nehari is the best
+
+---
+
+Tasty and very authentic. They were happy to provide when we requested some extra Curry. Will recommend at least once. I couldn't find such a tasty Lamb Nihari anywhere else
 
 ---
 
@@ -3064,6 +3360,10 @@ Always been a fan since 2017. I get straight here when I'm home sick thats how g
 
 ---
 
+Simple cafe excellent curries and friendly - think this is a keeper
+
+---
+
 Very tasty, big portion, great price 😁
 
 ---
@@ -3077,6 +3377,11 @@ Can't really beat it can you
 ---
 
 Amazing food, service and prices. Definitely a must every time I’m in Manchester!
+
+---
+
+Food was incredible, service was fast and good. Buffet style food, it’s already cooked and ready to serve. 10£ for a plate with of rice with 3 curries piled on top of it + a can of coke. Packed with flavor
+EDIT: Went back next day and got a second plate it was marvelous
 
 ---
 
@@ -3153,6 +3458,10 @@ Best value in town
 ---
 
 Rice and 3 Curry's, hearty traditional meals, very tasty and affordable
+
+---
+
+Incredible place to stop to grab amazing Indian food. Though spicy, super tasty and cheap. Many vegetarian options, good stews, soft naan bread... to come back every week! Not only because of the food, but the service is notoriously kind and nice.
 
 ---
 
@@ -3298,11 +3607,23 @@ Incredible value for money
 
 ---
 
+Hidden gem
+
+---
+
 Authentic great value tasty food, Corey recommend it more!!
 
 ---
 
 The great value food! Always love to eat here..
+
+---
+
+Have been coming to This n That for 8 years now, and I can safely say it's the best curry available in Manchester. If I'm away from Manchester for an extended time, three curries and rice from this n that is the food here that I miss the most. Make sure to ask for a samosa and a mango lassi too. The world would be a better place if more family run places like this could survive.
+
+---
+
+great staff great food
 
 ---
 
@@ -3319,6 +3640,10 @@ Amazing flavors immediately served at very fair prices. The seating leaves a lot
 ---
 
 Freshly made homey Indian food
+
+---
+
+Super duper place! Lovely staff members too. We had an amazing meal, affordable, very tasty and great portion size, and some good laughs with the team working there. Really recommend!
 
 ---
 
@@ -3429,6 +3754,10 @@ Overall very happy with my food choice
 
 ---
 
+My favourite quick food spot, amazing selection and friendly staff
+
+---
+
 Great food as always
 
 ---
@@ -3503,7 +3832,16 @@ Lovely staff. Highly recommend.
 
 ---
 
+安くて美味い！店員さんの愛想もいい！
+最高！
+
+---
+
 I truly love this place.
+
+---
+
+a great restaurant well worth the visit amazing prices and extremely quick service. nice atmosphere overall. if in the area well worth trying.
 
 ---
 
@@ -3529,11 +3867,19 @@ The murgh tikka basically just came in tomato sauce. Wasn't good but still give 
 
 ---
 
+Great food great value never had a better curry in my life it’s clean and the atmosphere is excellent with a wide variety of curries. Been tens of times and gets better each one.
+
+---
+
 Still one of my favourites after over 10 years. This and That is an institution!
 
 ---
 
 Sehr lecker und gute Preise. Hier darf man sich nicht von dem äußeren Erscheinungsbild täuschen lassen. Die Einrichtung ist rustikal und einfach - aber hier geht’s ja um das Essen. Und das ist sehr zu empfehlen. Preisleistung - ist sehr gut.
+
+---
+
+Impresionante lugar para comer , estaba todo muy rico , céntrico y económico.
 
 ---
 
@@ -3550,6 +3896,14 @@ Staff friendly and very helpful.
 
 Just an AWESOME experience, and Mo who was serving us was also amazing! Thank you, I’ll defo come again and recommend it!
 For the French, Allez-y c’est fantastique! De la vraie cuisine indienne à ce prix, dingue!
+
+---
+
+It’s not the Ritz , but it doesn’t need to be. The food is beyond belief and the value incredible.
+
+---
+
+Loved it, very good value for money and lovely people
 
 ---
 
@@ -3609,6 +3963,22 @@ Good place for casual South Asian food. The place gets busy from 12 pm onwards a
 ---
 
 One of the kindest staff I have ever met! Price and portion lovely :)
+
+---
+
+While I haven't had the chance to dine in yet, just watching the plates come out, you can see the portions are massive. I have opted for takeout every time, and the experience has been consistently great.
+
+The value here puts those supermarket microwave curries to shame. For basically the same price, the portion is way more generous because you actually get a decent amount of meat instead of just sauce. It is a hearty meal that feels like a total cheat code for surviving student life.
+
+Also a huge shout out to the male staff member behind the counter. He is always so thoughtful, making sure to offer a plastic bag just in case it leaks or spills on my way home. It is those little things that make the place feel so welcoming!
+
+---
+
+While I haven't had the chance to dine in yet, just watching the plates come out, you can see the portions are massive. I have opted for takeout every time, and the experience has been consistently great.
+
+The value here puts those supermarket microwave curries to shame. For basically the same price, the portion is way more generous because you actually get a decent amount of meat instead of just sauce. It is a hearty meal that feels like a total cheat code for surviving student life.
+
+Also a huge shout out to the male staff member behind the counter. He is always so thoughtful, making sure to offer a plastic bag just in case it leaks or spills on my way home. It is those little things that make the place feel so welcoming.
 
 ---
 
@@ -3672,6 +4042,10 @@ Delicious and great price. Try the mango lassi!
 
 ---
 
+This place is good, its odd at first when your asked how many curry sauces you want but they will explain if you say you haven't been before. My husband had chicken tikka masala and chicken curry with rice and I had 3 veg (Dahl, onions and potatoes and some curry sauce) I would advice to look at the menu before going to give you an idea but there is a menu board inside. It cost us £17 for the curries/rice, a garlic naan and a Rubicon very reasonable. Definitely hidden and off the beaten track, staff are nice.
+
+---
+
 Amazing Indian food at incredible prices. Come here for the no fuss and no frills food and service that is perfect for a friendly and authentic meal.
 Whatever they’ve made that day, I’m sure it’ll be great!
 Lamb dishes and chicken tikka were wonderful when we were there and garlic naan is a must.
@@ -3727,6 +4101,10 @@ Best curry by far ☺our son's been eating here since 9 months old.Love the plac
 
 ---
 
+Great local Indian place with great variety and excellent prices, as well. You can get 3 main entrees w/rice and bread and they're all delicious.  Kind of hidden, and put of the way. Highly recommended!
+
+---
+
 Great place to have a curry when out and about in town atomoshere and food is excellent.
 
 ---
@@ -3745,11 +4123,22 @@ The food is absolutely amazing here. Especially the nihari on Sundays. It's the 
 
 ---
 
+Absolutely authentic, delicious Indian food. Can get a full meal meats and all for such a bargain!
+Loved the staff' hospitality. The little kick of nostalgia like I was sitting in one of my college campus canteens is a cherry on top.
+
+A true must visit!
+
+---
+
 Discovered that little spot as I was walking to Northern Quarter... The food is of good quality and you get a full plate for a really cheap price.
 
 ---
 
 Small shop nestled in an alley hiding a warm place with simplicity. Here we are welcomed by a team that will not fail to make you jokes and we serve you a Rice & Three curry. Cheap and delicious in addition!
+
+---
+
+Amazing food!!! Definitely coming back
 
 ---
 
@@ -3782,6 +4171,10 @@ Everything you want when it comes to great curry. No frills, no nonsense, just g
 
 ---
 
+This n that is an amazing Mancunian institution. The food is always delicious  and reasonably priced.
+
+---
+
 This & that is a real hidden gem, family run, delicious food (every time) and really cheap!
 
 ---
@@ -3799,6 +4192,10 @@ Excellent place for you to be able to get a meal..... fantastic food
 ---
 
 Great place.
+
+---
+
+A true gem! Great food and friendly staff! An incredible value.
 
 ---
 
@@ -3826,6 +4223,10 @@ Faster than a macdonalds, healthier than a macdonalds, cheaper than a macdonalds
 
 ---
 
+Great authentic food and incredible value for money.
+
+---
+
 Fantastic as always, dropped in Saturday evening with our daughters, we wanted to introduce one of their boyfriends to the delight that is our favourite place to eat in Manchester. See you all again soon.
 
 ---
@@ -3838,6 +4239,10 @@ Amazing food, lovely friendly people.
 
 ---
 
+Oh this might be the best budget friendly places to eat in the town. 10/10 food with big portions and the staff being nice as always
+
+---
+
 Belle trouvaille ! C est une cantine avec d excellents plats bien frais. Tout était bon de l agneau au lassi en passant par les samoussas. La serveuse a fait goûter à mon fils les plats pour qu il se décide et le patron ne nous a pas fait payer de surplus quand il en a repris parce qu il avait adoré ! Ne vous attendez pas à un endroit cosy mais l'ambiance est sympa avec beaucoup de travailleurs locaux qui viennent manger rapidement.
 
 ---
@@ -3847,6 +4252,10 @@ Simply Awsome! 👌🏻
 ---
 
 The best curry in Manchester good service quick and cheap you better go
+
+---
+
+They are exceptional. If you're in need of a balanced diet, they've got you covered.
 
 ---
 
@@ -3863,6 +4272,10 @@ What a great place! Located down an unlikely-looking back alley this restaurant 
 ---
 
 Amazing food, served by lovely people. So glad we found it tucked away. Do it.
+
+---
+
+No frills, all taste! Wonderful
 
 ---
 
@@ -3903,11 +4316,24 @@ Their rice & 3 curries was truly outstanding, the service was friendly and cheer
 
 ---
 
+A manchester classic. Great food, great value. My fave curry place in the city, as I'm sure many would agree!
+
+---
+
 Good food at a reasonable price and quick service
 
 ---
 
 A taste of real Indian food. Expect no frills but an authentic feel and delicious food. As for the price, this must be the best deal in town, a plate of rice and three curries for as little as £4.50, bargain!!
+
+---
+
+Amazing food and great value
+
+---
+
+I've had a lot worse for a lot more.
+Yes, quick, enjoyable and inexpensive.
 
 ---
 
@@ -3983,6 +4409,10 @@ Best curry in manni
 
 ---
 
+Rice & Three
+
+---
+
 Really a hidden gem! You wouldn’t notice it if you didn’t have the intention of finding it. Small place (I don’t imagine the outside has changed since the 80s!), basic set-up: you go up and get your rice and 3 main items. £7 for rice, 1 veg and 2 meats. Can put as many white onions, chillis and coriander on your plate as you like at the end. They also sell samosas, pakoras, naans etc. All really fresh and flavourful food - in particular I’d recommend the keema. Staff also had a smile on their face. Solid stuff, I intend to come back!
 
 ---
@@ -4007,6 +4437,10 @@ Been comign to this and that for so many years, love all it every time, great fo
 
 ---
 
+Yes! This place is quality. Value for money and great food
+
+---
+
 This place is just wonderful.
 
 ---
@@ -4024,6 +4458,10 @@ Superb canteen curry, no frills but great quality and cheap!
 ---
 
 Nice, great value, hidden gem.
+
+---
+
+I went to this and that for the first time last Sunday about 3pm. I had the lamb and spinach, chicken tikka, and vegetable with a  garlic naan and a portion of seekh kebab. It  was very tasty the curry were a bit spicy but not overpowering. The staff were very friendly and welcoming. I would definitely recommend it to anyone and I from Manchester - top class 🔥
 
 ---
 
@@ -4050,6 +4488,10 @@ Absolutely love this place. Getting my lunch here regularly because of its vicin
 ---
 
 Hats off for the food it was brilliant, highly recommend this place!!!
+
+---
+
+Heavy scran
 
 ---
 
@@ -4136,6 +4578,10 @@ Great!
 
 ---
 
+3 curries and rice, around £7. Sides available too. Brilliant home cooked Indian food. Fresh and tasty. No frills eating. Come every time we go into  town.
+
+---
+
 Class food
 
 ---
@@ -4145,6 +4591,10 @@ Great place for a curry
 ---
 
 Food is amazing, don't be put off by the location
+
+---
+
+I would give This & That six stars if I could. This place is in a time bubble That is all of its own making and long may it remain so. Reminiscent of the curry cafe’s of the late 70’s early 80’s with excellent super tasty ‘home cooked’ food that is cheaper than chips. An experience to behold that will not disappoint .
 
 ---
 
@@ -4161,6 +4611,10 @@ Literally the best-tasting curry in Manchester city center. Soup kitchen vibes g
 ---
 
 Honestly just perfect -  no fuss, incredible value good food.
+
+---
+
+After watching YouTube reviews from Jono at Only Scrans, and Gary Eats, we had to go check out This & That whilst on a trip to Band on the Wall. Wow it lived up to everything we hoped it would. The food was just incredible, and you just cannot complain on value for money. It's hard to believe that after visiting Manchester for over 30 years we'd never come across this gem, but we're now very glad we've found it. We'll be back for sure 😎👌
 
 ---
 
@@ -4320,6 +4774,10 @@ Great hidden treasure
 
 ---
 
+Manchester heritage
+
+---
+
 Great place. Down a little alley. Cheap and cheerful food. The curry is very mild. You're out of luck if you want hot and spicy.
 
 ---
@@ -4359,6 +4817,10 @@ Arguably the best curry I've ever had. Phenomenal value for money too! Thank you
 ---
 
 Excellent, excellent indian food!
+
+---
+
+You know you're in a great place when one of the owners sits down for a little chat with you. Came for dinner with a small group of friends & we all loved it. The food was excellent and you couldn't ask for better service.
 
 ---
 
@@ -4404,6 +4866,12 @@ Cheep and cheerful. Great food, self serve and quick. I always love coming here 
 
 ---
 
+Cheap and Taste good.
+So reasonable choice in Manchester.
+Curry rice, just 6£
+
+---
+
 Can't even begin to explain how good this was. You know it's good when people are queuing outside after 5 minutes
 
 ---
@@ -4417,6 +4885,10 @@ Fantastic canteen-style Indian cafe which is ridiculously cheap given the qualit
 ---
 
 The best Indian in Manchester hands down
+
+---
+
+Great food great value
 
 ---
 
@@ -4448,6 +4920,10 @@ One of the best in Manchester.
 
 ---
 
+One of the best in Manchester.
+
+---
+
 Lives up to the hype. We didn't get rice and three only because Nehari was on the menu so we got a full portion of that. Delicious. Got mango lassi too which was very affordable and hit the spot. Can't wait to go back. Staff very upbeat and chatty.
 
 ---
@@ -4460,7 +4936,17 @@ Tucked out of sight but was surprised to see many people eating there. Tried it 
 
 ---
 
+The food was very delicious, I ordered rice with three currys, lamb curry, saag and chicken curry.
+They don't take time to serve you, just got there ordered the food and with no time food was there to eat overall it was a good experience.
+Highly recommend if you are in Manchester and want to have food in less money then this place worthy of trying
+
+---
+
 What an amazing place ! I was hesitant at first but the food was authentic and very tasty. 🤤 The service was pleasant but the food was surprising tasty. Very reasonably priced , I would have paid more. Sorry pictures of empty plates because it was too delicious.
+
+---
+
+Very good service food is amazing
 
 ---
 
@@ -4521,6 +5007,11 @@ Great curry, good prices, super chill atmosphere. Good place to pit stop or esca
 
 ---
 
+I went back after 20 years and it's still as great as I remember it.
+No fuss and great taste for a very good price.
+
+---
+
 Been coming here for over a decade. There is always a queue because the food is always good. The people running this place are very kind and always happy to help.
 
 ---
@@ -4550,6 +5041,15 @@ Love this place for a quick cheep feed of yummy curry. Always 3 veggie options
 ---
 
 Popular for a reason. Accepts card too.
+
+---
+
+Best service ever!
+They are constanty coming at the table and asking if we want more food.
+
+---
+
+Love it! Very authentic Indian chicken and mutton curries (speaking as an Indian). The owner is super friendly and his staff is attentive. It’s like home cooked food which is always better. Their onion bhajis are so good it summons the rains! Would ALWAYS recommend 10/10!!!
 
 ---
 
@@ -4664,11 +5164,23 @@ Great place for a quick lunch. Good value.
 
 ---
 
+Cannot fault the price, great value and always filling.
+
+---
+
+Canteen style no frills food. Tasty and great value.
+
+---
+
 Been eating here for many many years excellent service excellent food highly recommended
 
 ---
 
 Cheap and tasty food. We spent no more than 5.5£ per person and we were full and satisfied. The dishes we tried: chicken curry, lamb karahi, chick peas, rice and onion baji. Everything was perfect except for the fact that the baji was at room temperature. Recommended.
+
+---
+
+Straightforward and simple, considering the affordable price, it's very tasty
 
 ---
 
@@ -4700,6 +5212,10 @@ I love this kind of mushy food!🤪 It’s so creamy. Any combination is excelle
 
 ---
 
+Someone on the internet said this place is a must-visit in Manchester. Yep, they are totally living up to the expectation. Everything is fast and cheap, and the food itself is very proper. Having a meal here is the best decision ever.
+
+---
+
 Fresh and delicious. Tastes like home cooking 😊
 
 ---
@@ -4723,6 +5239,10 @@ The food was great, very nice portions and friendly staff, the best curry I’ve
 ---
 
 First visit in over 20 years. If anything better
+
+---
+
+Basic. Great food. Better prices.
 
 ---
 
@@ -4787,6 +5307,10 @@ I haven't been to this place is years since I moved out of the country, but I co
 
 ---
 
+What a great place! Delicious, authentic food, awesome prices and very friendly staff. They even brought extra sauce for our daughters when they saw it's a bit spicy for them. We will definitely be back the next time when in Manchester!
+
+---
+
 The best rice and three curry cafe in Manchester.
 
 ---
@@ -4813,6 +5337,10 @@ Definition of cheap and cheerful, no frills Indian canteen. Really good food too
 ---
 
 The most economical and the best match to the desi taste buds!!!!!
+
+---
+
+Great indian food
 
 ---
 
@@ -4852,7 +5380,15 @@ Love this place. Food always great and very cheap. No messing around just go in,
 
 ---
 
+Can’t go wrong amazing food and decently priced
+
+---
+
 Can’t wait to visit again - so tasty, great service & amazing value. Superb 🥳
+
+---
+
+Good friendly and good  fabulous food
 
 ---
 
@@ -4861,6 +5397,10 @@ Do not walk past this place without ordering something
 ---
 
 Serves the best curries in the country at an absolute bargain of value for money.  I'll happily travel over from Liverpool just to come get some for lunch since the price is so cheap and the food is so good.
+
+---
+
+A highlight of our trip to Manchester. Very good food. Although there might be better "quality" Indian food out there, this place deserves 5 stars. Cheap, big plates and super friendly staff. Please visit this place if your'e in Manchester.
 
 ---
 
@@ -4888,6 +5428,10 @@ Best Indian food at an affordable rates with great customer service one of my fa
 
 ---
 
+If you're looking for amazing Indian curries, This & That is the best spot. Their "rice and 3 curries" deal is awesome, super flavorful, filling, and totally affordable! The dining room has a cool, relaxed feel, and the staff are always so welcoming. It's a true Manchester gem for great food that won't empty your wallet!
+
+---
+
 Absolutely delicious. Best quality food in Manchester on cheapest prices. Had Rice with two meat and vegetables and Mango Lassi. Great stuff.
 
 ---
@@ -4897,6 +5441,10 @@ Great quality sub-continental food, no fuss and at an affordable price. Would re
 ---
 
 This was so good that I forgot to take a photo before hand.
+
+---
+
+We recently moved to Manchester and stumbled upon this hidden gem that’s been serving authentic Indian curries for over 40 years. Everything was priced under £10 and tasted comforting yet flavourful. The staff were super nice, and will be keep coming back to it. 5 stars.
 
 ---
 
@@ -4933,7 +5481,15 @@ A Manchester institution. Great spot for casual dining. Portions are always gene
 
 ---
 
+Amazing curry - revivals Dishoom, nowhere near the same environment but the food is better and a quarter of the price
+
+---
+
 Felt like eating at home. Owner was very kind. Ismail bhai, thank you for your hospitality, we will see you some day in Jogeshwari :)
+
+---
+
+A fantastic little spot! The staff are genuinely friendly, and the menu is refreshingly straightforward, making it easy to find something satisfying. It’s incredible value for money. Perfect for a quick, delicious bite before a night out when you don’t want to break the bank. Tucked away in a great spot, it’s also wonderfully cozy if you’re dining solo. Every dish I had was fresh, piping hot, and full of flavor. Highly recommended!
 
 ---
 
@@ -4957,6 +5513,12 @@ Mate who used to go on Manchester pub crawls told me about *This & That* adding 
 Been eating there at least once a month since 1997 & the food is great. I was brought up on South Indian food but really prefer Gujarati or Punjabi style (don't tell my Ma!).
 The owner, Ishmael Malu, is a really nice guy and his son and staff too. Unfortunately, I called him Mr Alu for a long time before he gently corrected me (thought it was an odd name!).
 We don't have similar eating places here in Liverpool where the local *Indian* restaurants seem to cook for drunk people -This & That caters for hungry people. Try it!
+
+---
+
+I've been on Monday with my wife.
+Wonderful curry, nice staff, cozy local atmosphere.
+Try Lamb Pumplin and Mango Lassi.
 
 ---
 
