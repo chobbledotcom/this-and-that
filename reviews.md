@@ -17,8 +17,6 @@ _Last update: September 6, 2026_
 
 ---
 
----
-
 Great food, good prices.
 
 ---

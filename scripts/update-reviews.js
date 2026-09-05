@@ -121,8 +121,6 @@ subtitle: "We feel your love"
 
 _Last update: ${currentDate}_
 
----
-
 `;
 
   // Add reviews, newest first

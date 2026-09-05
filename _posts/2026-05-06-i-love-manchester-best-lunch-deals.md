@@ -5,7 +5,7 @@ metaTitle: "Best Lunch Deals in Manchester | This & That"
 source: https://ilovemanchester.com/best-lunch-deals-manchester
 ---
 
-![This & That](/assets/i-love-manchester-best-lunch-deals.jpg)
+![This & That](/assets/i-love-manchester-best-lunch-deals.webp)
 
 "Some lunch spots are not just places to eat. They are part of Manchester.
 

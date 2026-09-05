@@ -5,7 +5,7 @@ metaTitle: "The Best Cheap Eats in Manchester | This & That in Finest"
 source: https://www.manchestersfinest.com/manchester-guides/the-best-genuinely-cheap-eats-in-manchester/
 ---
 
-![This & That](/assets/manchesters-finest-cheap-eats-2026.jpg)
+![This & That](/assets/manchesters-finest-cheap-eats-2026.webp)
 
 **This & That's rice 'n' three from £6**
 
