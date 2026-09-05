@@ -6,7 +6,7 @@ const { execSync } = require('child_process');
 
 const REPO_URL = 'https://github.com/chobbledotcom/google-reviews-iframe.git';
 const TEMP_DIR = path.join(__dirname, '..', 'temp-reviews');
-const REVIEWS_DIR = path.join(TEMP_DIR, 'reviews', 'this-and-that');
+const REVIEWS_DIR = path.join(TEMP_DIR, 'data', 'this-and-that');
 const OUTPUT_FILE = path.join(__dirname, '..', 'reviews.md');
 
 // Blacklist of words that exclude reviews from being included
@@ -83,6 +83,20 @@ function formatReviewDate(timestamp) {
   });
 }
 
+function getCurrentFrontmatter() {
+  try {
+    const current = fs.readFileSync(OUTPUT_FILE, 'utf8');
+    const match = current.match(/^---\n[\s\S]*?\n---\n/);
+    if (match) {
+      const today = new Date().toISOString().split('T')[0];
+      return match[0].replace(/^updated: .*$/m, `updated: ${today}`);
+    }
+  } catch (error) {
+    // No existing reviews.md, fall back to default frontmatter
+  }
+  return null;
+}
+
 function generateReviewsMd(reviews) {
   const currentDate = new Date().toLocaleDateString('en-US', {
     year: 'numeric',
@@ -90,7 +104,7 @@ function generateReviewsMd(reviews) {
     day: 'numeric'
   });
 
-  let content = `---
+  const frontmatter = getCurrentFrontmatter() || `---
 layout: page
 cssClass: page--praise
 metaTitle: "Kind Words From Our Customers - Reviews of T&T"
@@ -98,7 +112,9 @@ permalink: /reviews/
 title: "Reviews of T&T"
 subtitle: "We feel your love"
 ---
+`;
 
+  let content = `${frontmatter}
 **Some of the kind words people have left on [our Google Maps listing](https://goo.gl/maps/xTNreANmJEz) over the years:**
 
 ❤️❤️❤️
