@@ -6,14 +6,14 @@ permalink: /reviews/
 title: "Reviews of T&T"
 subtitle: "We feel your love"
 metaDescription: "Hundreds of kind words from customers of This & That, Manchester’s favourite curry house on Soap St in the Northern Quarter. Read the reviews."
-updated: 2026-09-05
+updated: 2026-09-11
 ---
 
 **Some of the kind words people have left on [our Google Maps listing](https://goo.gl/maps/xTNreANmJEz) over the years:**
 
 ❤️❤️❤️
 
-_Last update: September 6, 2026_
+_Last update: September 11, 2026_
 
 ---
 
