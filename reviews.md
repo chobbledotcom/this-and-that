@@ -6,14 +6,14 @@ permalink: /reviews/
 title: "Reviews of T&T"
 subtitle: "We feel your love"
 metaDescription: "Hundreds of kind words from customers of This & That, Manchester’s favourite curry house on Soap St in the Northern Quarter. Read the reviews."
-updated: 2026-09-11
+updated: 2026-09-18
 ---
 
 **Some of the kind words people have left on [our Google Maps listing](https://goo.gl/maps/xTNreANmJEz) over the years:**
 
 ❤️❤️❤️
 
-_Last update: September 11, 2026_
+_Last update: September 18, 2026_
 
 ---
 
@@ -388,6 +388,10 @@ Thank you so very much you are a true gentleman.
 
 ---
 
+Great pffering but beware food is very spicy
+
+---
+
 not visited Manchester til you've had a rice n three from this place xx hehe
 
 ---
@@ -586,6 +590,16 @@ Lovely food and staff it's great when you cannot be asked cooking for 1 while hu
 ---
 
 Best hotel I ever ate in Manchester. It serves authentic Indian food.
+
+---
+
+Finally made it! After all those years of hearing about it, we finally were in the area to be able to eat the food.
+
+The food was lovely, I wouldn't go as far as saying it tasted the best, but for the price that I paid.... I think it was well worth it. The portion was great and it had a lot of flavour. Ugly delicious!
+
+Service was super efficient, and it definitely needs to be when you got a hundred people coming through the door every hour.
+
+Overall I'd come here again for some wholesome food and a small budget.
 
 ---
 
@@ -2032,6 +2046,10 @@ Super friendly, kind, and gentle staff, tons of delicious food, extremely good v
 ---
 
 Excellent curries, a 30- year old Northern Quarter legend for a good reason. There is a good selection of both vegetable and meat curries, with 3 curries on rice costing between 4-6£, it's value for money and absolutely delicious to boot. And the portions huge as well, what's not to love?! :))
+
+---
+
+10/10 no notes
 
 ---
 
