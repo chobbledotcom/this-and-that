@@ -6,14 +6,14 @@ permalink: /reviews/
 title: "Reviews of T&T"
 subtitle: "We feel your love"
 metaDescription: "Hundreds of kind words from customers of This & That, Manchester’s favourite curry house on Soap St in the Northern Quarter. Read the reviews."
-updated: 2026-09-18
+updated: 2026-09-25
 ---
 
 **Some of the kind words people have left on [our Google Maps listing](https://goo.gl/maps/xTNreANmJEz) over the years:**
 
 ❤️❤️❤️
 
-_Last update: September 18, 2026_
+_Last update: September 25, 2026_
 
 ---
 
@@ -46,6 +46,10 @@ Great little place that serves rice and curry.  Plenty of different choice of cu
 ---
 
 10/10 and such great value!
+
+---
+
+Been visiting this location for the last 40 years, amazing food always.
 
 ---
 
@@ -3001,6 +3005,10 @@ Amazing curries!
 ---
 
 A friend bought a lamb karai and a few extras from here , and gave me some to try. Omg.....just about the best curry I've ever eaten !!. Really succulent lamb , nicely spiced , and a hot naan. This is now my  'go to'  curry house when I'm in the Northern Quarter....which is weekly !. You can sit inside - which is quite basic , with bench seating , or get a take-out ( no deliveries unfortunately). Highly recommended by myself and everyone i know who has tried their food.
+
+---
+
+What a joy this is! Tasty good value food served in a relaxed canteen. It's a gem!
 
 ---
 
