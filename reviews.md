@@ -6,14 +6,14 @@ permalink: /reviews/
 title: "Reviews of T&T"
 subtitle: "We feel your love"
 metaDescription: "Hundreds of kind words from customers of This & That, Manchester’s favourite curry house on Soap St in the Northern Quarter. Read the reviews."
-updated: 2026-09-25
+updated: 2026-10-02
 ---
 
 **Some of the kind words people have left on [our Google Maps listing](https://goo.gl/maps/xTNreANmJEz) over the years:**
 
 ❤️❤️❤️
 
-_Last update: September 25, 2026_
+_Last update: October 2, 2026_
 
 ---
 
@@ -2370,6 +2370,10 @@ Consistent high quality food and cheap prices. Friendly service, too. Absolutely
 
 ---
 
+Recently took a friend from London here. Great place.
+
+---
+
 Hidden gem as other people have said, I've now been here a few times and have always found it to be friendly and welcoming, the concept is simple, choose two or three dishes, with rice. Everything is cooked fresh and is piping hot too, the spiced keema is really nice... Definitely one to recommend for a reasonably cheap meal out.
 
 ---
@@ -3749,11 +3753,19 @@ As for me, I thought £8 for the rice and three meat curries was excellent value
 
 ---
 
+Amazing rice & three cafe - unbelievable value at £6 for vege, or £8 for meat dishes
+
+---
+
 A hidden gem with lots of atmosphere. Tried This & That for the first time off recommendation and it certainly didn't disappoint. There's a charismatic feel to this place which feels quintessentially Mancunian. Highly recommend.
 
 ---
 
 Never disappoints. Rice and three veggie curries for £4.50 served with a smile. What more can I say! Fast food at its finest
+
+---
+
+Cheap nice food hidden gem hence it bein backstreet 😉
 
 ---
 
@@ -5421,6 +5433,10 @@ Do not walk past this place without ordering something
 ---
 
 Serves the best curries in the country at an absolute bargain of value for money.  I'll happily travel over from Liverpool just to come get some for lunch since the price is so cheap and the food is so good.
+
+---
+
+A highlight of our trip to Manchester. Very good food. Although there might be better "quality" Indian food out there, this place deserves 5 stars. Cheap, big plates and super friendly staff.
 
 ---
 
