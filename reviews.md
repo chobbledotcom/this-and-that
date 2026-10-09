@@ -6,14 +6,14 @@ permalink: /reviews/
 title: "Reviews of T&T"
 subtitle: "We feel your love"
 metaDescription: "Hundreds of kind words from customers of This & That, Manchester’s favourite curry house on Soap St in the Northern Quarter. Read the reviews."
-updated: 2026-10-02
+updated: 2026-10-09
 ---
 
 **Some of the kind words people have left on [our Google Maps listing](https://goo.gl/maps/xTNreANmJEz) over the years:**
 
 ❤️❤️❤️
 
-_Last update: October 2, 2026_
+_Last update: October 9, 2026_
 
 ---
 
@@ -778,6 +778,10 @@ We went to 'This & That's yesterday (Friday) at around 3pm - instantly welcomed 
 ---
 
 La vendedora de una tienda de ropa usada me recomendó este lugar al preguntarle por comida vegetariana y debo decir que al llegar a la calle pensé "¡qué callejón inmundo es este!", pero al entrar ya supe que estaba en el lugar correcto. Todos los currys son buenos, cambian todos los días y los precios son incomparables. Totalmente recomendable.
+
+---
+
+Really affordable food, variety in menu items daily, vegetarian available, comfort food
 
 ---
 
@@ -1957,6 +1961,11 @@ No fuss, no frills, great food
 ---
 
 Homely Indian food. Eat everyday!
+
+---
+
+Out of this world. I had rice and 3 curries like everyone else, doesn’t look like much but really amazing. Generous portions and
+I finished every last drop. Also had a plain naan but was too stuffed (in a good way) to finish it. I’d say defo focus on the rice + curries. Friendly service in a charming lil place by an alleyway. Brilliant.
 
 ---
 
