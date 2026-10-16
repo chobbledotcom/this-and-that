@@ -6,14 +6,14 @@ permalink: /reviews/
 title: "Reviews of T&T"
 subtitle: "We feel your love"
 metaDescription: "Hundreds of kind words from customers of This & That, Manchester’s favourite curry house on Soap St in the Northern Quarter. Read the reviews."
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 **Some of the kind words people have left on [our Google Maps listing](https://goo.gl/maps/xTNreANmJEz) over the years:**
 
 ❤️❤️❤️
 
-_Last update: October 9, 2026_
+_Last update: October 16, 2026_
 
 ---
 
@@ -526,6 +526,11 @@ Gotta say food is better here than most of restaurants I have ever tried! Really
 
 ---
 
+It was so good, and affordable and amazing.
+Exceptional food and staff
+
+---
+
 Absolutely fabulous! From the moment my friend and I walked in we were greeted with a warm welcome and a smile.  It was nearly closing time but that was not a problem to them at all.  We explained we had never been before and the lovely gentleman kindly said what they had to offer which was lamb mine curry, vegetable curry and chicken curry...... yes please!
 A younger gentleman with a huge smile said, please sit down ladies and we'll bring it over.
 Quickly or
@@ -651,7 +656,15 @@ We went this morning and had curry for our late breakfast!  It's great food and 
 
 ---
 
+Went today before the football.wonderful food and friendly atmosphere. Only problem with the place is they do not charge enough! Lovely place and will go every time I get chance now
+
+---
+
 Lovely Indian food
+
+---
+
+Bang for your buck here is absolutely unmatched. Incredible portion and price, and the food is excellent too. Only complaint is it could be hotter (was a bit lukewarm) but doesn’t really matter.
 
 ---
 
@@ -2535,6 +2548,10 @@ Visited here with my partner for food after shopping around town. We’d seen a 
 Now let’s talk food! The curries weren’t spicy enough for our taste, but they do have a self help onion, chilli and coriander bowel next to the till if you want to add more spice and flavouring. The lamb was really good and so was the chicken. Portions were big with a huge serving of rice underneath the curries. We also ordered vegetable samosas which were really good. However the garlic naan we ordered tasted funny with an artificial bright yellow colouring to it. We wouldn’t order it again and will opt for a plain naan.
 
 Overall it’s definitely my new go to curry spot after a busy day of shopping or work. It’s perfect solo, with a partner or with friends. There’s something for everyone.
+
+---
+
+曼彻斯特这家 This & That 印度咖喱店还挺有名的，藏在北区一条不起眼的小巷里，门面非常低调，甚至有点像员工食堂。主打的就是便宜又实惠的印度咖喱饭，可以自己搭配几种不同的咖喱，直接浇在米饭上，分量给得很足。卖相确实不怎么样，但味道还不错，而且价格在英国真的算很便宜了。我还点了一杯芒果拉西（Mango Lassi），搭配咖喱刚刚好。如果想在曼城找一顿便宜又能吃饱的午餐，这家可以试试。
 
 ---
 
@@ -4541,6 +4558,10 @@ Heavy scran
 ---
 
 You will probably think you turned down the wrong way and then you notice the door and in you go into a Manchester gem. Probably the best curry you will manage to find in the Northern Quarter if not the whole of Manchester. If you are visiting this has to be on your list. If you live here and haven't been, what's up with you? Go!  Food is delicious, service is amazing and you will be shocked at the price. Well worth the money.
+
+---
+
+Fantastic & affordable rice and 3. Curry's spiced beautifully, lamb and chicken succulent, breads soft fluffy and fresh from the Tandoor. Very affordable for a city centre location. Different menu day by day.
 
 ---
 
