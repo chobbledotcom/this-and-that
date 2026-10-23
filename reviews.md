@@ -6,14 +6,14 @@ permalink: /reviews/
 title: "Reviews of T&T"
 subtitle: "We feel your love"
 metaDescription: "Hundreds of kind words from customers of This & That, Manchester’s favourite curry house on Soap St in the Northern Quarter. Read the reviews."
-updated: 2026-10-16
+updated: 2026-10-23
 ---
 
 **Some of the kind words people have left on [our Google Maps listing](https://goo.gl/maps/xTNreANmJEz) over the years:**
 
 ❤️❤️❤️
 
-_Last update: October 16, 2026_
+_Last update: October 23, 2026_
 
 ---
 
@@ -22,6 +22,10 @@ Great food, good prices.
 ---
 
 Fsntasztikus választék, különleges halak.
+
+---
+
+Delicious south asian food at a great price. No complaints.
 
 ---
 
@@ -1726,6 +1730,11 @@ Cannot recommend enough if you are here. Definitely a hidden gem 💎
 
 ---
 
+Have heard so many good things about this legendary establishment so I wasn't disappointed when I finally got the chance to sample their tasty curries.
+Very generous portions. All in all great value and looking forward to.my next visit..
+
+---
+
 A Manchester institution, been coming here for over 15 years and never once had a bad meal. Just consistently fantastic food, simple and effective, no messing about. Eating in or taking away, love it.
 
 ---
@@ -2672,6 +2681,11 @@ Good value for money. The meal is huuuge as well. Definitely recommend!
 
 ---
 
+Tasty food and variety of curries for less than a tenner
+Always get it with some naan or chapati
+
+---
+
 Place is abit sketchy other than that food was amazing! Loved their lamb korma! Would definitely recommend!
 
 ---
@@ -3439,6 +3453,10 @@ EDIT: Went back next day and got a second plate it was marvelous
 
 ---
 
+One of the best places to eat in Manchester
+
+---
+
 Phenomenal food and even better people, treated us like we had known them for years, let us in as they were shutting and kept it open for us to finish. Couldn't ask for a better place for good and azingly cheap food.
 
 ---
@@ -3641,6 +3659,10 @@ Wir lieben dieses Restaurant und gehen immer hin, wenn wir in Manchester sind.
 ---
 
 Tasty food. Excellent value. Vegetarian / vegan options. Great ambience and you get your food in a flash. No nonsense. Highly recommended.
+
+---
+
+Great place, amazing food and even more amazing people
 
 ---
 
