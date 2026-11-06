@@ -6,14 +6,14 @@ permalink: /reviews/
 title: "Reviews of T&T"
 subtitle: "We feel your love"
 metaDescription: "Hundreds of kind words from customers of This & That, Manchester’s favourite curry house on Soap St in the Northern Quarter. Read the reviews."
-updated: 2026-10-30
+updated: 2026-11-06
 ---
 
 **Some of the kind words people have left on [our Google Maps listing](https://goo.gl/maps/xTNreANmJEz) over the years:**
 
 ❤️❤️❤️
 
-_Last update: October 30, 2026_
+_Last update: November 6, 2026_
 
 ---
 
@@ -488,6 +488,10 @@ Hidden in a run-down alley, you'll find this gem. Great food and helpful staff.
 ---
 
 Get the 3 curries. Ridiculously cheap price for ridulously tasty food.
+
+---
+
+Honestly a genuine and tasty place that always delivers and fills you well for a cheap price. Three vegan curries over rice for £6 is something that's always going to make me keep going.
 
 ---
 
@@ -1653,6 +1657,10 @@ Service 5 star
 ---
 
 Tried the Wednesday menu. Some of the best South Asian food I've eaten in recent memory (beware though, can be spicy for some)! The mango lassi and the garlic naan were both also delicious and highly recommended. Absolutely fantastic food and taste, at an incredible price and served with a smile and great attitude from the staff - thanks Mo and team! Excellent model of restaurant and I wish you another 40 years of success and beyond. What a hidden gem that I will forever recommend to everyone!
+
+---
+
+Amazing food and great value for money, with huge portions too. Staff were absolutely lovely, definitely recommend
 
 ---
 
@@ -3545,6 +3553,10 @@ Rice and 3 Curry's, hearty traditional meals, very tasty and affordable
 
 ---
 
+It’s one of best place to dine in city centre
+
+---
+
 Incredible place to stop to grab amazing Indian food. Though spicy, super tasty and cheap. Many vegetarian options, good stews, soft naan bread... to come back every week! Not only because of the food, but the service is notoriously kind and nice.
 
 ---
@@ -4985,6 +4997,10 @@ The culinary highlight of our Manchester trip. Was so good the first time we had
 ---
 
 Fantastic canteen-style Indian cafe which is ridiculously cheap given the quality of the food and friendliness of the staff. They also make dishes you won’t typically see on BIR menus - the highlight for me being an incredible liver and kidney curry.
+
+---
+
+10/10. Want a curry? Head here. Superb food, great atmosphere and, because it's canteen style, super quick. Quality and taste was brilliant. Highly highly recommend.
 
 ---
 
