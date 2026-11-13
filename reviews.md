@@ -6,14 +6,14 @@ permalink: /reviews/
 title: "Reviews of T&T"
 subtitle: "We feel your love"
 metaDescription: "Hundreds of kind words from customers of This & That, Manchester’s favourite curry house on Soap St in the Northern Quarter. Read the reviews."
-updated: 2026-11-06
+updated: 2026-11-13
 ---
 
 **Some of the kind words people have left on [our Google Maps listing](https://goo.gl/maps/xTNreANmJEz) over the years:**
 
 ❤️❤️❤️
 
-_Last update: November 6, 2026_
+_Last update: November 13, 2026_
 
 ---
 
@@ -374,6 +374,10 @@ the absolute best way to describe this place is - you know walking home you smel
 ---
 
 Had a great time here with friends during a day out in Manchester food was excellent staff were good and the owner is a great guy he gave us a bottle of water each and a extra portion for my mate free of charge 😀
+
+---
+
+Best curry in Manchester by a country mile
 
 ---
 
@@ -1783,6 +1787,10 @@ Amazing place highly recommend the food best place ever
 
 ---
 
+Tucked away down a little alleyway in the Northern Quarter, this place is a gem. Amazing, delicious 3 curries on rice for £6-£8. This place never disappoints.
+
+---
+
 Best back street food in the world
 
 ---
@@ -2016,6 +2024,10 @@ Authentic
 ---
 
 The most indistinctive curry house ever, but the food is delicious, and also this must be one of the cheapest places in Manchester.
+
+---
+
+Excellent low priced curry you can be on and out in half an hour. Legendary for a reason.
 
 ---
 
@@ -3366,6 +3378,10 @@ I have just had my first curry from This and That, It tasted so much I am very i
 
 ---
 
+Special place
+
+---
+
 Exceptional quality food. Cheap and filling.
 
 ---
@@ -3723,11 +3739,19 @@ Have been coming to This n That for 8 years now, and I can safely say it's the b
 
 ---
 
+Pure class
+
+---
+
 great staff great food
 
 ---
 
 Wonderful spot
+
+---
+
+Beautiful food at a great price. Would definitely come back here again!
 
 ---
 
@@ -4505,6 +4529,10 @@ Love the food love the service
 
 ---
 
+So gooooood! Me and my husband are visiting from Ireland and this is as good as it gets 🩷 so cheap as well and the food is so freshhh
+
+---
+
 One of the best 'rice and three' you will go to.
 
 ---
@@ -5070,6 +5098,10 @@ Very good service food is amazing
 
 ---
 
+The place is amazing and people working there are even more great, they served amazing food with grat hospitality, very humble and helping.<br>Indians do visit this place for homely food and comfort food.
+
+---
+
 Really good Indian Food, defo recommend, quiet spicy but that’s what you would expect from an authentic place. Staff was really friendly as well and price very reasonable!!
 
 ---
@@ -5488,6 +5520,10 @@ Definitely a hidden Manchester gem.
 
 ---
 
+One of the few places in Manchester I can still call home.
+
+---
+
 No waiting, treated well and the food was as good as it gets. Well worth a visit. Will definitely be coming here more often.
 
 ---
@@ -5533,6 +5569,10 @@ Food is always excellent here, good value and friendly staff
 ---
 
 First time - friendly staff, great service and delicious food. Thank you.
+
+---
+
+I highly recommend the Rice and Three. The dishe is made with fresh ingredients that depend on the day's deliveries, which makes the food feel authentic and homemade. At only £6, it's unbeatable value for money. The rice was perfectly cooked, and I chose dal, chicken curry, and lamb curry. The meat was tender, well-cooked, flavorful, and packed with taste. Everything was delicious and full of authentic flavors.
 
 ---
 
